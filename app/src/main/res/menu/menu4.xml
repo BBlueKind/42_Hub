@@ -7,64 +7,13 @@
     <item
         android:id="@+id/nav_home"
         android:icon="@drawable/ic_home"
-        android:title="Home" />
-    <item
-        android:title="Locations" >
-        <menu>
+        android:title="Dashboard" />
     <item
         android:id="@+id/nav_alain"
         android:icon="@drawable/ic_city"
-        android:title="Al Ain Mall" />
+        android:title="Events" />
     <item
         android:id="@+id/nav_capital"
-        android:icon="@drawable/ic_city"
-        android:title="Capital Mall" />
-        </menu>
-    </item>
-    <item
-        android:title="Categories" >
-        <menu>
-            <item
-                android:id="@+id/nav_offers"
-                android:icon="@drawable/ic_offers"
-                android:title="Offers" />
-            <item
-                android:id="@+id/nav_birthdays"
-                android:icon="@drawable/ic__bdaycake"
-                android:title="Birthdays" />
-            <item
-                android:id="@+id/nav_tix"
-                android:icon="@drawable/ic_tickets"
-                android:title="TIX" />
-            <item
-                android:id="@+id/nav_arcade"
-                android:icon="@drawable/ic_arcade"
-                android:title="Arcade" />
-            <item
-                android:id="@+id/nav_rides"
-                android:icon="@drawable/ic_rides"
-                android:title="Rides" />
-        </menu>
-    </item>
-    <item
-        android:title="Communication" >
-        <menu>
-            <item
-                android:id="@+id/nav_instagram"
-                android:title="Instagram"
-                android:icon="@drawable/ic_instagram"/>
-            <item
-                android:id="@+id/nav_facebook"
-                android:icon="@drawable/ic_facebook1"
-                android:title="FaceBook" />
-            <item
-                android:id="@+id/nav_whatsapp"
-                android:icon="@drawable/ic_whatsapp1"
-                android:title="Whats App" />
-            <item
-                android:id="@+id/nav_report"
-                android:icon="@drawable/ic_bug"
-                android:title="Report A Bug" />
-        </menu>
-    </item>
+        android:icon="@drawable/food_icon"
+        android:title="Todays Food" />
 </menu>
