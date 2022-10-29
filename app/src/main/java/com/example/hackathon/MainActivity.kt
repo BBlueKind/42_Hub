@@ -1,25 +1,24 @@
 package com.example.hackathon
 
 import android.annotation.SuppressLint
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.view.Window
 import android.view.WindowManager
-import android.view.View
-import android.widget.Button
+import android.widget.TextView
+import android.widget.Toast
 import androidx.appcompat.app.ActionBarDrawerToggle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.drawerlayout.widget.DrawerLayout
 import com.denzcoskun.imageslider.ImageSlider
 import com.denzcoskun.imageslider.constants.ScaleTypes
 import com.denzcoskun.imageslider.models.SlideModel
 import com.google.android.material.navigation.NavigationView
+import com.google.gson.Gson
+import com.google.gson.GsonBuilder
 import de.hdodenhof.circleimageview.CircleImageView
-import org.jetbrains.anko.doAsync
-import java.io.BufferedReader
-import java.io.InputStreamReader
-import java.net.HttpURLConnection
-import java.net.URL
+import retrofit2.Call
+import retrofit2.Callback
+import retrofit2.Retrofit
 
 class MainActivity : AppCompatActivity() {
 
@@ -59,6 +58,9 @@ class MainActivity : AppCompatActivity() {
         soso1.setOnClickListener {
             drawerLayout.openDrawer(navView)
         }
+        var textViewResult = findViewById<TextView>(R.id.textView3)
+        GetInfo().reqUserInfo(textViewResult)
+        //Toast.makeText(this, test, Toast.LENGTH_LONG).show()
 
     }
 }
