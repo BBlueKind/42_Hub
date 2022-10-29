@@ -4,11 +4,11 @@ const auth_payload = {
 	grant_type: 'authorization_code',
     client_id: process.env.INTRA_KEY,
     client_secret: process.env.INTRA_SECRET,
-	scope: process.env.INTRA_SCOPE
+	scope: process.env.INTRA_SCOPE,
+	redirect_uri: process.env.INTRA_REDIRECT_URI
 };
 
 async function authenticate(payload) {
-	console.log('payload', payload);
     let token = await intraConfig.auth(payload);
     if (token === undefined || token['error']) {
 		console.log('token', token);
@@ -31,7 +31,6 @@ module.exports = authController = {
         if (code !== undefined) {
             let payload = auth_payload;
             payload.code = code;
-			payload.redirect_uri = "https://www.example.com/mainactivity"
             let response = await authenticate(payload);
             res.status(200).send(response);
             return;

@@ -5,6 +5,6 @@ module.exports = (app) => {
     app.route("/").get(controller.getAbout);
     app.route("/about").get(controller.getAbout);
     
-    // Getting all exam seats
+	// Profile
     app.route("/profile").get(controller.getProfile);
 };
