@@ -4,6 +4,7 @@ import android.app.Activity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+<<<<<<< HEAD
 import android.os.Handler
 import android.view.View
 import android.view.Window
@@ -20,6 +21,10 @@ import com.google.zxing.integration.android.IntentIntegrator
 import com.google.zxing.integration.android.IntentResult
 import de.hdodenhof.circleimageview.CircleImageView
 import java.util.ArrayList
+=======
+import android.view.Window
+import android.view.WindowManager
+>>>>>>> origin/Hadi
 
 class CafeteriaActivity : AppCompatActivity() {
 
@@ -33,7 +38,10 @@ class CafeteriaActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/Hadi
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         this.window.setFlags(
             WindowManager.LayoutParams.FLAG_FULLSCREEN,
