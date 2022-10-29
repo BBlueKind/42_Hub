@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 com.example.hackathon:styleable/AppBarLayout_Layout = 0x7f13000c
 com.example.hackathon:styleable/KeyTimeCycle = 0x7f130049
 com.example.hackathon:style/ThemeOverlay.MaterialComponents.TextInputEditText.OutlinedBox = 0x7f1202b1
@@ -179,10 +180,186 @@ com.example.hackathon:attr/singleSelection = 0x7f0303a5
 com.example.hackathon:color/m3_elevated_chip_background_color = 0x7f050086
 com.example.hackathon:styleable/MenuItem = 0x7f130063
 com.example.hackathon:color/m3_ref_palette_dynamic_tertiary30 = 0x7f0500d2
+=======
+com.example.hackathon:style/ThemeOverlay.MaterialComponents.TextInputEditText.FilledBox.Dense = 0x7f1202b0
+com.example.hackathon:style/ThemeOverlay.MaterialComponents.TextInputEditText.OutlinedBox = 0x7f1202b1
+com.example.hackathon:styleable/ActionBar = 0x7f130000
+com.example.hackathon:style/Widget.AppCompat.PopupMenu = 0x7f1202ee
+com.example.hackathon:style/Theme.AppCompat.Light = 0x7f1201f8
+com.example.hackathon:styleable/Constraint = 0x7f130027
+com.example.hackathon:style/ThemeOverlay.Material3.ExtendedFloatingActionButton.Primary = 0x7f120275
+com.example.hackathon:style/Widget.Material3.Snackbar.TextView = 0x7f12038e
+com.example.hackathon:style/Widget.MaterialComponents.AutoCompleteTextView.OutlinedBox = 0x7f1203ac
+com.example.hackathon:styleable/AppCompatTextView = 0x7f130011
+com.example.hackathon:style/MaterialAlertDialog.MaterialComponents.Title.Panel.CenterStacked = 0x7f120121
+com.example.hackathon:drawable/events_food_feedback_box_view = 0x7f07012a
+com.example.hackathon:style/Widget.MaterialComponents.Light.ActionBar.Solid = 0x7f1203d5
+com.example.hackathon:style/Widget.AppCompat.SearchView.ActionBar = 0x7f1202f7
+com.example.hackathon:styleable/KeyTimeCycle = 0x7f130049
+com.example.hackathon:style/Widget.Design.TextInputEditText = 0x7f12030d
+com.example.hackathon:string/library_zxingandroidembedded_licenseId = 0x7f11003d
+com.example.hackathon:style/Widget.MaterialComponents.TimePicker.Button = 0x7f120411
+com.example.hackathon:drawable/material_ic_menu_arrow_up_black_24dp = 0x7f0700df
+com.example.hackathon:style/Base.ThemeOverlay.Material3.BottomSheetDialog = 0x7f120075
+com.example.hackathon:styleable/MaterialButton = 0x7f130053
+com.example.hackathon:style/Base.TextAppearance.AppCompat.Medium = 0x7f120021
+com.example.hackathon:style/Widget.MaterialComponents.NavigationRailView.Colored = 0x7f1203f1
+com.example.hackathon:style/Widget.MaterialComponents.Snackbar = 0x7f1203fd
+com.example.hackathon:style/Widget.MaterialComponents.ExtendedFloatingActionButton.Icon = 0x7f1203d3
+com.example.hackathon:style/Base.Widget.Material3.Chip = 0x7f1200f0
+com.example.hackathon:style/MaterialAlertDialog.Material3.Title.Panel.CenterStacked = 0x7f120117
+com.example.hackathon:style/Widget.Material3.Snackbar.FullWidth = 0x7f12038d
+com.example.hackathon:styleable/MenuView = 0x7f130064
+com.example.hackathon:style/Widget.Material3.FloatingActionButton.Large.Tertiary = 0x7f120358
+com.example.hackathon:style/Theme.MaterialComponents.Light.Dialog = 0x7f120241
+com.example.hackathon:style/Widget.Design.ScrimInsetsFrameLayout = 0x7f12030a
+com.example.hackathon:style/Widget.MaterialComponents.MaterialCalendar.Day = 0x7f1203d9
+com.example.hackathon:styleable/AppBarLayout_Layout = 0x7f13000c
+com.example.hackathon:styleable/AppCompatTextHelper = 0x7f130010
+com.example.hackathon:style/TextAppearance.MaterialComponents.Overline = 0x7f1201e2
+com.example.hackathon:xml/backup_rules = 0x7f140000
+com.example.hackathon:style/Widget.MaterialComponents.LinearProgressIndicator = 0x7f1203d6
+com.example.hackathon:style/Theme.Material3.DayNight.Dialog.Alert = 0x7f120211
+com.example.hackathon:style/ShapeAppearanceOverlay.MaterialComponents.Chip = 0x7f120169
+com.example.hackathon:style/ThemeOverlay.Material3.HarmonizedColors.Empty = 0x7f12027e
+com.example.hackathon:style/Theme.MaterialComponents.Dialog.Alert.Bridge = 0x7f120235
+com.example.hackathon:macro/m3_comp_extended_fab_tertiary_container_color = 0x7f0c0009
+com.example.hackathon:style/Base.TextAppearance.AppCompat.Subhead.Inverse = 0x7f12002a
+com.example.hackathon:style/Base.V21.Theme.MaterialComponents.Dialog = 0x7f120097
+com.example.hackathon:style/Widget.Material3.Button.TextButton.Dialog = 0x7f12032a
+com.example.hackathon:style/Theme.MaterialComponents.DayNight.Dialog.Alert = 0x7f120229
+com.example.hackathon:layout/abc_action_mode_close_item_material = 0x7f0b0005
+com.example.hackathon:style/Widget.MaterialComponents.AutoCompleteTextView.OutlinedBox.Dense = 0x7f1203ad
+com.example.hackathon:style/Widget.Material3.Button.TextButton.Dialog.Icon = 0x7f12032c
+com.example.hackathon:style/ThemeOverlay.MaterialComponents.MaterialAlertDialog.Picker.Date.Spinner = 0x7f1202ab
+com.example.hackathon:style/Base.Widget.AppCompat.ActionButton.CloseMode = 0x7f1200b8
+com.example.hackathon:integer/mtrl_calendar_header_orientation = 0x7f090038
+com.example.hackathon:style/Widget.MaterialComponents.ActionBar.Surface = 0x7f1203a5
+com.example.hackathon:style/ThemeOverlay.MaterialComponents.MaterialAlertDialog.Picker.Date.Header.Text = 0x7f1202a9
+com.example.hackathon:dimen/hint_pressed_alpha_material_dark = 0x7f060099
+com.example.hackathon:styleable/LinearProgressIndicator = 0x7f13004e
+com.example.hackathon:menu/menu = 0x7f0d0000
+com.example.hackathon:style/Widget.Material3.Button.IconButton = 0x7f120323
+com.example.hackathon:style/Widget.Material3.Chip.Input.Elevated = 0x7f12033b
+com.example.hackathon:styleable/GridLayout = 0x7f13003e
+com.example.hackathon:style/Widget.AppCompat.ActionMode = 0x7f1202c1
+com.example.hackathon:string/abc_searchview_description_voice = 0x7f110018
+com.example.hackathon:id/textinput_error = 0x7f0801ed
+com.example.hackathon:styleable/ThemeEnforcement = 0x7f130090
+com.example.hackathon:string/bottom_sheet_behavior = 0x7f110020
+com.example.hackathon:style/Widget.MaterialComponents.CompoundButton.Switch = 0x7f1203d1
+com.example.hackathon:string/mtrl_picker_save = 0x7f110081
+com.example.hackathon:style/Base.TextAppearance.AppCompat.Display4 = 0x7f12001a
+com.example.hackathon:styleable/NavigationBarActiveIndicator = 0x7f13006d
+com.example.hackathon:style/Widget.MaterialComponents.MaterialCalendar.Year = 0x7f1203eb
+com.example.hackathon:id/message = 0x7f080126
+com.example.hackathon:style/Widget.MaterialComponents.Button.TextButton.Dialog = 0x7f1203bc
+com.example.hackathon:style/Widget.Material3.Toolbar.Surface = 0x7f1203a0
+com.example.hackathon:styleable/MotionEffect = 0x7f130067
+com.example.hackathon:style/Widget.MaterialComponents.Chip.Action = 0x7f1203c5
+com.example.hackathon:id/mtrl_card_checked_layer_id = 0x7f080139
+com.example.hackathon:drawable/todays_food_student = 0x7f070129
+com.example.hackathon:styleable/SnackbarLayout = 0x7f130081
+com.example.hackathon:layout/material_clock_period_toggle = 0x7f0b003e
+com.example.hackathon:style/Widget.MaterialComponents.TimePicker.Display = 0x7f120413
+com.example.hackathon:style/Base.TextAppearance.AppCompat.Large = 0x7f12001d
+com.example.hackathon:style/Theme.MaterialComponents.Light.DialogWhenLarge = 0x7f120249
+com.example.hackathon:string/material_motion_easing_emphasized = 0x7f110052
+com.example.hackathon:macro/m3_sys_motion_path = 0x7f0c0045
+com.example.hackathon:style/Widget.AppCompat.Button.ButtonBar.AlertDialog = 0x7f1202c7
+com.example.hackathon:styleable/RangeSlider = 0x7f130077
+com.example.hackathon:string/material_timepicker_am = 0x7f110057
+com.example.hackathon:styleable/MaterialCalendarItem = 0x7f130056
+com.example.hackathon:layout/mtrl_navigation_rail_item = 0x7f0b005c
+com.example.hackathon:styleable/View = 0x7f130096
+com.example.hackathon:style/Theme.Material3.DayNight.DialogWhenLarge = 0x7f120213
+com.example.hackathon:styleable/MotionLabel = 0x7f130069
+com.example.hackathon:style/Theme.AppCompat.Empty = 0x7f1201f7
+com.example.hackathon:style/Theme.MaterialComponents.DayNight.NoActionBar.Bridge = 0x7f120232
+com.example.hackathon:style/ThemeOverlay.Material3.Dark.ActionBar = 0x7f12026d
+com.example.hackathon:style/Theme.MaterialComponents.BottomSheetDialog = 0x7f120220
+com.example.hackathon:style/TextAppearance.M3.Sys.Typescale.TitleMedium = 0x7f1201c2
+com.example.hackathon:style/Widget.AppCompat.Light.ActionButton.CloseMode = 0x7f1202dd
+com.example.hackathon:style/Theme.MaterialComponents.Dialog = 0x7f120233
+com.example.hackathon:id/action_mode_bar = 0x7f080041
+com.example.hackathon:string/material_motion_easing_linear = 0x7f110053
+com.example.hackathon:styleable/MotionTelltales = 0x7f13006c
+com.example.hackathon:style/Widget.MaterialComponents.Chip.Choice = 0x7f1203c6
+com.example.hackathon:style/Widget.Material3.Toolbar.OnSurface = 0x7f12039f
+com.example.hackathon:style/Base.Theme.Material3.Dark = 0x7f120054
+com.example.hackathon:styleable/TextEffects = 0x7f13008d
+com.example.hackathon:macro/m3_sys_shape_corner_full_family = 0x7f0c0048
+com.example.hackathon:style/Theme.Material3.Light.Dialog.Alert = 0x7f12021b
+com.example.hackathon:string/abc_capital_on = 0x7f110008
+com.example.hackathon:style/Widget.AppCompat.Light.ActionBar.TabView.Inverse = 0x7f1202db
+com.example.hackathon:style/Theme.MaterialComponents.CompactMenu = 0x7f120222
+com.example.hackathon:style/Widget.MaterialComponents.TimePicker.Display.TextInputEditText = 0x7f120416
+com.example.hackathon:style/Base.Widget.MaterialComponents.PopupMenu.ListPopupWindow = 0x7f120107
+com.example.hackathon:id/webview = 0x7f080214
+com.example.hackathon:style/ThemeOverlay.MaterialComponents.MaterialAlertDialog = 0x7f1202a5
+com.example.hackathon:string/abc_action_bar_home_description = 0x7f110001
+com.example.hackathon:string/mtrl_picker_date_header_selected = 0x7f110072
+com.example.hackathon:style/Widget.MaterialComponents.TimePicker.Clock = 0x7f120412
+com.example.hackathon:styleable/FlowLayout = 0x7f130036
+com.example.hackathon:style/Base.Widget.AppCompat.SearchView.ActionBar = 0x7f1200e3
+com.example.hackathon:style/Widget.Material3.MaterialCalendar.DayTextView = 0x7f120369
+com.example.hackathon:id/checkbox = 0x7f080075
+com.example.hackathon:layout/activity_footywaiting = 0x7f0b007f
+com.example.hackathon:styleable/OnSwipe = 0x7f130072
+com.example.hackathon:style/Theme.Material3.DayNight.Dialog.MinWidth = 0x7f120212
+com.example.hackathon:style/Widget.MaterialComponents.BottomNavigationView.Colored = 0x7f1203b3
+com.example.hackathon:layout/notification_action = 0x7f0b0067
+com.example.hackathon:dimen/design_snackbar_elevation = 0x7f060082
+com.example.hackathon:id/stretch = 0x7f0801c8
+com.example.hackathon:id/activity_chooser_view_content = 0x7f080046
+com.example.hackathon:style/Base.TextAppearance.AppCompat.Button = 0x7f120015
+com.example.hackathon:drawable/abc_ic_menu_share_mtrl_alpha = 0x7f070047
+com.example.hackathon:styleable/RadialViewGroup = 0x7f130076
+com.example.hackathon:dimen/mtrl_calendar_selection_text_baseline_to_top = 0x7f0601de
+com.example.hackathon:macro/m3_comp_switch_unselected_pressed_state_layer_color = 0x7f0c003a
+com.example.hackathon:style/TextAppearance.AppCompat.Widget.ActionBar.Menu = 0x7f12018d
+com.example.hackathon:style/Base.Widget.Design.TabLayout = 0x7f1200ec
+com.example.hackathon:color/m3_elevated_chip_background_color = 0x7f050086
+com.example.hackathon:attr/singleSelection = 0x7f0303a5
+com.example.hackathon:id/imageView13 = 0x7f08022b
+com.example.hackathon:style/Widget.Material3.ExtendedFloatingActionButton.Icon.Primary = 0x7f12034d
+com.example.hackathon:drawable/ic_contact = 0x7f0700ab
+com.example.hackathon:style/MaterialAlertDialog.MaterialComponents.Title.Icon.CenterStacked = 0x7f12011f
+com.example.hackathon:style/Base.Theme.AppCompat.CompactMenu = 0x7f120047
+com.example.hackathon:drawable/events_football = 0x7f070125
+com.example.hackathon:style/MaterialAlertDialog.MaterialComponents.Title.Icon = 0x7f12011e
+com.example.hackathon:id/horizontal = 0x7f0800dc
+com.example.hackathon:style/TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse = 0x7f120195
+com.example.hackathon:styleable/CollapsingToolbarLayout = 0x7f130023
+com.example.hackathon:layout/abc_action_bar_title_item = 0x7f0b0000
+com.example.hackathon:style/ThemeOverlay.Material3.MaterialTimePicker.Display.TextInputEditText = 0x7f120287
+com.example.hackathon:styleable/AppCompatImageView = 0x7f13000e
+com.example.hackathon:style/Widget.Material3.Button.TextButton.Dialog.Flush = 0x7f12032b
+com.example.hackathon:dimen/m3_chip_elevated_elevation = 0x7f0600e6
+com.example.hackathon:styleable/KeyAttribute = 0x7f130043
+com.example.hackathon:id/fitXY = 0x7f0800c5
+com.example.hackathon:attr/actionTextColorAlpha = 0x7f030024
+com.example.hackathon:style/Theme.AppCompat.DayNight.DialogWhenLarge = 0x7f1201f1
+com.example.hackathon:style/Widget.AppCompat.CompoundButton.RadioButton = 0x7f1202cd
+com.example.hackathon:dimen/mtrl_card_checked_icon_size = 0x7f0601e8
+com.example.hackathon:style/ThemeOverlay.Material3.DynamicColors.DayNight = 0x7f120273
+com.example.hackathon:macro/m3_comp_extended_fab_tertiary_icon_color = 0x7f0c000a
+com.example.hackathon:style/Widget.MaterialComponents.MaterialCalendar.Fullscreen = 0x7f1203df
+com.example.hackathon:style/RtlUnderlay.Widget.AppCompat.ActionButton.Overflow = 0x7f120142
+com.example.hackathon:color/mtrl_switch_thumb_icon_tint = 0x7f050237
+com.example.hackathon:style/ThemeOverlay.MaterialComponents.Dark = 0x7f12029d
+com.example.hackathon:styleable/AnimatedStateListDrawableItem = 0x7f130008
+com.example.hackathon:styleable/ClockFaceView = 0x7f130021
+com.example.hackathon:style/ThemeOverlay.MaterialComponents.MaterialAlertDialog.Picker.Date.Calendar = 0x7f1202a8
+com.example.hackathon:macro/m3_comp_switch_unselected_hover_icon_color = 0x7f0c0033
+com.example.hackathon:style/Widget.Design.NavigationView = 0x7f120309
+com.example.hackathon:style/AlertDialog.AppCompat = 0x7f120000
+>>>>>>> origin/Bilal
 com.example.hackathon:style/MaterialAlertDialog.Material3.Body.Text = 0x7f120112
 com.example.hackathon:style/Widget.Material3.TextInputLayout.OutlinedBox.ExposedDropdownMenu = 0x7f12039d
 com.example.hackathon:style/Widget.AppCompat.ListPopupWindow = 0x7f1202ea
 com.example.hackathon:style/Widget.Material3.CollapsingToolbar.Medium = 0x7f120347
+<<<<<<< HEAD
 com.example.hackathon:style/Theme.AppCompat.Light = 0x7f1201f8
 com.example.hackathon:styleable/ViewBackgroundHelper = 0x7f130097
 com.example.hackathon:attr/motionPathRotate = 0x7f03031b
@@ -198,6 +375,42 @@ com.example.hackathon:dimen/mtrl_switch_text_padding = 0x7f060240
 com.example.hackathon:styleable/KeyTrigger = 0x7f13004a
 com.example.hackathon:macro/m3_comp_switch_unselected_pressed_icon_color = 0x7f0c0039
 com.example.hackathon:style/ShapeAppearanceOverlay.MaterialAlertDialog.Material3 = 0x7f120167
+=======
+com.example.hackathon:styleable/MenuItem = 0x7f130063
+com.example.hackathon:color/m3_ref_palette_dynamic_tertiary30 = 0x7f0500d2
+com.example.hackathon:layout/mtrl_layout_snackbar_include = 0x7f0b005b
+com.example.hackathon:color/abc_tint_edittext = 0x7f050015
+com.example.hackathon:style/Base.Theme.AppCompat.Light.Dialog.FixedSize = 0x7f120051
+com.example.hackathon:style/TextAppearance.AppCompat.Widget.Button.Borderless.Colored = 0x7f120197
+com.example.hackathon:style/Theme.MaterialComponents.NoActionBar = 0x7f12024c
+com.example.hackathon:style/Widget.Material3.CircularProgressIndicator = 0x7f120341
+com.example.hackathon:layout/activity_movie_feedback = 0x7f0b0082
+com.example.hackathon:color/m3_ref_palette_secondary80 = 0x7f050118
+com.example.hackathon:attr/subMenuArrow = 0x7f0303cb
+com.example.hackathon:style/Widget.AppCompat.ListView = 0x7f1202eb
+com.example.hackathon:style/Widget.Material3.MaterialDivider.Heavy = 0x7f12037a
+com.example.hackathon:string/mtrl_picker_out_of_range = 0x7f11007b
+com.example.hackathon:id/x_right = 0x7f08021d
+com.example.hackathon:style/Widget.AppCompat.ActivityChooserView = 0x7f1202c2
+com.example.hackathon:style/Widget.MaterialComponents.Button.UnelevatedButton.Icon = 0x7f1203c2
+com.example.hackathon:style/Widget.Design.BottomNavigationView = 0x7f120305
+com.example.hackathon:styleable/MotionLayout = 0x7f13006a
+com.example.hackathon:style/Platform.AppCompat.Light = 0x7f120125
+com.example.hackathon:styleable/Tooltip = 0x7f130092
+com.example.hackathon:dimen/mtrl_calendar_day_horizontal_padding = 0x7f0601c4
+com.example.hackathon:style/ThemeOverlay.Material3.MaterialAlertDialog.Centered = 0x7f120282
+com.example.hackathon:color/bright_foreground_disabled_material_light = 0x7f050023
+com.example.hackathon:styleable/KeyTrigger = 0x7f13004a
+com.example.hackathon:macro/m3_comp_switch_unselected_pressed_icon_color = 0x7f0c0039
+com.example.hackathon:style/ShapeAppearanceOverlay.MaterialAlertDialog.Material3 = 0x7f120167
+com.example.hackathon:style/Base.Widget.MaterialComponents.MaterialCalendar.HeaderToggleButton = 0x7f120103
+com.example.hackathon:dimen/mtrl_switch_text_padding = 0x7f060240
+com.example.hackathon:style/Theme.Material3.DayNight = 0x7f12020e
+com.example.hackathon:integer/m3_sys_motion_duration_600 = 0x7f09001a
+com.example.hackathon:dimen/m3_sys_motion_easing_emphasized_decelerate_control_y2 = 0x7f06014a
+com.example.hackathon:string/mtrl_picker_text_input_date_range_end_hint = 0x7f110083
+com.example.hackathon:id/tag_state_description = 0x7f0801d6
+>>>>>>> origin/Bilal
 com.example.hackathon:styleable/NavigationBarView = 0x7f13006e
 com.example.hackathon:style/Base.Theme.AppCompat.Light = 0x7f12004d
 com.example.hackathon:id/search_button = 0x7f080197
@@ -208,6 +421,10 @@ com.example.hackathon:style/Widget.MaterialComponents.AutoCompleteTextView.Outli
 com.example.hackathon:drawable/mtrl_ic_arrow_drop_down = 0x7f0700ef
 com.example.hackathon:styleable/MaterialCheckBoxStates = 0x7f130059
 com.example.hackathon:style/Widget.Material3.FloatingActionButton.Small.Surface = 0x7f12035d
+<<<<<<< HEAD
+=======
+com.example.hackathon:drawable/mtrl_ic_arrow_drop_down = 0x7f0700ee
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Widget.Material3.FloatingActionButton.Secondary = 0x7f12035a
 com.example.hackathon:style/ThemeOverlay.MaterialComponents.Dialog.Alert = 0x7f1202a1
 com.example.hackathon:drawable/abc_popup_background_mtrl_mult = 0x7f070059
@@ -218,8 +435,16 @@ com.example.hackathon:style/Theme.MaterialComponents.DayNight.DialogWhenLarge = 
 com.example.hackathon:style/ThemeOverlay.MaterialAlertDialog.Material3.Title.Icon = 0x7f120290
 com.example.hackathon:dimen/m3_badge_with_text_vertical_offset = 0x7f0600b2
 com.example.hackathon:style/Widget.MaterialComponents.ActionBar.Solid = 0x7f1203a4
+<<<<<<< HEAD
 com.example.hackathon:drawable/default_unselected_dot = 0x7f07008c
 com.example.hackathon:style/Theme.MaterialComponents.DayNight.Bridge = 0x7f120225
+=======
+com.example.hackathon:style/Theme.MaterialComponents.DayNight.Bridge = 0x7f120225
+com.example.hackathon:drawable/default_unselected_dot = 0x7f07008b
+com.example.hackathon:style/Widget.Material3.CheckedTextView = 0x7f120335
+com.example.hackathon:color/material_dynamic_secondary0 = 0x7f0501d5
+com.example.hackathon:drawable/events_football_waitinglist = 0x7f070126
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Widget.Design.BottomSheet.Modal = 0x7f120306
 com.example.hackathon:dimen/m3_btn_elevated_btn_elevation = 0x7f0600c6
 com.example.hackathon:macro/m3_comp_switch_selected_focus_track_color = 0x7f0c0020
@@ -241,6 +466,7 @@ com.example.hackathon:style/Widget.AppCompat.Light.ListPopupWindow = 0x7f1202e3
 com.example.hackathon:style/TextAppearance.Compat.Notification.Media = 0x7f1201a5
 com.example.hackathon:style/Base.Theme.MaterialComponents.Light.Dialog = 0x7f120067
 com.example.hackathon:style/ThemeOverlay.Material3.Chip.Assist = 0x7f12026b
+<<<<<<< HEAD
 com.example.hackathon:interpolator/btn_radio_to_on_mtrl_animation_interpolator_0 = 0x7f0a0005
 com.example.hackathon:styleable/RangeSlider = 0x7f130077
 com.example.hackathon:dimen/mtrl_alert_dialog_background_inset_top = 0x7f060195
@@ -249,6 +475,13 @@ com.example.hackathon:string/hide_bottom_view_on_scroll_behavior = 0x7f110032
 com.example.hackathon:style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse = 0x7f12018f
 com.example.hackathon:style/Widget.Material3.BottomNavigationView = 0x7f12031a
 com.example.hackathon:dimen/m3_extended_fab_bottom_padding = 0x7f060113
+=======
+com.example.hackathon:style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse = 0x7f12018f
+com.example.hackathon:string/hide_bottom_view_on_scroll_behavior = 0x7f110032
+com.example.hackathon:style/ThemeOverlay.Material3.Button.TonalButton = 0x7f120269
+com.example.hackathon:dimen/mtrl_alert_dialog_background_inset_top = 0x7f060195
+com.example.hackathon:interpolator/btn_radio_to_on_mtrl_animation_interpolator_0 = 0x7f0a0005
+>>>>>>> origin/Bilal
 com.example.hackathon:layout/abc_cascading_menu_item_layout = 0x7f0b000b
 com.example.hackathon:dimen/abc_text_size_headline_material = 0x7f060047
 com.example.hackathon:style/ThemeOverlay.MaterialComponents.BottomAppBar.Primary = 0x7f12029a
@@ -260,6 +493,7 @@ com.example.hackathon:styleable/ColorStateListItem = 0x7f130025
 com.example.hackathon:dimen/abc_action_bar_stacked_max_height = 0x7f060009
 com.example.hackathon:style/ThemeOverlay.AppCompat.Light = 0x7f120256
 com.example.hackathon:style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle = 0x7f12018e
+<<<<<<< HEAD
 com.example.hackathon:integer/m3_sys_motion_duration_medium1 = 0x7f090026
 com.example.hackathon:style/Widget.Material3.DrawerLayout = 0x7f12034c
 com.example.hackathon:style/ThemeOverlay.MaterialComponents.Light.Dialog.Alert.Framework = 0x7f1202a4
@@ -268,6 +502,15 @@ com.example.hackathon:integer/material_motion_duration_long_2 = 0x7f09002f
 com.example.hackathon:layout/notification_template_big_media_narrow_custom = 0x7f0b006f
 com.example.hackathon:style/TextAppearance.AppCompat.Body2 = 0x7f120172
 com.example.hackathon:id/textStart = 0x7f0801df
+=======
+com.example.hackathon:integer/material_motion_duration_long_2 = 0x7f09002f
+com.example.hackathon:style/Widget.MaterialComponents.BottomAppBar = 0x7f1203af
+com.example.hackathon:style/ThemeOverlay.MaterialComponents.Light.Dialog.Alert.Framework = 0x7f1202a4
+com.example.hackathon:style/Widget.Material3.DrawerLayout = 0x7f12034c
+com.example.hackathon:style/TextAppearance.AppCompat.Body2 = 0x7f120172
+com.example.hackathon:layout/notification_template_big_media_narrow_custom = 0x7f0b006e
+com.example.hackathon:id/textStart = 0x7f0801e0
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Theme.MaterialComponents.Dialog.MinWidth.Bridge = 0x7f12023a
 com.example.hackathon:dimen/mtrl_btn_max_width = 0x7f0601b0
 com.example.hackathon:id/actionDownUp = 0x7f080032
@@ -278,16 +521,31 @@ com.example.hackathon:style/Theme.Design.Light.NoActionBar = 0x7f120204
 com.example.hackathon:style/Widget.MaterialComponents.TextInputLayout.FilledBox.Dense.ExposedDropdownMenu = 0x7f120409
 com.example.hackathon:id/right = 0x7f080184
 com.example.hackathon:style/TextAppearance.AppCompat.Large.Inverse = 0x7f12017c
+<<<<<<< HEAD
 com.example.hackathon:interpolator/mtrl_linear = 0x7f0a0010
 com.example.hackathon:style/Base.Theme.MaterialComponents.Dialog.MinWidth = 0x7f120061
+=======
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Base.Widget.Material3.CompoundButton.Switch = 0x7f1200f4
+com.example.hackathon:style/Base.Theme.MaterialComponents.Dialog.MinWidth = 0x7f120061
 com.example.hackathon:style/Base.Widget.AppCompat.ListPopupWindow = 0x7f1200d6
+<<<<<<< HEAD
 com.example.hackathon:style/Theme.MaterialComponents.DayNight.DarkActionBar = 0x7f120226
 com.example.hackathon:string/library_zxingandroidembedded_libraryDescription = 0x7f110039
 com.example.hackathon:style/Base.Widget.Material3.ExtendedFloatingActionButton.Icon = 0x7f1200f6
 com.example.hackathon:style/Base.Widget.Material3.Chip = 0x7f1200f0
 com.example.hackathon:style/Base.TextAppearance.AppCompat.Small.Inverse = 0x7f120028
 com.example.hackathon:style/Widget.MaterialComponents.Chip.Action = 0x7f1203c5
+=======
+com.example.hackathon:interpolator/mtrl_linear = 0x7f0a0010
+com.example.hackathon:drawable/bgfooty = 0x7f07011d
+com.example.hackathon:style/Widget.MaterialComponents.CircularProgressIndicator.ExtraSmall = 0x7f1203cb
+com.example.hackathon:style/Theme.MaterialComponents.DayNight.DarkActionBar = 0x7f120226
+com.example.hackathon:string/library_zxingandroidembedded_libraryDescription = 0x7f110039
+com.example.hackathon:style/Base.Widget.Material3.ExtendedFloatingActionButton.Icon = 0x7f1200f6
+com.example.hackathon:style/TextAppearance.MaterialComponents.Body1 = 0x7f1201d7
+com.example.hackathon:style/ThemeOverlay.Material3.Toolbar.Surface = 0x7f12028f
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Theme.AppCompat.CompactMenu = 0x7f1201eb
 com.example.hackathon:style/Widget.Material3.Chip.Input.Icon.Elevated = 0x7f12033d
 com.example.hackathon:style/Widget.Material3.Button.TonalButton.Icon = 0x7f120330
@@ -300,6 +558,7 @@ com.example.hackathon:id/west = 0x7f080214
 com.example.hackathon:styleable/MaterialRadioButton = 0x7f13005b
 com.example.hackathon:style/ThemeOverlay.MaterialComponents = 0x7f120291
 com.example.hackathon:style/Theme.MaterialComponents.Bridge = 0x7f120221
+<<<<<<< HEAD
 com.example.hackathon:style/TextAppearance.Material3.TitleMedium = 0x7f1201d4
 com.example.hackathon:style/Base.V24.Theme.Material3.Dark.Dialog = 0x7f1200a2
 com.example.hackathon:integer/mtrl_switch_thumb_pressed_duration = 0x7f090041
@@ -331,13 +590,50 @@ com.example.hackathon:style/Base.TextAppearance.AppCompat.Widget.ActionBar.Title
 com.example.hackathon:style/Widget.Material3.Button.OutlinedButton.Icon = 0x7f120328
 com.example.hackathon:style/Widget.Material3.Button.IconButton.Filled.Tonal = 0x7f120325
 com.example.hackathon:color/design_dark_default_color_on_error = 0x7f050033
+=======
+com.example.hackathon:style/Widget.Design.TextInputLayout = 0x7f12030e
+com.example.hackathon:string/mtrl_checkbox_state_description_indeterminate = 0x7f110068
+com.example.hackathon:id/view_tree_on_back_pressed_dispatcher_owner = 0x7f08020f
+com.example.hackathon:string/hello_blank_fragment = 0x7f110031
+com.example.hackathon:style/Theme.AppCompat.Light.Dialog.MinWidth = 0x7f1201fc
+com.example.hackathon:style/Widget.Material3.Chip.Suggestion.Elevated = 0x7f12033f
+com.example.hackathon:style/Widget.AppCompat.Light.ActivityChooserView = 0x7f1202e0
+com.example.hackathon:style/Theme.Material3.Dark.Dialog.MinWidth = 0x7f12020b
+com.example.hackathon:style/TextAppearance.Compat.Notification.Info.Media = 0x7f1201a2
+com.example.hackathon:style/TextAppearance.Design.Counter.Overflow = 0x7f1201ac
+com.example.hackathon:styleable/ShapeAppearance = 0x7f13007d
+com.example.hackathon:styleable/ActionMenuItemView = 0x7f130002
+com.example.hackathon:style/Widget.Material3.Toolbar = 0x7f12039e
+com.example.hackathon:style/Widget.Material3.NavigationRailView = 0x7f120384
+com.example.hackathon:id/west = 0x7f080215
+com.example.hackathon:styleable/MaterialRadioButton = 0x7f13005b
+com.example.hackathon:attr/buttonStyleSmall = 0x7f030085
+com.example.hackathon:color/error_color_material_dark = 0x7f050058
+com.example.hackathon:style/RtlOverlay.Widget.AppCompat.Search.DropDown.Query = 0x7f12013e
+com.example.hackathon:style/Widget.Material3.MaterialTimePicker.Display.TextInputLayout = 0x7f120382
+com.example.hackathon:styleable/Transition = 0x7f130094
+com.example.hackathon:style/Theme.Material3.Dark.Dialog = 0x7f120209
+com.example.hackathon:color/mtrl_indicator_text_color = 0x7f050229
+com.example.hackathon:style/ThemeOverlay.MaterialComponents.Light = 0x7f1202a3
+com.example.hackathon:dimen/mtrl_btn_snackbar_margin_horizontal = 0x7f0601b6
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/abc_action_bar_content_inset_material = 0x7f060000
 com.example.hackathon:dimen/mtrl_btn_snackbar_margin_horizontal = 0x7f0601b6
 com.example.hackathon:string/mtrl_picker_toggle_to_day_selection = 0x7f110089
 com.example.hackathon:style/ThemeOverlay.MaterialComponents.Dark.ActionBar = 0x7f12029e
+<<<<<<< HEAD
+=======
+com.example.hackathon:style/Widget.Material3.Button.IconButton.Filled.Tonal = 0x7f120325
+com.example.hackathon:color/design_dark_default_color_on_error = 0x7f050033
+com.example.hackathon:style/Widget.Material3.Button.OutlinedButton.Icon = 0x7f120328
+com.example.hackathon:attr/percentWidth = 0x7f03034b
+com.example.hackathon:style/Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse = 0x7f120032
+com.example.hackathon:layout/notification_template_media = 0x7f0b0072
+com.example.hackathon:id/tag_accessibility_heading = 0x7f0801d0
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/m3_simple_item_color_hovered_alpha = 0x7f060136
-com.example.hackathon:color/teal_200 = 0x7f050260
 com.example.hackathon:style/Widget.AppCompat.RatingBar.Indicator = 0x7f1202f4
+com.example.hackathon:color/teal_200 = 0x7f050260
 com.example.hackathon:style/Base.V14.ThemeOverlay.MaterialComponents.MaterialAlertDialog = 0x7f120090
 com.example.hackathon:layout/zxing_barcode_scanner = 0x7f0b007c
 com.example.hackathon:style/Widget.MaterialComponents.BottomNavigationView.PrimarySurface = 0x7f1203b4
@@ -351,15 +647,42 @@ com.example.hackathon:style/Widget.Material3.MaterialCalendar.HeaderSelection.Fu
 com.example.hackathon:style/Widget.Material3.TextInputLayout.FilledBox = 0x7f120396
 com.example.hackathon:style/Base.V22.Theme.AppCompat.Light = 0x7f12009e
 com.example.hackathon:style/Base.TextAppearance.AppCompat.Tooltip = 0x7f12002d
+<<<<<<< HEAD
 com.example.hackathon:attr/materialDividerStyle = 0x7f0302d1
 com.example.hackathon:style/Base.V14.ThemeOverlay.MaterialComponents.Dialog.Alert = 0x7f12008f
 com.example.hackathon:style/Widget.MaterialComponents.CircularProgressIndicator.ExtraSmall = 0x7f1203cb
+=======
+com.example.hackathon:id/snap = 0x7f0801af
+com.example.hackathon:style/Widget.Material3.ExtendedFloatingActionButton.Icon.Surface = 0x7f12034f
+com.example.hackathon:style/TextAppearance.Material3.TitleMedium = 0x7f1201d4
+com.example.hackathon:style/Base.V24.Theme.Material3.Dark.Dialog = 0x7f1200a2
+com.example.hackathon:integer/mtrl_switch_thumb_pressed_duration = 0x7f090041
+com.example.hackathon:styleable/FloatingActionButton = 0x7f130034
+com.example.hackathon:string/mtrl_picker_toggle_to_calendar_input_mode = 0x7f110088
+com.example.hackathon:interpolator/m3_sys_motion_easing_linear = 0x7f0a000a
+com.example.hackathon:attr/blendSrc = 0x7f030061
+com.example.hackathon:style/Platform.MaterialComponents = 0x7f120126
+com.example.hackathon:id/vertical_only = 0x7f08020a
+com.example.hackathon:dimen/m3_small_fab_size = 0x7f06013a
+com.example.hackathon:drawable/mtrl_switch_thumb_unchecked_checked = 0x7f070101
+com.example.hackathon:attr/materialDividerStyle = 0x7f0302d1
+com.example.hackathon:style/Base.V14.ThemeOverlay.MaterialComponents.Dialog.Alert = 0x7f12008f
+com.example.hackathon:id/mtrl_anchor_parent = 0x7f080130
+com.example.hackathon:color/m3_sys_color_dark_outline = 0x7f050143
+com.example.hackathon:style/Theme.AppCompat.DayNight.Dialog = 0x7f1201ee
+com.example.hackathon:drawable/slazzer = 0x7f070117
+com.example.hackathon:style/Widget.Material3.BottomNavigationView = 0x7f12031a
+com.example.hackathon:dimen/m3_extended_fab_bottom_padding = 0x7f060113
+com.example.hackathon:id/notification_background = 0x7f080165
+com.example.hackathon:id/gone = 0x7f0800cf
+>>>>>>> origin/Bilal
 com.example.hackathon:styleable/AnimatedStateListDrawableCompat = 0x7f130007
 com.example.hackathon:macro/m3_comp_fab_tertiary_container_color = 0x7f0c0014
 com.example.hackathon:id/notification_background = 0x7f080164
 com.example.hackathon:id/gone = 0x7f0800cf
 com.example.hackathon:id/ic_menu = 0x7f0800e1
 com.example.hackathon:dimen/mtrl_progress_circular_size_small = 0x7f060228
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_checkbox_button_icon_checked_unchecked = 0x7f0700e7
 com.example.hackathon:style/Widget.Material3.Button.IconButton.Outlined = 0x7f120326
 com.example.hackathon:mipmap/ic_launcher_round = 0x7f0e0001
@@ -376,6 +699,23 @@ com.example.hackathon:style/Widget.AppCompat.TextView.SpinnerItem = 0x7f1202ff
 com.example.hackathon:style/TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse = 0x7f120195
 com.example.hackathon:attr/actionTextColorAlpha = 0x7f030024
 com.example.hackathon:id/fitXY = 0x7f0800c5
+=======
+com.example.hackathon:drawable/mtrl_checkbox_button_icon_checked_unchecked = 0x7f0700e6
+com.example.hackathon:style/Widget.Material3.Button.IconButton.Outlined = 0x7f120326
+com.example.hackathon:style/Widget.MaterialComponents.CircularProgressIndicator.Small = 0x7f1203cd
+com.example.hackathon:style/Widget.Material3.Chip.Input.Icon.Elevated = 0x7f12033d
+com.example.hackathon:style/Widget.Material3.Button.TonalButton.Icon = 0x7f120330
+com.example.hackathon:style/TextAppearance.AppCompat.Widget.TextView.SpinnerItem = 0x7f12019f
+com.example.hackathon:color/m3_sys_color_dynamic_light_secondary_container = 0x7f050173
+com.example.hackathon:mipmap/ic_launcher_round = 0x7f0e0001
+com.example.hackathon:integer/m3_card_anim_delay_ms = 0x7f09000b
+com.example.hackathon:style/Base.TextAppearance.AppCompat.Small.Inverse = 0x7f120028
+com.example.hackathon:drawable/events_movie = 0x7f070123
+com.example.hackathon:style/TextAppearance.MaterialComponents.Headline2 = 0x7f1201dd
+com.example.hackathon:style/Animation.MaterialComponents.BottomSheetDialog = 0x7f120006
+com.example.hackathon:style/Widget.AppCompat.TextView.SpinnerItem = 0x7f1202ff
+com.example.hackathon:styleable/MaterialCardView = 0x7f130057
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/lineSpacing = 0x7f030298
 com.example.hackathon:styleable/MaterialToolbar = 0x7f130061
 com.example.hackathon:color/m3_sys_color_dark_outline = 0x7f050143
@@ -391,11 +731,15 @@ com.example.hackathon:style/Widget.MaterialComponents.PopupMenu.ListPopupWindow 
 com.example.hackathon:style/ThemeOverlay.MaterialComponents.BottomAppBar.Surface = 0x7f12029b
 com.example.hackathon:style/TextAppearance.Material3.MaterialTimePicker.Title = 0x7f1201d2
 com.example.hackathon:dimen/cardview_default_elevation = 0x7f060053
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_rides = 0x7f0700c7
+=======
+com.example.hackathon:drawable/ic_rides = 0x7f0700c6
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar = 0x7f1202e8
 com.example.hackathon:style/Theme.AppCompat.Dialog.MinWidth = 0x7f1201f5
-com.example.hackathon:style/TextAppearance.MaterialComponents.Caption = 0x7f1201da
 com.example.hackathon:style/TextAppearance.Material3.LabelLarge = 0x7f1201cf
+com.example.hackathon:style/TextAppearance.MaterialComponents.Caption = 0x7f1201da
 com.example.hackathon:style/Widget.AppCompat.CompoundButton.Switch = 0x7f1202ce
 com.example.hackathon:layout/design_layout_snackbar = 0x7f0b0029
 com.example.hackathon:drawable/abc_btn_check_material = 0x7f07002b
@@ -446,11 +790,19 @@ com.example.hackathon:style/TextAppearance.AppCompat.Widget.ActionBar.Title = 0x
 com.example.hackathon:style/Widget.AppCompat.ActionBar.Solid = 0x7f1202ba
 com.example.hackathon:style/Base.ThemeOverlay.Material3.AutoCompleteTextView = 0x7f120074
 com.example.hackathon:attr/useMaterialThemeColors = 0x7f03048b
+<<<<<<< HEAD
 com.example.hackathon:attr/imagePanY = 0x7f030204
 com.example.hackathon:style/Animation.AppCompat.Tooltip = 0x7f120004
 com.example.hackathon:styleable/OnSwipe = 0x7f130072
 com.example.hackathon:style/Theme.MaterialComponents.DayNight = 0x7f120223
 com.example.hackathon:drawable/ic_baseline_history = 0x7f07009a
+=======
+com.example.hackathon:styleable/FontFamily = 0x7f130037
+com.example.hackathon:macro/m3_sys_shape_corner_extra_large_family = 0x7f0c0046
+com.example.hackathon:attr/imagePanY = 0x7f030204
+com.example.hackathon:style/Animation.AppCompat.Tooltip = 0x7f120004
+com.example.hackathon:drawable/ic_baseline_history = 0x7f070099
+>>>>>>> origin/Bilal
 com.example.hackathon:style/TextAppearance.Material3.LabelMedium = 0x7f1201d0
 com.example.hackathon:styleable/MaterialCalendar = 0x7f130055
 com.example.hackathon:style/TextAppearance.AppCompat.Inverse = 0x7f12017a
@@ -479,12 +831,19 @@ com.example.hackathon:layout/activity_main = 0x7f0b001f
 com.example.hackathon:style/RtlOverlay.Widget.AppCompat.SearchView.MagIcon = 0x7f120140
 com.example.hackathon:id/zxing_camera_error = 0x7f080221
 com.example.hackathon:style/Base.Theme.Material3.Dark.BottomSheetDialog = 0x7f120055
+com.example.hackathon:style/Base.Theme.AppCompat.Dialog.FixedSize = 0x7f12004a
+com.example.hackathon:styleable/ChipGroup = 0x7f13001e
 com.example.hackathon:style/ShapeAppearance.Material3.Corner.Medium = 0x7f120152
-com.example.hackathon:style/Base.Theme.Material3.Light.BottomSheetDialog = 0x7f120058
+com.example.hackathon:drawable/movienightt = 0x7f070124
+com.example.hackathon:color/m3_ref_palette_dynamic_secondary20 = 0x7f0500c4
+com.example.hackathon:attr/icon = 0x7f0301f7
+com.example.hackathon:integer/m3_sys_motion_duration_extra_long2 = 0x7f09001f
+com.example.hackathon:drawable/$mtrl_checkbox_button_icon_checked_unchecked__2 = 0x7f070011
+com.example.hackathon:styleable/RecycleListView = 0x7f130078
 com.example.hackathon:drawable/abc_cab_background_internal_bg = 0x7f070037
 com.example.hackathon:layout/select_dialog_multichoice_material = 0x7f0b0079
 com.example.hackathon:color/material_slider_inactive_track_color = 0x7f050208
-com.example.hackathon:styleable/RecycleListView = 0x7f130078
+com.example.hackathon:style/Base.Theme.Material3.Light.BottomSheetDialog = 0x7f120058
 com.example.hackathon:styleable/ViewTransition = 0x7f13009a
 com.example.hackathon:attr/listPreferredItemPaddingEnd = 0x7f0302a5
 com.example.hackathon:color/m3_dynamic_dark_hint_foreground = 0x7f05007e
@@ -492,15 +851,23 @@ com.example.hackathon:id/alignBounds = 0x7f080049
 com.example.hackathon:styleable/CoordinatorLayout = 0x7f13002d
 com.example.hackathon:style/ThemeOverlay.MaterialComponents.AutoCompleteTextView = 0x7f120295
 com.example.hackathon:drawable/abc_ic_menu_paste_mtrl_am_alpha = 0x7f070045
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_bday = 0x7f07009f
+=======
+com.example.hackathon:layout/mtrl_calendar_month_labeled = 0x7f0b0055
+com.example.hackathon:drawable/ic_bday = 0x7f07009e
+>>>>>>> origin/Bilal
 com.example.hackathon:string/material_timepicker_hour = 0x7f110059
 com.example.hackathon:style/Widget.Support.CoordinatorLayout = 0x7f12041f
 com.example.hackathon:style/Base.TextAppearance.MaterialComponents.Headline6 = 0x7f120041
 com.example.hackathon:string/abc_searchview_description_clear = 0x7f110014
 com.example.hackathon:style/RtlOverlay.Widget.AppCompat.Search.DropDown.Text = 0x7f12013f
+<<<<<<< HEAD
 com.example.hackathon:layout/mtrl_calendar_month_labeled = 0x7f0b0056
 com.example.hackathon:styleable/ChipGroup = 0x7f13001e
 com.example.hackathon:style/Base.Theme.AppCompat.Dialog.FixedSize = 0x7f12004a
+=======
+>>>>>>> origin/Bilal
 com.example.hackathon:color/m3_ref_palette_error70 = 0x7f0500e3
 com.example.hackathon:id/snackbar_action = 0x7f0801ac
 com.example.hackathon:style/Platform.MaterialComponents.Dialog = 0x7f120127
@@ -533,14 +900,20 @@ com.example.hackathon:string/m3_sys_motion_easing_standard_decelerate = 0x7f1100
 com.example.hackathon:styleable/MaterialTextAppearance = 0x7f13005e
 com.example.hackathon:style/Widget.AppCompat.SeekBar.Discrete = 0x7f1202f9
 com.example.hackathon:style/Widget.Design.FloatingActionButton = 0x7f120308
+<<<<<<< HEAD
 com.example.hackathon:layout/notification_action_tombstone = 0x7f0b0069
 com.example.hackathon:id/tag_unhandled_key_listeners = 0x7f0801d8
+=======
+com.example.hackathon:layout/notification_action_tombstone = 0x7f0b0068
+com.example.hackathon:id/tag_unhandled_key_listeners = 0x7f0801d9
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Widget.AppCompat.Light.ActionMode.Inverse = 0x7f1202df
 com.example.hackathon:dimen/design_appbar_elevation = 0x7f06005f
 com.example.hackathon:style/Platform.AppCompat = 0x7f120124
 com.example.hackathon:style/MaterialAlertDialog.Material3.Title.Text = 0x7f120118
 com.example.hackathon:style/Base.V7.ThemeOverlay.AppCompat.Dialog = 0x7f1200ae
 com.example.hackathon:style/Base.Widget.AppCompat.PopupMenu.Overflow = 0x7f1200db
+com.example.hackathon:id/textView3 = 0x7f0801e4
 com.example.hackathon:id/forever = 0x7f0800c9
 com.example.hackathon:style/Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle = 0x7f120044
 com.example.hackathon:styleable/zxing_view = 0x7f13009e
@@ -549,7 +922,11 @@ com.example.hackathon:color/mtrl_card_view_ripple = 0x7f05021a
 com.example.hackathon:color/m3_sys_color_dark_on_background = 0x7f050138
 com.example.hackathon:style/RtlOverlay.Widget.AppCompat.DialogTitle.Icon = 0x7f120134
 com.example.hackathon:styleable/Layout = 0x7f13004b
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_mtrl_chip_checked_black = 0x7f0700bf
+=======
+com.example.hackathon:drawable/ic_mtrl_chip_checked_black = 0x7f0700be
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/cardview_default_radius = 0x7f060054
 com.example.hackathon:style/Widget.Material3.MaterialTimePicker.ImageButton = 0x7f120383
 com.example.hackathon:style/ThemeOverlay.Material3.TextInputEditText = 0x7f12028a
@@ -560,17 +937,32 @@ com.example.hackathon:color/design_error = 0x7f05004a
 com.example.hackathon:color/material_dynamic_primary50 = 0x7f0501ce
 com.example.hackathon:id/nav_toggleoff = 0x7f080152
 com.example.hackathon:id/auto = 0x7f080056
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_switch_track = 0x7f070104
+=======
+com.example.hackathon:drawable/mtrl_switch_track = 0x7f070103
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Widget.AppCompat.SearchView = 0x7f1202f6
 com.example.hackathon:dimen/abc_dialog_list_padding_bottom_no_buttons = 0x7f060020
 com.example.hackathon:dimen/compat_button_inset_vertical_material = 0x7f060057
 com.example.hackathon:style/Base.Widget.Material3.ExtendedFloatingActionButton = 0x7f1200f5
 com.example.hackathon:style/Widget.MaterialComponents.TextInputLayout.FilledBox.ExposedDropdownMenu = 0x7f12040a
 com.example.hackathon:style/Base.Theme.AppCompat.Light.Dialog.MinWidth = 0x7f120052
+<<<<<<< HEAD
+=======
+com.example.hackathon:dimen/m3_comp_fab_primary_hover_state_layer_opacity = 0x7f0600f8
+com.example.hackathon:dimen/m3_alert_dialog_icon_margin = 0x7f0600a2
+com.example.hackathon:style/Widget.AppCompat.Light.ActionBar.TabBar.Inverse = 0x7f1202d7
+com.example.hackathon:plurals/mtrl_badge_content_description = 0x7f0f0000
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Widget.Material3.MaterialCalendar.HeaderTitle = 0x7f120370
 com.example.hackathon:layout/notification_template_part_chronometer = 0x7f0b0075
 com.example.hackathon:string/mtrl_switch_thumb_path_name = 0x7f11008f
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_logout = 0x7f0700b8
+=======
+com.example.hackathon:drawable/ic_logout = 0x7f0700b7
+>>>>>>> origin/Bilal
 com.example.hackathon:layout/abc_screen_simple = 0x7f0b0015
 com.example.hackathon:style/Theme.Material3.Dark.DialogWhenLarge = 0x7f12020c
 com.example.hackathon:style/Base.Widget.Material3.Snackbar = 0x7f1200fc
@@ -588,6 +980,12 @@ com.example.hackathon:dimen/m3_comp_fab_primary_pressed_container_elevation = 0x
 com.example.hackathon:macro/m3_comp_switch_disabled_selected_handle_color = 0x7f0c0016
 com.example.hackathon:style/ThemeOverlay.MaterialComponents.TextInputEditText.FilledBox = 0x7f1202af
 com.example.hackathon:style/Base.Widget.AppCompat.ListView.Menu = 0x7f1200d9
+<<<<<<< HEAD
+=======
+com.example.hackathon:drawable/ic_blob = 0x7f07009f
+com.example.hackathon:style/Widget.AppCompat.Light.ActionButton.Overflow = 0x7f1202de
+com.example.hackathon:style/Widget.MaterialComponents.Button.UnelevatedButton = 0x7f1203c1
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Widget.AppCompat.DrawerArrowToggle = 0x7f1202cf
 com.example.hackathon:style/Widget.MaterialComponents.Button.UnelevatedButton = 0x7f1203c1
 com.example.hackathon:style/ThemeOverlay.Material3.Dialog.Alert = 0x7f120270
@@ -627,6 +1025,11 @@ com.example.hackathon:style/Widget.MaterialComponents.TextInputEditText.FilledBo
 com.example.hackathon:style/Base.Widget.AppCompat.EditText = 0x7f1200cb
 com.example.hackathon:style/Base.Widget.AppCompat.DrawerArrowToggle.Common = 0x7f1200c9
 com.example.hackathon:id/FUNCTION = 0x7f080004
+<<<<<<< HEAD
+=======
+com.example.hackathon:drawable/ellipse = 0x7f07011f
+com.example.hackathon:style/Theme.AppCompat.Light.Dialog = 0x7f1201fa
+>>>>>>> origin/Bilal
 com.example.hackathon:drawable/$ic_instagram__0 = 0x7f070006
 com.example.hackathon:style/Base.Widget.AppCompat.ActionMode = 0x7f1200ba
 com.example.hackathon:id/pressed = 0x7f08017d
@@ -643,7 +1046,11 @@ com.example.hackathon:color/m3_hint_foreground = 0x7f05008c
 com.example.hackathon:style/Base.Widget.MaterialComponents.Chip = 0x7f120102
 com.example.hackathon:raw/zxing_beep = 0x7f100000
 com.example.hackathon:id/circle_center = 0x7f080078
+<<<<<<< HEAD
 com.example.hackathon:id/title_template = 0x7f0801f5
+=======
+com.example.hackathon:id/title_template = 0x7f0801f6
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/mtrl_alert_dialog_background_inset_bottom = 0x7f060192
 com.example.hackathon:style/Base.V14.Theme.Material3.Dark.Dialog = 0x7f12007f
 com.example.hackathon:dimen/m3_bottomappbar_fab_cradle_vertical_offset = 0x7f0600be
@@ -662,7 +1069,13 @@ com.example.hackathon:style/Widget.Material3.MaterialCalendar.MonthNavigationBut
 com.example.hackathon:string/bottomsheet_action_expand = 0x7f110022
 com.example.hackathon:style/ShapeAppearanceOverlay.Material3.FloatingActionButton = 0x7f120165
 com.example.hackathon:drawable/$mtrl_switch_thumb_unchecked_pressed__0 = 0x7f070026
+<<<<<<< HEAD
 com.example.hackathon:id/outward = 0x7f08016b
+=======
+com.example.hackathon:id/outward = 0x7f08016c
+com.example.hackathon:drawable/ic_m3_chip_checked_circle = 0x7f0700b9
+com.example.hackathon:drawable/ic_checklist = 0x7f0700a7
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Base.ThemeOverlay.Material3.TextInputEditText = 0x7f120077
 com.example.hackathon:drawable/ic_m3_chip_checked_circle = 0x7f0700ba
 com.example.hackathon:drawable/ic_checklist = 0x7f0700a8
@@ -673,7 +1086,11 @@ com.example.hackathon:layout/design_navigation_item_header = 0x7f0b002f
 com.example.hackathon:style/Widget.MaterialComponents.TabLayout.Colored = 0x7f120401
 com.example.hackathon:macro/m3_comp_extended_fab_primary_container_shape = 0x7f0c0002
 com.example.hackathon:style/TextAppearance.Widget.AppCompat.Toolbar.Title = 0x7f1201e9
+<<<<<<< HEAD
 com.example.hackathon:drawable/material_cursor_drawable = 0x7f0700d7
+=======
+com.example.hackathon:drawable/material_cursor_drawable = 0x7f0700d6
+>>>>>>> origin/Bilal
 com.example.hackathon:style/ThemeOverlay.Material3.Dark = 0x7f12026c
 com.example.hackathon:style/Widget.Material3.CircularProgressIndicator.ExtraSmall = 0x7f120342
 com.example.hackathon:string/appbar_scrolling_view_behavior = 0x7f11001f
@@ -767,6 +1184,7 @@ com.example.hackathon:dimen/m3_bottomappbar_fab_cradle_margin = 0x7f0600bc
 com.example.hackathon:style/Base.TextAppearance.AppCompat.Widget.PopupMenu.Large = 0x7f12003b
 com.example.hackathon:drawable/abc_ratingbar_material = 0x7f07005b
 com.example.hackathon:dimen/m3_comp_switch_selected_focus_state_layer_opacity = 0x7f060108
+<<<<<<< HEAD
 com.example.hackathon:integer/m3_sys_motion_duration_extra_long2 = 0x7f09001f
 com.example.hackathon:drawable/$mtrl_checkbox_button_icon_checked_unchecked__2 = 0x7f070011
 com.example.hackathon:styleable/Insets = 0x7f130042
@@ -775,18 +1193,36 @@ com.example.hackathon:layout/design_text_input_end_icon = 0x7f0b0034
 com.example.hackathon:style/Widget.Material3.MaterialTimePicker.Display.HelperText = 0x7f120380
 com.example.hackathon:style/Base.Widget.MaterialComponents.TextInputEditText = 0x7f12010b
 com.example.hackathon:id/textView92 = 0x7f0801e5
+=======
+com.example.hackathon:style/Widget.Material3.MaterialTimePicker.Display.HelperText = 0x7f120380
+com.example.hackathon:style/Base.Widget.MaterialComponents.TextInputEditText = 0x7f12010b
+com.example.hackathon:id/textView92 = 0x7f0801e6
+com.example.hackathon:layout/design_text_input_end_icon = 0x7f0b0033
+com.example.hackathon:style/Widget.Material3.NavigationRailView.ActiveIndicator = 0x7f120385
+com.example.hackathon:styleable/Insets = 0x7f130042
+com.example.hackathon:xml/data_extraction_rules = 0x7f140001
+com.example.hackathon:style/TextAppearance.AppCompat.Widget.PopupMenu.Header = 0x7f12019b
+com.example.hackathon:style/Base.Widget.AppCompat.CompoundButton.RadioButton = 0x7f1200c6
+>>>>>>> origin/Bilal
 com.example.hackathon:color/material_on_surface_stroke = 0x7f050203
 com.example.hackathon:attr/columnCount = 0x7f03010c
 com.example.hackathon:style/ThemeOverlay.Material3.TextInputEditText.OutlinedBox.Dense = 0x7f12028e
-com.example.hackathon:style/Widget.MaterialComponents.PopupMenu = 0x7f1203f6
-com.example.hackathon:dimen/mtrl_textinput_counter_margin_start = 0x7f06024a
 com.example.hackathon:drawable/bg = 0x7f07007a
+<<<<<<< HEAD
 com.example.hackathon:xml/data_extraction_rules = 0x7f140001
 com.example.hackathon:style/TextAppearance.AppCompat.Widget.PopupMenu.Header = 0x7f12019b
 com.example.hackathon:style/Base.Widget.AppCompat.CompoundButton.RadioButton = 0x7f1200c6
 com.example.hackathon:style/Base.TextAppearance.AppCompat.Widget.Button = 0x7f120035
 com.example.hackathon:string/abc_menu_delete_shortcut_label = 0x7f11000b
 com.example.hackathon:id/mtrl_calendar_months = 0x7f080133
+=======
+com.example.hackathon:dimen/mtrl_textinput_counter_margin_start = 0x7f06024a
+com.example.hackathon:style/Widget.MaterialComponents.PopupMenu = 0x7f1203f6
+com.example.hackathon:style/Base.TextAppearance.AppCompat.Widget.Button = 0x7f120035
+com.example.hackathon:string/abc_menu_delete_shortcut_label = 0x7f11000b
+com.example.hackathon:style/Base.TextAppearance.AppCompat.Widget.ActionBar.Menu = 0x7f12002e
+com.example.hackathon:id/mtrl_calendar_months = 0x7f080135
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/mtrl_min_touch_target_size = 0x7f06020e
 com.example.hackathon:string/mtrl_picker_date_header_selected = 0x7f110072
 com.example.hackathon:string/abc_action_bar_home_description = 0x7f110001
@@ -801,7 +1237,11 @@ com.example.hackathon:style/Widget.AppCompat.Light.ActionBar.TabBar.Inverse = 0x
 com.example.hackathon:style/Base.TextAppearance.AppCompat.SearchResult.Title = 0x7f120026
 com.example.hackathon:style/Widget.MaterialComponents.Toolbar.Primary = 0x7f12041b
 com.example.hackathon:style/zxing_CaptureTheme = 0x7f120420
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_menu2 = 0x7f0700bd
+=======
+com.example.hackathon:drawable/ic_menu2 = 0x7f0700bc
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Base.ThemeOverlay.AppCompat.Dark.ActionBar = 0x7f120070
 com.example.hackathon:style/Base.Theme.AppCompat.Light.Dialog = 0x7f12004f
 com.example.hackathon:style/Widget.Material3.Tooltip = 0x7f1203a1
@@ -819,6 +1259,7 @@ com.example.hackathon:style/Base.TextAppearance.AppCompat.Inverse = 0x7f12001c
 com.example.hackathon:style/Base.Widget.AppCompat.ProgressBar.Horizontal = 0x7f1200de
 com.example.hackathon:drawable/abc_list_selector_disabled_holo_light = 0x7f070055
 com.example.hackathon:id/group_divider = 0x7f0800d2
+<<<<<<< HEAD
 com.example.hackathon:style/Theme.Material3.Dark.Dialog.Alert = 0x7f12020a
 com.example.hackathon:style/Base.Widget.AppCompat.Light.ActionBar.TabBar = 0x7f1200cf
 com.example.hackathon:dimen/notification_subtext_size = 0x7f060261
@@ -829,6 +1270,18 @@ com.example.hackathon:drawable/mtrl_checkbox_button_icon_checked_indeterminate =
 com.example.hackathon:dimen/m3_badge_radius = 0x7f0600ae
 com.example.hackathon:styleable/MaterialAutoCompleteTextView = 0x7f130052
 com.example.hackathon:styleable/DrawerLayout = 0x7f130031
+=======
+com.example.hackathon:styleable/MaterialAutoCompleteTextView = 0x7f130052
+com.example.hackathon:styleable/DrawerLayout = 0x7f130031
+com.example.hackathon:string/mtrl_checkbox_state_description_checked = 0x7f110067
+com.example.hackathon:style/Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge = 0x7f12022a
+com.example.hackathon:dimen/m3_badge_radius = 0x7f0600ae
+com.example.hackathon:drawable/mtrl_checkbox_button_icon_checked_indeterminate = 0x7f0700e5
+com.example.hackathon:dimen/mtrl_badge_text_size = 0x7f06019b
+com.example.hackathon:style/Theme.Material3.Dark.Dialog.Alert = 0x7f12020a
+com.example.hackathon:style/Base.Widget.AppCompat.Light.ActionBar.TabBar = 0x7f1200cf
+com.example.hackathon:style/Widget.AppCompat.ActionBar = 0x7f1202b9
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/m3_ripple_hovered_alpha = 0x7f060133
 com.example.hackathon:style/Widget.AppCompat.ActionBar = 0x7f1202b9
 com.example.hackathon:attr/motionDurationMedium2 = 0x7f0302fe
@@ -840,6 +1293,7 @@ com.example.hackathon:style/Base.TextAppearance.AppCompat.Caption = 0x7f120016
 com.example.hackathon:style/Widget.Material3.Chip.Suggestion = 0x7f12033e
 com.example.hackathon:id/material_timepicker_cancel_button = 0x7f08011c
 com.example.hackathon:dimen/mtrl_progress_track_thickness = 0x7f06022d
+com.example.hackathon:layout/activity_food_dash = 0x7f0b0083
 com.example.hackathon:style/Widget.MaterialComponents.MaterialCalendar.MonthTextView = 0x7f1203ea
 com.example.hackathon:style/Widget.Material3.MaterialCalendar = 0x7f120363
 com.example.hackathon:id/match_parent = 0x7f08010f
@@ -925,8 +1379,13 @@ com.example.hackathon:string/mtrl_checkbox_button_path_checked = 0x7f110063
 com.example.hackathon:drawable/abc_btn_switch_to_on_mtrl_00001 = 0x7f070035
 com.example.hackathon:style/ThemeOverlay.Material3.MaterialTimePicker = 0x7f120286
 com.example.hackathon:style/Widget.Material3.TextInputLayout.OutlinedBox.Dense = 0x7f12039b
+com.example.hackathon:layout/activity_loginpage = 0x7f0b0085
 com.example.hackathon:attr/layout_insetEdge = 0x7f030289
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_launcher_foreground = 0x7f0700b6
+=======
+com.example.hackathon:drawable/ic_launcher_foreground = 0x7f0700b5
+>>>>>>> origin/Bilal
 com.example.hackathon:string/material_timepicker_minute = 0x7f11005a
 com.example.hackathon:color/design_default_color_primary_variant = 0x7f050046
 com.example.hackathon:id/unchecked = 0x7f080202
@@ -983,7 +1442,11 @@ com.example.hackathon:style/Widget.MaterialComponents.AppBarLayout.PrimarySurfac
 com.example.hackathon:id/skipCollapsed = 0x7f0801a9
 com.example.hackathon:string/abc_prepend_shortcut_label = 0x7f110012
 com.example.hackathon:layout/abc_popup_menu_item_layout = 0x7f0b0013
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_locations = 0x7f0700b7
+=======
+com.example.hackathon:drawable/ic_locations = 0x7f0700b6
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Base.ThemeOverlay.MaterialComponents.Light.Dialog.Alert.Framework = 0x7f12007b
 com.example.hackathon:layout/mtrl_calendar_months = 0x7f0b0058
 com.example.hackathon:string/abc_menu_enter_shortcut_label = 0x7f11000c
@@ -1005,6 +1468,7 @@ com.example.hackathon:style/Base.TextAppearance.AppCompat.Subhead = 0x7f120029
 com.example.hackathon:id/accelerate = 0x7f08000e
 com.example.hackathon:drawable/abc_seekbar_track_material = 0x7f070064
 com.example.hackathon:style/ShapeAppearance.MaterialComponents.Tooltip = 0x7f12015e
+<<<<<<< HEAD
 com.example.hackathon:mipmap/ic_launcher = 0x7f0e0000
 com.example.hackathon:style/Widget.Material3.CardView.Outlined = 0x7f120334
 com.example.hackathon:macro/m3_sys_shape_corner_extra_large_family = 0x7f0c0046
@@ -1015,6 +1479,13 @@ com.example.hackathon:id/closest = 0x7f08007d
 com.example.hackathon:id/mtrl_calendar_year_selector_frame = 0x7f080136
 com.example.hackathon:style/Base.V21.Theme.AppCompat.Dialog = 0x7f120093
 com.example.hackathon:drawable/ic_ps4 = 0x7f0700c5
+=======
+com.example.hackathon:style/Base.TextAppearance.AppCompat.Subhead = 0x7f120029
+com.example.hackathon:id/closest = 0x7f08007d
+com.example.hackathon:id/mtrl_calendar_year_selector_frame = 0x7f080138
+com.example.hackathon:style/Base.V21.Theme.AppCompat.Dialog = 0x7f120093
+com.example.hackathon:drawable/ic_ps4 = 0x7f0700c4
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Base.ThemeOverlay.MaterialComponents.Dialog = 0x7f120078
 com.example.hackathon:style/Base.Widget.AppCompat.Light.PopupMenu = 0x7f1200d3
 com.example.hackathon:macro/m3_ref_typeface_brand_regular = 0x7f0c0040
@@ -1038,7 +1509,11 @@ com.example.hackathon:id/SHOW_ALL = 0x7f080008
 com.example.hackathon:macro/m3_comp_switch_unselected_focus_track_color = 0x7f0c002f
 com.example.hackathon:macro/m3_comp_switch_selected_pressed_track_color = 0x7f0c002a
 com.example.hackathon:macro/m3_comp_switch_selected_pressed_icon_color = 0x7f0c0028
+<<<<<<< HEAD
 com.example.hackathon:drawable/notification_template_icon_bg = 0x7f070110
+=======
+com.example.hackathon:drawable/notification_template_icon_bg = 0x7f07010f
+>>>>>>> origin/Bilal
 com.example.hackathon:macro/m3_comp_switch_selected_pressed_handle_color = 0x7f0c0027
 com.example.hackathon:macro/m3_comp_switch_selected_icon_color = 0x7f0c0026
 com.example.hackathon:styleable/GridLayout_Layout = 0x7f13003f
@@ -1049,9 +1524,15 @@ com.example.hackathon:style/ShapeAppearance.MaterialComponents.MediumComponent =
 com.example.hackathon:macro/m3_comp_switch_selected_focus_state_layer_color = 0x7f0c001f
 com.example.hackathon:macro/m3_comp_switch_selected_focus_handle_color = 0x7f0c001d
 com.example.hackathon:macro/m3_comp_switch_disabled_unselected_track_color = 0x7f0c001b
+<<<<<<< HEAD
 com.example.hackathon:drawable/notification_action_background = 0x7f070108
 com.example.hackathon:style/ThemeOverlay.Material3.DayNight.BottomSheetDialog = 0x7f12026e
 com.example.hackathon:drawable/ic_bumpercar = 0x7f0700a4
+=======
+com.example.hackathon:drawable/notification_action_background = 0x7f070107
+com.example.hackathon:style/ThemeOverlay.Material3.DayNight.BottomSheetDialog = 0x7f12026e
+com.example.hackathon:drawable/ic_bumpercar = 0x7f0700a3
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/abc_action_bar_stacked_tab_max_width = 0x7f06000a
 com.example.hackathon:color/m3_ref_palette_primary80 = 0x7f05010b
 com.example.hackathon:macro/m3_comp_fab_tertiary_icon_color = 0x7f0c0015
@@ -1143,24 +1624,45 @@ com.example.hackathon:interpolator/fast_out_slow_in = 0x7f0a0006
 com.example.hackathon:layout/mtrl_calendar_vertical = 0x7f0b0059
 com.example.hackathon:layout/mtrl_calendar_day_of_week = 0x7f0b0052
 com.example.hackathon:string/m3_sys_motion_easing_standard = 0x7f110047
+<<<<<<< HEAD
 com.example.hackathon:layout/material_time_chip = 0x7f0b0045
 com.example.hackathon:id/selection_type = 0x7f0801a1
 com.example.hackathon:layout/mtrl_auto_complete_simple_item = 0x7f0b0050
+=======
+com.example.hackathon:layout/material_time_chip = 0x7f0b0044
+com.example.hackathon:id/selection_type = 0x7f0801a2
+com.example.hackathon:drawable/footy = 0x7f070120
+com.example.hackathon:layout/mtrl_auto_complete_simple_item = 0x7f0b004f
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Base.Widget.Material3.FloatingActionButton.Small = 0x7f1200f9
 com.example.hackathon:layout/mtrl_alert_dialog = 0x7f0b004a
 com.example.hackathon:style/Base.Widget.AppCompat.Spinner.Underlined = 0x7f1200e7
 com.example.hackathon:layout/material_timepicker = 0x7f0b0047
 com.example.hackathon:styleable/AppBarLayout = 0x7f13000a
 com.example.hackathon:style/Widget.MaterialComponents.MaterialCalendar.HeaderCancelButton = 0x7f1203e0
+<<<<<<< HEAD
 com.example.hackathon:layout/m3_alert_dialog = 0x7f0b0038
 com.example.hackathon:layout/image_slider = 0x7f0b0037
 com.example.hackathon:id/transition_current_scene = 0x7f0801fc
+=======
+com.example.hackathon:layout/m3_alert_dialog = 0x7f0b0037
+com.example.hackathon:layout/activity_movie_waiting = 0x7f0b0081
+com.example.hackathon:integer/m3_sys_motion_duration_medium1 = 0x7f090026
+com.example.hackathon:layout/image_slider = 0x7f0b0036
+com.example.hackathon:id/transition_current_scene = 0x7f0801fd
+>>>>>>> origin/Bilal
 com.example.hackathon:style/TextAppearance.M3.Sys.Typescale.DisplayMedium = 0x7f1201b9
 com.example.hackathon:integer/mtrl_calendar_year_selector_span = 0x7f09003a
 com.example.hackathon:layout/design_layout_tab_text = 0x7f0b002c
 com.example.hackathon:dimen/m3_navigation_rail_item_active_indicator_margin_horizontal = 0x7f06012c
+<<<<<<< HEAD
 com.example.hackathon:layout/activity_student_dash_board = 0x7f0b0023
 com.example.hackathon:layout/activity_staff = 0x7f0b0022
+=======
+com.example.hackathon:layout/activity_student_dash_board = 0x7f0b0022
+com.example.hackathon:layout/activity_staff = 0x7f0b0021
+com.example.hackathon:layout/activity_footexpand = 0x7f0b007e
+>>>>>>> origin/Bilal
 com.example.hackathon:string/library_zxingandroidembedded_repositoryLink = 0x7f11003e
 com.example.hackathon:layout/activity_qrscanner_acitivty = 0x7f0b0020
 com.example.hackathon:layout/activity_get_data = 0x7f0b001d
@@ -1179,8 +1681,13 @@ com.example.hackathon:macro/m3_sys_color_light_surface_tint = 0x7f0c0044
 com.example.hackathon:layout/abc_action_bar_up_container = 0x7f0b0001
 com.example.hackathon:interpolator/mtrl_linear_out_slow_in = 0x7f0a0011
 com.example.hackathon:interpolator/m3_sys_motion_easing_standard_decelerate = 0x7f0a000d
+<<<<<<< HEAD
 com.example.hackathon:id/showHome = 0x7f0801a6
 com.example.hackathon:drawable/notify_panel_notification_icon_bg = 0x7f070113
+=======
+com.example.hackathon:id/showHome = 0x7f0801a7
+com.example.hackathon:drawable/notify_panel_notification_icon_bg = 0x7f070112
+>>>>>>> origin/Bilal
 com.example.hackathon:interpolator/m3_sys_motion_easing_emphasized_accelerate = 0x7f0a0008
 com.example.hackathon:style/ThemeOverlay.Material3.Dialog = 0x7f12026f
 com.example.hackathon:style/ThemeOverlay.MaterialComponents.MaterialCalendar = 0x7f1202ac
@@ -1214,8 +1721,8 @@ com.example.hackathon:id/mtrl_calendar_selection_frame = 0x7f080134
 com.example.hackathon:styleable/zxing_camera_preview = 0x7f13009c
 com.example.hackathon:id/homeAsUp = 0x7f0800da
 com.example.hackathon:style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large = 0x7f12017f
-com.example.hackathon:style/TextAppearance.M3.Sys.Typescale.DisplaySmall = 0x7f1201ba
 com.example.hackathon:id/cancel_action = 0x7f080069
+com.example.hackathon:style/TextAppearance.M3.Sys.Typescale.DisplaySmall = 0x7f1201ba
 com.example.hackathon:color/m3_ref_palette_dynamic_tertiary95 = 0x7f0500d9
 com.example.hackathon:style/Widget.AppCompat.EditText = 0x7f1202d1
 com.example.hackathon:integer/m3_sys_motion_duration_medium4 = 0x7f090029
@@ -1230,11 +1737,19 @@ com.example.hackathon:style/MaterialAlertDialog.MaterialComponents.Body.Text = 0
 com.example.hackathon:integer/m3_sys_motion_duration_extra_long4 = 0x7f090021
 com.example.hackathon:integer/mtrl_view_invisible = 0x7f090048
 com.example.hackathon:style/ThemeOverlay.MaterialComponents.AutoCompleteTextView.OutlinedBox = 0x7f120298
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_switch_thumb = 0x7f0700fa
 com.example.hackathon:color/m3_ref_palette_dynamic_secondary95 = 0x7f0500cc
 com.example.hackathon:attr/colorOnError = 0x7f0300f0
 com.example.hackathon:integer/m3_sys_motion_duration_400 = 0x7f090015
 com.example.hackathon:drawable/mtrl_switch_thumb_checked_pressed = 0x7f0700fc
+=======
+com.example.hackathon:drawable/mtrl_switch_thumb = 0x7f0700f9
+com.example.hackathon:color/m3_ref_palette_dynamic_secondary95 = 0x7f0500cc
+com.example.hackathon:attr/colorOnError = 0x7f0300f0
+com.example.hackathon:integer/m3_sys_motion_duration_400 = 0x7f090015
+com.example.hackathon:drawable/mtrl_switch_thumb_checked_pressed = 0x7f0700fb
+>>>>>>> origin/Bilal
 com.example.hackathon:color/m3_sys_color_dark_primary_container = 0x7f050145
 com.example.hackathon:id/all = 0x7f08004c
 com.example.hackathon:color/m3_sys_color_light_primary = 0x7f05018a
@@ -1243,14 +1758,23 @@ com.example.hackathon:style/Theme.AppCompat.Light.NoActionBar = 0x7f1201fe
 com.example.hackathon:dimen/m3_btn_icon_only_icon_padding = 0x7f0600cc
 com.example.hackathon:integer/m3_sys_motion_duration_250 = 0x7f090012
 com.example.hackathon:integer/m3_sys_motion_duration_100 = 0x7f09000e
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_people = 0x7f0700c3
+=======
+com.example.hackathon:drawable/ic_people = 0x7f0700c2
+>>>>>>> origin/Bilal
 com.example.hackathon:integer/m3_chip_anim_duration = 0x7f09000d
 com.example.hackathon:id/disjoint = 0x7f0800a2
 com.example.hackathon:attr/itemIconTint = 0x7f030225
 com.example.hackathon:integer/hide_password_duration = 0x7f090008
 com.example.hackathon:integer/cancel_button_image_alpha = 0x7f090004
+<<<<<<< HEAD
 com.example.hackathon:id/zxing_possible_result_points = 0x7f080225
 com.example.hackathon:drawable/m3_radiobutton_ripple = 0x7f0700d1
+=======
+com.example.hackathon:id/zxing_possible_result_points = 0x7f080226
+com.example.hackathon:drawable/m3_radiobutton_ripple = 0x7f0700d0
+>>>>>>> origin/Bilal
 com.example.hackathon:style/TextAppearance.MaterialComponents.Headline6 = 0x7f1201e1
 com.example.hackathon:id/zxing_decode_succeeded = 0x7f080224
 com.example.hackathon:color/material_on_primary_disabled = 0x7f0501fd
@@ -1360,17 +1884,33 @@ com.example.hackathon:style/Platform.V25.AppCompat.Light = 0x7f120130
 com.example.hackathon:attr/textAppearanceBodySmall = 0x7f030404
 com.example.hackathon:id/notification_main_column_container = 0x7f080166
 com.example.hackathon:id/end_padder = 0x7f0800b6
+<<<<<<< HEAD
 com.example.hackathon:layout/design_bottom_sheet_dialog = 0x7f0b0028
+=======
+com.example.hackathon:layout/design_bottom_sheet_dialog = 0x7f0b0027
+com.example.hackathon:drawable/waiting_list = 0x7f070122
+com.example.hackathon:id/imageView3 = 0x7f0800ef
+com.example.hackathon:style/TextAppearance.Material3.HeadlineSmall = 0x7f1201ce
+com.example.hackathon:macro/m3_comp_switch_unselected_focus_icon_color = 0x7f0c002d
+com.example.hackathon:style/Base.Widget.AppCompat.Light.ActionBar.TabView = 0x7f1200d2
+com.example.hackathon:string/exposed_dropdown_menu_content_description = 0x7f11002e
+>>>>>>> origin/Bilal
 com.example.hackathon:color/material_slider_active_tick_marks_color = 0x7f050204
 com.example.hackathon:drawable/abc_btn_check_to_on_mtrl_000 = 0x7f07002d
 com.example.hackathon:string/exposed_dropdown_menu_content_description = 0x7f11002e
 com.example.hackathon:style/Base.Widget.AppCompat.Light.ActionBar.TabView = 0x7f1200d2
 com.example.hackathon:macro/m3_comp_switch_unselected_focus_icon_color = 0x7f0c002d
 com.example.hackathon:attr/buttonIconTintMode = 0x7f030082
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_mtrl_chip_close_circle = 0x7f0700c1
 com.example.hackathon:string/m3_sys_motion_easing_emphasized_path_data = 0x7f110042
 com.example.hackathon:id/noState = 0x7f080160
 com.example.hackathon:id/never = 0x7f08015c
+=======
+com.example.hackathon:drawable/ic_mtrl_chip_close_circle = 0x7f0700c0
+com.example.hackathon:id/noState = 0x7f080161
+com.example.hackathon:id/never = 0x7f08015d
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/collapsedSize = 0x7f0300da
 com.example.hackathon:attr/buttonIcon = 0x7f03007f
 com.example.hackathon:id/navigation_header_container = 0x7f08015b
@@ -1378,7 +1918,11 @@ com.example.hackathon:macro/m3_comp_switch_unselected_handle_color = 0x7f0c0031
 com.example.hackathon:id/navigation_bar_item_labels_group = 0x7f080158
 com.example.hackathon:color/m3_ref_palette_dynamic_neutral_variant99 = 0x7f0500b3
 com.example.hackathon:style/Widget.MaterialComponents.MaterialCalendar.Day.Today = 0x7f1203dc
+<<<<<<< HEAD
 com.example.hackathon:drawable/design_snackbar_background = 0x7f070091
+=======
+com.example.hackathon:drawable/design_snackbar_background = 0x7f070090
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Base.Widget.AppCompat.ListView.DropDown = 0x7f1200d8
 com.example.hackathon:id/navigation_bar_item_icon_view = 0x7f080157
 com.example.hackathon:id/nav_request = 0x7f080150
@@ -1406,10 +1950,17 @@ com.example.hackathon:attr/logoScaleType = 0x7f0302ac
 com.example.hackathon:attr/layout_constraintStart_toEndOf = 0x7f030270
 com.example.hackathon:id/nav_capital = 0x7f080147
 com.example.hackathon:dimen/subtitle_shadow_offset = 0x7f060266
+<<<<<<< HEAD
 com.example.hackathon:id/nav_alain = 0x7f080146
 com.example.hackathon:string/mtrl_checkbox_button_icon_path_indeterminate = 0x7f110061
 com.example.hackathon:style/ShapeAppearance.Material3.SmallComponent = 0x7f120158
 com.example.hackathon:id/multiply = 0x7f080145
+=======
+com.example.hackathon:id/nav_alain = 0x7f080148
+com.example.hackathon:string/mtrl_checkbox_button_icon_path_indeterminate = 0x7f110061
+com.example.hackathon:style/ShapeAppearance.Material3.SmallComponent = 0x7f120158
+com.example.hackathon:id/multiply = 0x7f080147
+>>>>>>> origin/Bilal
 com.example.hackathon:id/action_bar_subtitle = 0x7f080039
 com.example.hackathon:id/mtrl_picker_title_text = 0x7f080143
 com.example.hackathon:style/ThemeOverlay.AppCompat.Dialog.Alert = 0x7f120255
@@ -1450,6 +2001,7 @@ com.example.hackathon:id/neverCompleteToEnd = 0x7f08015d
 com.example.hackathon:id/logo = 0x7f08010b
 com.example.hackathon:id/linear_layout = 0x7f080108
 com.example.hackathon:style/Base.V14.Theme.MaterialComponents.Light.DarkActionBar.Bridge = 0x7f120089
+<<<<<<< HEAD
 com.example.hackathon:id/line3 = 0x7f080105
 com.example.hackathon:attr/actionModeTheme = 0x7f03001f
 com.example.hackathon:attr/clockNumberTextColor = 0x7f0300cf
@@ -1457,6 +2009,15 @@ com.example.hackathon:style/Theme.MaterialComponents.DayNight.Dialog = 0x7f12022
 com.example.hackathon:attr/layout_constraintGuide_begin = 0x7f03025f
 com.example.hackathon:layout/abc_alert_dialog_button_bar_material = 0x7f0b0008
 com.example.hackathon:id/visible = 0x7f080211
+=======
+com.example.hackathon:style/Theme.MaterialComponents.DayNight.Dialog = 0x7f120228
+com.example.hackathon:attr/layout_constraintGuide_begin = 0x7f03025f
+com.example.hackathon:layout/abc_alert_dialog_button_bar_material = 0x7f0b0008
+com.example.hackathon:id/visible = 0x7f080212
+com.example.hackathon:attr/actionModeTheme = 0x7f03001f
+com.example.hackathon:id/line3 = 0x7f080107
+com.example.hackathon:attr/clockNumberTextColor = 0x7f0300cf
+>>>>>>> origin/Bilal
 com.example.hackathon:string/mtrl_checkbox_button_icon_path_group_name = 0x7f110060
 com.example.hackathon:id/left = 0x7f080101
 com.example.hackathon:id/asConfigured = 0x7f080054
@@ -1483,10 +2044,14 @@ com.example.hackathon:style/ShapeAppearance.M3.Sys.Shape.Corner.ExtraSmall = 0x7
 com.example.hackathon:id/image = 0x7f0800ec
 com.example.hackathon:macro/m3_comp_switch_unselected_hover_state_layer_color = 0x7f0c0034
 com.example.hackathon:attr/numericModifiers = 0x7f03032d
-com.example.hackathon:color/m3_dark_highlighted_text = 0x7f050076
 com.example.hackathon:id/icon_group = 0x7f0800e5
 com.example.hackathon:attr/materialAlertDialogTheme = 0x7f0302b3
+<<<<<<< HEAD
 com.example.hackathon:id/mtrl_picker_header_selection_text = 0x7f08013d
+=======
+com.example.hackathon:color/m3_dark_highlighted_text = 0x7f050076
+com.example.hackathon:id/mtrl_picker_header_selection_text = 0x7f08013f
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Base.Theme.MaterialComponents.Light.DialogWhenLarge = 0x7f12006c
 com.example.hackathon:attr/zxing_viewfinder_laser_visibility = 0x7f0304b2
 com.example.hackathon:id/ic_play = 0x7f0800e2
@@ -1503,9 +2068,13 @@ com.example.hackathon:styleable/Variant = 0x7f130095
 com.example.hackathon:id/hisRvView = 0x7f0800d8
 com.example.hackathon:style/Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Large = 0x7f12001f
 com.example.hackathon:id/counterclockwise = 0x7f080089
+<<<<<<< HEAD
 com.example.hackathon:id/textView3 = 0x7f0801e3
 com.example.hackathon:style/Widget.AppCompat.Light.PopupMenu.Overflow = 0x7f1202e6
+=======
+>>>>>>> origin/Bilal
 com.example.hackathon:id/guideline = 0x7f0800d5
+com.example.hackathon:style/Widget.AppCompat.Light.PopupMenu.Overflow = 0x7f1202e6
 com.example.hackathon:dimen/design_tab_max_width = 0x7f06008a
 com.example.hackathon:attr/counterMaxLength = 0x7f030135
 com.example.hackathon:attr/layout_constraintWidth_min = 0x7f03027c
@@ -1523,11 +2092,19 @@ com.example.hackathon:id/fixed = 0x7f0800c6
 com.example.hackathon:id/fitToContents = 0x7f0800c4
 com.example.hackathon:style/Base.Widget.Material3.FloatingActionButton.Large = 0x7f1200f8
 com.example.hackathon:id/fill = 0x7f0800bd
+<<<<<<< HEAD
 com.example.hackathon:drawable/food_icon = 0x7f070093
 com.example.hackathon:string/library_zxingandroidembedded_libraryName = 0x7f11003a
 com.example.hackathon:dimen/design_navigation_separator_vertical_padding = 0x7f06007e
 com.example.hackathon:string/mtrl_picker_range_header_title = 0x7f11007f
 com.example.hackathon:drawable/mtrl_dialog_background = 0x7f0700ed
+=======
+com.example.hackathon:drawable/food_icon = 0x7f070092
+com.example.hackathon:string/library_zxingandroidembedded_libraryName = 0x7f11003a
+com.example.hackathon:dimen/design_navigation_separator_vertical_padding = 0x7f06007e
+com.example.hackathon:string/mtrl_picker_range_header_title = 0x7f11007f
+com.example.hackathon:drawable/mtrl_dialog_background = 0x7f0700ec
+>>>>>>> origin/Bilal
 com.example.hackathon:id/fitStart = 0x7f0800c3
 com.example.hackathon:color/material_dynamic_tertiary100 = 0x7f0501e4
 com.example.hackathon:style/Base.Theme.MaterialComponents.Light.Dialog.MinWidth = 0x7f12006b
@@ -1539,16 +2116,22 @@ com.example.hackathon:style/Platform.Widget.AppCompat.Spinner = 0x7f120131
 com.example.hackathon:id/dragLeft = 0x7f0800a7
 com.example.hackathon:style/Widget.AppCompat.Spinner = 0x7f1202fa
 com.example.hackathon:attr/path_percent = 0x7f030349
-com.example.hackathon:id/dragEnd = 0x7f0800a6
-com.example.hackathon:style/ThemeOverlay.MaterialComponents.BottomSheetDialog = 0x7f12029c
-com.example.hackathon:integer/design_tab_indicator_anim_duration_ms = 0x7f090007
 com.example.hackathon:dimen/m3_card_elevated_hovered_z = 0x7f0600de
+com.example.hackathon:integer/design_tab_indicator_anim_duration_ms = 0x7f090007
+com.example.hackathon:style/ThemeOverlay.MaterialComponents.BottomSheetDialog = 0x7f12029c
+com.example.hackathon:id/dragEnd = 0x7f0800a6
 com.example.hackathon:id/disableHome = 0x7f08009e
 com.example.hackathon:dimen/m3_sys_motion_easing_emphasized_accelerate_control_x2 = 0x7f060144
+<<<<<<< HEAD
 com.example.hackathon:id/action_mode_bar = 0x7f080041
 com.example.hackathon:id/indeterminate = 0x7f0800f7
 com.example.hackathon:id/deltaRelative = 0x7f080094
 com.example.hackathon:id/material_minute_text_input = 0x7f080119
+=======
+com.example.hackathon:id/deltaRelative = 0x7f080094
+com.example.hackathon:id/indeterminate = 0x7f0800f9
+com.example.hackathon:id/material_minute_text_input = 0x7f08011b
+>>>>>>> origin/Bilal
 com.example.hackathon:color/m3_ref_palette_dynamic_neutral_variant40 = 0x7f0500ac
 com.example.hackathon:style/Widget.Material3.Button.TonalButton = 0x7f12032f
 com.example.hackathon:style/Theme.MaterialComponents.DayNight.Dialog.MinWidth = 0x7f12022e
@@ -1561,7 +2144,11 @@ com.example.hackathon:style/ThemeOverlay.Material3.DynamicColors.Dark = 0x7f1202
 com.example.hackathon:style/Widget.MaterialComponents.Button.Icon = 0x7f1203b8
 com.example.hackathon:drawable/$ic_instagram__1 = 0x7f070007
 com.example.hackathon:id/contiguous = 0x7f080085
+<<<<<<< HEAD
 com.example.hackathon:drawable/default_selected_dot = 0x7f07008b
+=======
+com.example.hackathon:drawable/default_selected_dot = 0x7f07008a
+>>>>>>> origin/Bilal
 com.example.hackathon:color/m3_timepicker_display_stroke_color = 0x7f0501a2
 com.example.hackathon:styleable/MaterialDivider = 0x7f13005a
 com.example.hackathon:dimen/mtrl_badge_long_text_horizontal_padding = 0x7f060198
@@ -1572,7 +2159,11 @@ com.example.hackathon:id/container = 0x7f080082
 com.example.hackathon:id/constraint = 0x7f080081
 com.example.hackathon:attr/carousel_previousState = 0x7f030096
 com.example.hackathon:id/clear_text = 0x7f080079
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_checkbox_button_icon_indeterminate_unchecked = 0x7f0700e9
+=======
+com.example.hackathon:drawable/mtrl_checkbox_button_icon_indeterminate_unchecked = 0x7f0700e8
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/showDividers = 0x7f030399
 com.example.hackathon:style/Theme.AppCompat.DayNight.DarkActionBar = 0x7f1201ed
 com.example.hackathon:id/center_vertical = 0x7f080071
@@ -1580,22 +2171,29 @@ com.example.hackathon:style/ThemeOverlay.MaterialComponents.Dialog.Alert.Framewo
 com.example.hackathon:style/Widget.Material3.FloatingActionButton.Surface = 0x7f12035f
 com.example.hackathon:id/center = 0x7f08006d
 com.example.hackathon:string/material_motion_easing_decelerated = 0x7f110051
+<<<<<<< HEAD
 com.example.hackathon:layout/mtrl_calendar_days_of_week = 0x7f0b0053
+=======
+com.example.hackathon:layout/mtrl_calendar_days_of_week = 0x7f0b0052
+com.example.hackathon:style/Base.V7.Theme.AppCompat.Light = 0x7f1200ac
+>>>>>>> origin/Bilal
 com.example.hackathon:id/beginning = 0x7f08005e
 com.example.hackathon:style/Base.Widget.AppCompat.ActivityChooserView = 0x7f1200bb
-com.example.hackathon:style/Base.V7.Theme.AppCompat.Light = 0x7f1200ac
-com.example.hackathon:attr/checkedIconGravity = 0x7f0300a4
+com.example.hackathon:dimen/m3_navigation_rail_item_padding_top = 0x7f060130
 com.example.hackathon:style/Base.TextAppearance.AppCompat.Small = 0x7f120027
-com.example.hackathon:id/autoCompleteToStart = 0x7f080059
+com.example.hackathon:attr/checkedIconGravity = 0x7f0300a4
 com.example.hackathon:style/Widget.MaterialComponents.Slider = 0x7f1203fc
 com.example.hackathon:macro/m3_comp_switch_selected_hover_icon_color = 0x7f0c0023
-com.example.hackathon:dimen/m3_navigation_rail_item_padding_top = 0x7f060130
+com.example.hackathon:layout/activity_food_boxview = 0x7f0b0084
+com.example.hackathon:id/autoCompleteToStart = 0x7f080059
 com.example.hackathon:id/always = 0x7f08004e
 com.example.hackathon:id/material_clock_face = 0x7f080111
 com.example.hackathon:color/m3_sys_color_dark_inverse_on_surface = 0x7f050135
+com.example.hackathon:drawable/_4 = 0x7f07011c
 com.example.hackathon:id/add = 0x7f080047
 com.example.hackathon:dimen/mtrl_calendar_day_corner = 0x7f0601c2
 com.example.hackathon:color/m3_navigation_bar_ripple_color_selector = 0x7f050090
+<<<<<<< HEAD
 com.example.hackathon:id/accessibility_custom_action_31 = 0x7f080029
 com.example.hackathon:string/zxing_msg_camera_framework_bug = 0x7f1100a0
 com.example.hackathon:style/ShapeAppearance.Material3.Corner.Large = 0x7f120151
@@ -1604,11 +2202,22 @@ com.example.hackathon:attr/iconGravity = 0x7f0301f9
 com.example.hackathon:style/Widget.MaterialComponents.TimePicker = 0x7f120410
 com.example.hackathon:style/Base.V14.ThemeOverlay.MaterialComponents.Dialog = 0x7f12008e
 com.example.hackathon:id/action_image = 0x7f08003e
+=======
+com.example.hackathon:attr/iconGravity = 0x7f0301f9
+com.example.hackathon:id/action_mode_close_button = 0x7f080043
+com.example.hackathon:id/action_image = 0x7f08003e
+com.example.hackathon:style/Base.V14.ThemeOverlay.MaterialComponents.Dialog = 0x7f12008e
+com.example.hackathon:style/Widget.MaterialComponents.TimePicker = 0x7f120410
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/deltaPolarRadius = 0x7f03014f
 com.example.hackathon:id/action_context_bar = 0x7f08003c
 com.example.hackathon:id/action_bar_title = 0x7f08003a
 com.example.hackathon:style/TextAppearance.AppCompat.Widget.Switch = 0x7f12019e
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_whatsapp1 = 0x7f0700cc
+=======
+com.example.hackathon:drawable/ic_whatsapp1 = 0x7f0700cb
+>>>>>>> origin/Bilal
 com.example.hackathon:style/TextAppearance.AppCompat.Body1 = 0x7f120171
 com.example.hackathon:dimen/mtrl_btn_icon_btn_padding_left = 0x7f0601ac
 com.example.hackathon:id/action_bar_spinner = 0x7f080038
@@ -1618,7 +2227,11 @@ com.example.hackathon:id/action_bar = 0x7f080034
 com.example.hackathon:style/Platform.V21.AppCompat = 0x7f12012d
 com.example.hackathon:string/mtrl_picker_navigate_to_year_description = 0x7f11007a
 com.example.hackathon:id/accessibility_custom_action_8 = 0x7f08002e
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_gallery = 0x7f0700b1
+=======
+com.example.hackathon:drawable/ic_gallery = 0x7f0700b0
+>>>>>>> origin/Bilal
 com.example.hackathon:style/ThemeOverlay.Material3.MaterialCalendar.Fullscreen = 0x7f120284
 com.example.hackathon:attr/boxCornerRadiusBottomStart = 0x7f030070
 com.example.hackathon:style/Theme.Material3.Light.DialogWhenLarge = 0x7f12021d
@@ -1631,7 +2244,11 @@ com.example.hackathon:id/SHIFT = 0x7f080007
 com.example.hackathon:id/month_navigation_fragment_toggle = 0x7f080129
 com.example.hackathon:id/accessibility_custom_action_23 = 0x7f080020
 com.example.hackathon:style/Widget.Material3.MaterialTimePicker.Button = 0x7f12037c
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_ic_checkbox_unchecked = 0x7f0700f4
+=======
+com.example.hackathon:drawable/mtrl_ic_checkbox_unchecked = 0x7f0700f3
+>>>>>>> origin/Bilal
 com.example.hackathon:color/mtrl_btn_text_color_selector = 0x7f050215
 com.example.hackathon:style/Widget.Material3.BottomSheet.DragHandle = 0x7f12031d
 com.example.hackathon:drawable/abc_list_divider_mtrl_alpha = 0x7f07004d
@@ -1643,16 +2260,27 @@ com.example.hackathon:color/m3_ref_palette_dynamic_primary80 = 0x7f0500bd
 com.example.hackathon:style/Widget.Design.TabLayout = 0x7f12030c
 com.example.hackathon:style/ThemeOverlay.Material3.Button.TextButton.Snackbar = 0x7f120268
 com.example.hackathon:color/m3_ref_palette_error99 = 0x7f0500e7
-com.example.hackathon:string/library_zxingandroidembedded_isOpenSource = 0x7f110038
+com.example.hackathon:id/outline = 0x7f08016b
+com.example.hackathon:drawable/events_movie_waiting = 0x7f070127
 com.example.hackathon:id/accessibility_custom_action_17 = 0x7f080019
+com.example.hackathon:string/library_zxingandroidembedded_isOpenSource = 0x7f110038
 com.example.hackathon:drawable/custom_color4 = 0x7f070087
 com.example.hackathon:style/Widget.AppCompat.Light.ListView.DropDown = 0x7f1202e4
 com.example.hackathon:id/accessibility_custom_action_13 = 0x7f080015
+<<<<<<< HEAD
 com.example.hackathon:id/swipeRefreshLayout = 0x7f0801cb
 com.example.hackathon:id/scrollIndicatorUp = 0x7f080192
 com.example.hackathon:styleable/KeyFramesVelocity = 0x7f130047
 com.example.hackathon:string/material_timepicker_pm = 0x7f11005b
 com.example.hackathon:drawable/design_fab_background = 0x7f07008d
+=======
+com.example.hackathon:id/swipeRefreshLayout = 0x7f0801cc
+com.example.hackathon:id/scrollIndicatorUp = 0x7f080193
+com.example.hackathon:drawable/button = 0x7f07011e
+com.example.hackathon:styleable/KeyFramesVelocity = 0x7f130047
+com.example.hackathon:string/material_timepicker_pm = 0x7f11005b
+com.example.hackathon:drawable/design_fab_background = 0x7f07008c
+>>>>>>> origin/Bilal
 com.example.hackathon:id/accessibility_custom_action_12 = 0x7f080014
 com.example.hackathon:attr/subtitleTextStyle = 0x7f0303d5
 com.example.hackathon:style/Widget.Material3.CompoundButton.Switch = 0x7f12034b
@@ -1665,6 +2293,7 @@ com.example.hackathon:id/SHOW_PATH = 0x7f080009
 com.example.hackathon:attr/onStateTransition = 0x7f030333
 com.example.hackathon:id/BOTTOM_END = 0x7f080001
 com.example.hackathon:layout/abc_popup_menu_header_item_layout = 0x7f0b0012
+<<<<<<< HEAD
 com.example.hackathon:drawable/tooltip_frame_light = 0x7f07011c
 com.example.hackathon:style/ShapeAppearance.Material3.MediumComponent = 0x7f120156
 com.example.hackathon:color/m3_ref_palette_dynamic_neutral0 = 0x7f05009a
@@ -1687,10 +2316,35 @@ com.example.hackathon:layout/m3_auto_complete_simple_item = 0x7f0b003b
 com.example.hackathon:style/Widget.MaterialComponents.MaterialCalendar.HeaderConfirmButton = 0x7f1203e1
 com.example.hackathon:color/zxing_transparent = 0x7f05026e
 com.example.hackathon:drawable/mtrl_dropdown_arrow = 0x7f0700ee
+=======
+com.example.hackathon:drawable/tooltip_frame_light = 0x7f07011b
+com.example.hackathon:style/ShapeAppearance.Material3.MediumComponent = 0x7f120156
+com.example.hackathon:color/m3_ref_palette_dynamic_neutral0 = 0x7f05009a
+com.example.hackathon:attr/toggleCheckedStateOnClick = 0x7f030465
+com.example.hackathon:drawable/placeholder = 0x7f070113
+com.example.hackathon:attr/paddingRightSystemWindowInsets = 0x7f03033c
+com.example.hackathon:drawable/notification_template_icon_low_bg = 0x7f070110
+com.example.hackathon:attr/floatingActionButtonSmallPrimaryStyle = 0x7f0301b4
+com.example.hackathon:drawable/mtrl_switch_thumb_unchecked = 0x7f070100
+com.example.hackathon:style/Widget.Material3.Chip.Filter = 0x7f120338
+com.example.hackathon:drawable/mtrl_switch_thumb_pressed_checked = 0x7f0700fe
+com.example.hackathon:style/Widget.Material3.TabLayout = 0x7f12038f
+com.example.hackathon:color/m3_ref_palette_primary90 = 0x7f05010c
+com.example.hackathon:drawable/mtrl_switch_thumb_pressed = 0x7f0700fd
+com.example.hackathon:drawable/mtrl_switch_thumb_checked_unchecked = 0x7f0700fc
+com.example.hackathon:interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1 = 0x7f0a0003
+com.example.hackathon:dimen/m3_btn_inset = 0x7f0600ce
+com.example.hackathon:drawable/mtrl_switch_thumb_checked = 0x7f0700fa
+com.example.hackathon:layout/m3_auto_complete_simple_item = 0x7f0b003a
+com.example.hackathon:style/Widget.MaterialComponents.MaterialCalendar.HeaderConfirmButton = 0x7f1203e1
+com.example.hackathon:color/zxing_transparent = 0x7f05026e
+com.example.hackathon:drawable/mtrl_dropdown_arrow = 0x7f0700ed
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Widget.Material3.Badge = 0x7f120316
 com.example.hackathon:style/Widget.Material3.ExtendedFloatingActionButton.Tertiary = 0x7f120354
 com.example.hackathon:style/Widget.Material3.MaterialCalendar.Year = 0x7f120375
 com.example.hackathon:drawable/abc_ic_menu_copy_mtrl_am_alpha = 0x7f070042
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_baseline_toggleoff = 0x7f07009d
 com.example.hackathon:color/material_dynamic_tertiary40 = 0x7f0501e7
 com.example.hackathon:style/Theme.AppCompat.DayNight = 0x7f1201ec
@@ -1698,38 +2352,66 @@ com.example.hackathon:style/Theme.AppCompat.NoActionBar = 0x7f1201ff
 com.example.hackathon:drawable/mtrl_checkbox_button_icon_unchecked_indeterminate = 0x7f0700eb
 com.example.hackathon:color/m3_ref_palette_dynamic_secondary100 = 0x7f0500c3
 com.example.hackathon:drawable/mtrl_checkbox_button_icon_indeterminate_checked = 0x7f0700e8
+=======
+com.example.hackathon:drawable/ic_baseline_toggleoff = 0x7f07009c
+com.example.hackathon:color/material_dynamic_tertiary40 = 0x7f0501e7
+com.example.hackathon:style/Theme.AppCompat.DayNight = 0x7f1201ec
+com.example.hackathon:style/Theme.AppCompat.NoActionBar = 0x7f1201ff
+com.example.hackathon:drawable/mtrl_checkbox_button_icon_unchecked_indeterminate = 0x7f0700ea
+com.example.hackathon:color/m3_ref_palette_dynamic_secondary100 = 0x7f0500c3
+com.example.hackathon:drawable/mtrl_checkbox_button_icon_indeterminate_checked = 0x7f0700e7
+>>>>>>> origin/Bilal
 com.example.hackathon:color/m3_ref_palette_dynamic_neutral_variant80 = 0x7f0500b0
 com.example.hackathon:styleable/NavigationView = 0x7f130070
 com.example.hackathon:style/CardView.Light = 0x7f120110
 com.example.hackathon:style/Base.TextAppearance.AppCompat.SearchResult.Subtitle = 0x7f120025
 com.example.hackathon:layout/abc_search_view = 0x7f0b0019
 com.example.hackathon:layout/abc_expanded_menu_layout = 0x7f0b000d
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_checkbox_button = 0x7f0700e3
 com.example.hackathon:drawable/movie = 0x7f0700e1
 com.example.hackathon:style/Widget.MaterialComponents.NavigationRailView = 0x7f1203f0
 com.example.hackathon:drawable/error = 0x7f070092
 com.example.hackathon:id/save_overlay_view = 0x7f08018b
+=======
+com.example.hackathon:drawable/mtrl_checkbox_button = 0x7f0700e2
+com.example.hackathon:drawable/movie = 0x7f0700e0
+com.example.hackathon:style/Widget.MaterialComponents.NavigationRailView = 0x7f1203f0
+com.example.hackathon:drawable/error = 0x7f070091
+com.example.hackathon:id/save_overlay_view = 0x7f08018c
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Widget.Material3.MaterialCalendar.Item = 0x7f120372
 com.example.hackathon:style/Base.V26.Widget.AppCompat.Toolbar = 0x7f1200a7
 com.example.hackathon:color/mtrl_tabs_ripple_color = 0x7f05023f
 com.example.hackathon:id/customPanel = 0x7f08008d
 com.example.hackathon:attr/lStar = 0x7f03023e
+<<<<<<< HEAD
 com.example.hackathon:drawable/loading = 0x7f0700ce
 com.example.hackathon:style/ThemeOverlay.Material3.Button.IconButton.Filled = 0x7f120265
 com.example.hackathon:drawable/ic_settings = 0x7f0700c8
+=======
+com.example.hackathon:drawable/loading = 0x7f0700cd
+com.example.hackathon:style/ThemeOverlay.Material3.Button.IconButton.Filled = 0x7f120265
+com.example.hackathon:drawable/ic_settings = 0x7f0700c7
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Widget.MaterialComponents.AutoCompleteTextView.FilledBox = 0x7f1203aa
 com.example.hackathon:attr/flow_lastVerticalBias = 0x7f0301c6
 com.example.hackathon:string/error_a11y_label = 0x7f11002c
 com.example.hackathon:dimen/m3_bottom_nav_item_active_indicator_margin_horizontal = 0x7f0600b4
 com.example.hackathon:id/SHOW_PROGRESS = 0x7f08000a
 com.example.hackathon:dimen/mtrl_calendar_header_height_fullscreen = 0x7f0601ce
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_reservations = 0x7f0700c6
+=======
+com.example.hackathon:drawable/ic_reservations = 0x7f0700c5
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Widget.AppCompat.ButtonBar.AlertDialog = 0x7f1202cb
 com.example.hackathon:string/mtrl_picker_text_input_date_hint = 0x7f110082
 com.example.hackathon:layout/design_navigation_item_subheader = 0x7f0b0031
 com.example.hackathon:string/abc_action_menu_overflow_description = 0x7f110003
 com.example.hackathon:style/TextAppearance.M3.Sys.Typescale.LabelLarge = 0x7f1201be
 com.example.hackathon:dimen/abc_dialog_padding_material = 0x7f060024
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_play = 0x7f0700c4
 com.example.hackathon:color/mtrl_chip_close_icon_tint = 0x7f05021c
 com.example.hackathon:dimen/material_clock_hand_stroke_width = 0x7f060172
@@ -1753,19 +2435,53 @@ com.example.hackathon:drawable/ic_coursel = 0x7f0700ad
 com.example.hackathon:style/Base.Animation.AppCompat.Tooltip = 0x7f12000b
 com.example.hackathon:dimen/mtrl_calendar_days_of_week_height = 0x7f0601c8
 com.example.hackathon:drawable/ic_bumper2 = 0x7f0700a3
+=======
+com.example.hackathon:drawable/ic_play = 0x7f0700c3
+com.example.hackathon:color/mtrl_chip_close_icon_tint = 0x7f05021c
+com.example.hackathon:dimen/material_clock_hand_stroke_width = 0x7f060172
+com.example.hackathon:drawable/ic_offers = 0x7f0700c1
+com.example.hackathon:drawable/ic_mtrl_chip_checked_circle = 0x7f0700bf
+com.example.hackathon:drawable/ic_launcher_background = 0x7f0700b4
+com.example.hackathon:drawable/ic_keyboard_black_24dp = 0x7f0700b3
+com.example.hackathon:drawable/ic_instagram = 0x7f0700b2
+com.example.hackathon:dimen/design_fab_size_mini = 0x7f060072
+com.example.hackathon:style/Theme.MaterialComponents.DayNight.Dialog.Bridge = 0x7f12022b
+com.example.hackathon:id/nav_whatsapp = 0x7f080155
+com.example.hackathon:drawable/ic_facebook1 = 0x7f0700af
+com.example.hackathon:style/ThemeOverlay.AppCompat.Dialog = 0x7f120254
+com.example.hackathon:id/row_index_key = 0x7f08018a
+com.example.hackathon:id/spring = 0x7f0801ba
+com.example.hackathon:attr/panelBackground = 0x7f030340
+com.example.hackathon:drawable/ic_dashboard = 0x7f0700ad
+com.example.hackathon:attr/keyPositionType = 0x7f03023b
+com.example.hackathon:attr/layout_constraintRight_toRightOf = 0x7f03026f
+com.example.hackathon:drawable/ic_coursel = 0x7f0700ac
+com.example.hackathon:style/Base.Animation.AppCompat.Tooltip = 0x7f12000b
+com.example.hackathon:dimen/mtrl_calendar_days_of_week_height = 0x7f0601c8
+com.example.hackathon:drawable/ic_bumper2 = 0x7f0700a2
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Base.Widget.MaterialComponents.CheckedTextView = 0x7f120101
 com.example.hackathon:color/design_fab_shadow_mid_color = 0x7f05004c
 com.example.hackathon:style/Widget.Material3.MaterialDivider = 0x7f120379
 com.example.hackathon:id/chain2 = 0x7f080073
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_bug = 0x7f0700a2
 com.example.hackathon:color/material_on_surface_emphasis_medium = 0x7f050202
 com.example.hackathon:id/accessibility_custom_action_9 = 0x7f08002f
 com.example.hackathon:drawable/ic_booking = 0x7f0700a1
 com.example.hackathon:drawable/ic__bdaycake = 0x7f070096
+=======
+com.example.hackathon:drawable/ic_bug = 0x7f0700a1
+com.example.hackathon:color/material_on_surface_emphasis_medium = 0x7f050202
+com.example.hackathon:id/accessibility_custom_action_9 = 0x7f08002f
+com.example.hackathon:drawable/ic_booking = 0x7f0700a0
+com.example.hackathon:drawable/ic__bdaycake = 0x7f070095
+>>>>>>> origin/Bilal
 com.example.hackathon:id/accessibility_custom_action_26 = 0x7f080023
 com.example.hackathon:string/character_counter_pattern = 0x7f110028
 com.example.hackathon:styleable/ExtendedFloatingActionButton_Behavior_Layout = 0x7f130033
 com.example.hackathon:styleable/StateListDrawable = 0x7f130084
+<<<<<<< HEAD
 com.example.hackathon:drawable/gradient = 0x7f070095
 com.example.hackathon:style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small = 0x7f120180
 com.example.hackathon:dimen/abc_disabled_alpha_material_light = 0x7f060028
@@ -1773,6 +2489,15 @@ com.example.hackathon:integer/m3_sys_motion_duration_medium2 = 0x7f090027
 com.example.hackathon:drawable/design_password_eye = 0x7f070090
 com.example.hackathon:attr/nestedScrollable = 0x7f03032b
 com.example.hackathon:drawable/design_ic_visibility_off = 0x7f07008f
+=======
+com.example.hackathon:drawable/gradient = 0x7f070094
+com.example.hackathon:style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small = 0x7f120180
+com.example.hackathon:dimen/abc_disabled_alpha_material_light = 0x7f060028
+com.example.hackathon:integer/m3_sys_motion_duration_medium2 = 0x7f090027
+com.example.hackathon:drawable/design_password_eye = 0x7f07008f
+com.example.hackathon:attr/nestedScrollable = 0x7f03032b
+com.example.hackathon:drawable/design_ic_visibility_off = 0x7f07008e
+>>>>>>> origin/Bilal
 com.example.hackathon:drawable/abc_textfield_search_activated_mtrl_alpha = 0x7f070073
 com.example.hackathon:id/accessibility_custom_action_25 = 0x7f080022
 com.example.hackathon:attr/boxStrokeColor = 0x7f030073
@@ -1802,7 +2527,11 @@ com.example.hackathon:styleable/ScrimInsetsFrameLayout = 0x7f13007a
 com.example.hackathon:style/Widget.Material3.MaterialCalendar.MonthTextView = 0x7f120374
 com.example.hackathon:style/Widget.AppCompat.Spinner.DropDown.ActionBar = 0x7f1202fc
 com.example.hackathon:style/Widget.MaterialComponents.Toolbar.PrimarySurface = 0x7f12041c
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_ic_check_mark = 0x7f0700f2
+=======
+com.example.hackathon:drawable/mtrl_ic_check_mark = 0x7f0700f1
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/compat_control_corner_material = 0x7f06005a
 com.example.hackathon:drawable/abc_text_select_handle_right_mtrl = 0x7f070070
 com.example.hackathon:attr/contentInsetStart = 0x7f03011c
@@ -1810,7 +2539,11 @@ com.example.hackathon:id/alertTitle = 0x7f080048
 com.example.hackathon:style/Base.Widget.AppCompat.AutoCompleteTextView = 0x7f1200bc
 com.example.hackathon:id/split_action_bar = 0x7f0801b6
 com.example.hackathon:attr/checkedIcon = 0x7f0300a2
+<<<<<<< HEAD
 com.example.hackathon:drawable/notification_bg_low_normal = 0x7f07010b
+=======
+com.example.hackathon:drawable/notification_bg_low_normal = 0x7f07010a
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/layout_goneMarginBottom = 0x7f030282
 com.example.hackathon:color/m3_dark_default_color_primary_text = 0x7f050074
 com.example.hackathon:color/abc_tint_switch_track = 0x7f050018
@@ -1831,7 +2564,11 @@ com.example.hackathon:id/month_title = 0x7f08012c
 com.example.hackathon:style/Theme.AppCompat.Light.DarkActionBar = 0x7f1201f9
 com.example.hackathon:id/screen = 0x7f08018f
 com.example.hackathon:dimen/m3_sys_state_dragged_state_layer_opacity = 0x7f060167
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_city = 0x7f0700a9
+=======
+com.example.hackathon:drawable/ic_city = 0x7f0700a8
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/fontWeight = 0x7f0301da
 com.example.hackathon:attr/tabIndicatorAnimationMode = 0x7f0303e6
 com.example.hackathon:drawable/abc_star_black_48dp = 0x7f070067
@@ -1853,12 +2590,22 @@ com.example.hackathon:style/ThemeOverlay.Material3.ExtendedFloatingActionButton.
 com.example.hackathon:drawable/abc_seekbar_thumb_material = 0x7f070062
 com.example.hackathon:drawable/abc_scrubber_control_to_pressed_mtrl_005 = 0x7f07005f
 com.example.hackathon:drawable/abc_scrubber_control_to_pressed_mtrl_000 = 0x7f07005e
+<<<<<<< HEAD
 com.example.hackathon:attr/motionEffect_translationX = 0x7f030316
+=======
+com.example.hackathon:id/scrollView = 0x7f080194
+com.example.hackathon:style/Widget.Material3.TextInputEditText.OutlinedBox = 0x7f120394
+com.example.hackathon:string/mtrl_switch_thumb_group_name = 0x7f11008c
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Widget.AppCompat.ActionButton.Overflow = 0x7f1202c0
 com.example.hackathon:drawable/abc_scrubber_control_off_mtrl_alpha = 0x7f07005d
 com.example.hackathon:attr/chipStandaloneStyle = 0x7f0300b9
 com.example.hackathon:attr/quantizeMotionSteps = 0x7f030362
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_facebook = 0x7f0700af
+=======
+com.example.hackathon:drawable/ic_facebook = 0x7f0700ae
+>>>>>>> origin/Bilal
 com.example.hackathon:drawable/abc_menu_hardkey_panel_mtrl_mult = 0x7f070058
 com.example.hackathon:styleable/ExtendedFloatingActionButton = 0x7f130032
 com.example.hackathon:attr/endIconTintMode = 0x7f03017f
@@ -1880,14 +2627,22 @@ com.example.hackathon:macro/m3_comp_fab_secondary_container_color = 0x7f0c0010
 com.example.hackathon:color/m3_ref_palette_secondary20 = 0x7f050112
 com.example.hackathon:id/month_navigation_bar = 0x7f080128
 com.example.hackathon:id/accessibility_custom_action_7 = 0x7f08002d
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_checkbox_button_icon_unchecked_checked = 0x7f0700ea
+=======
+com.example.hackathon:drawable/mtrl_checkbox_button_icon_unchecked_checked = 0x7f0700e9
+>>>>>>> origin/Bilal
 com.example.hackathon:drawable/abc_ic_menu_cut_mtrl_alpha = 0x7f070043
 com.example.hackathon:color/m3_chip_background_color = 0x7f050070
 com.example.hackathon:drawable/abc_edit_text_material = 0x7f07003c
 com.example.hackathon:string/open = 0x7f110096
 com.example.hackathon:style/Widget.Design.CollapsingToolbar = 0x7f120307
 com.example.hackathon:dimen/m3_btn_translation_z_hovered = 0x7f0600da
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_checkbox_button_unchecked_checked = 0x7f0700ec
+=======
+com.example.hackathon:drawable/mtrl_checkbox_button_unchecked_checked = 0x7f0700eb
+>>>>>>> origin/Bilal
 com.example.hackathon:drawable/abc_btn_check_material_anim = 0x7f07002c
 com.example.hackathon:integer/mtrl_view_visible = 0x7f090049
 com.example.hackathon:dimen/m3_comp_switch_disabled_handle_opacity = 0x7f060101
@@ -1937,7 +2692,11 @@ com.example.hackathon:drawable/$mtrl_checkbox_button_checked_unchecked__0 = 0x7f
 com.example.hackathon:drawable/$ic_reservations__0 = 0x7f07000a
 com.example.hackathon:attr/backgroundInsetBottom = 0x7f030043
 com.example.hackathon:attr/buttonPanelSideLayout = 0x7f030083
+<<<<<<< HEAD
 com.example.hackathon:drawable/notification_bg_low_pressed = 0x7f07010c
+=======
+com.example.hackathon:drawable/notification_bg_low_pressed = 0x7f07010b
+>>>>>>> origin/Bilal
 com.example.hackathon:drawable/$avd_show_password__2 = 0x7f070005
 com.example.hackathon:color/background_material_dark = 0x7f05001f
 com.example.hackathon:string/material_motion_easing_standard = 0x7f110054
@@ -1951,11 +2710,15 @@ com.example.hackathon:drawable/$avd_hide_password__1 = 0x7f070001
 com.example.hackathon:style/ThemeOverlay.MaterialComponents.MaterialAlertDialog.Centered = 0x7f1202a6
 com.example.hackathon:dimen/tooltip_y_offset_touch = 0x7f06026f
 com.example.hackathon:dimen/tooltip_y_offset_non_touch = 0x7f06026e
+<<<<<<< HEAD
 com.example.hackathon:color/m3_ref_palette_dynamic_secondary20 = 0x7f0500c4
 com.example.hackathon:attr/icon = 0x7f0301f7
 com.example.hackathon:id/material_hour_text_input = 0x7f080116
+=======
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/tooltip_precise_anchor_extra_offset = 0x7f06026b
 com.example.hackathon:dimen/m3_navigation_rail_item_active_indicator_width = 0x7f06012d
+com.example.hackathon:id/material_hour_text_input = 0x7f080118
 com.example.hackathon:dimen/tooltip_margin = 0x7f06026a
 com.example.hackathon:dimen/tooltip_corner_radius = 0x7f060268
 com.example.hackathon:dimen/subtitle_shadow_radius = 0x7f060267
@@ -1970,7 +2733,11 @@ com.example.hackathon:dimen/notification_small_icon_size_as_large = 0x7f060260
 com.example.hackathon:dimen/notification_right_side_padding_top = 0x7f06025e
 com.example.hackathon:attr/textAppearanceHeadline1 = 0x7f03040a
 com.example.hackathon:dimen/notification_media_narrow_margin = 0x7f06025c
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_baseline_settings_applications = 0x7f07009c
+=======
+com.example.hackathon:drawable/ic_baseline_settings_applications = 0x7f07009b
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/notification_main_column_padding_top = 0x7f06025b
 com.example.hackathon:style/Widget.MaterialComponents.MaterialCalendar.HeaderTitle = 0x7f1203e6
 com.example.hackathon:dimen/notification_action_text_size = 0x7f060256
@@ -2005,7 +2772,11 @@ com.example.hackathon:id/bounceStart = 0x7f080065
 com.example.hackathon:color/m3_sys_color_dynamic_light_primary = 0x7f050170
 com.example.hackathon:color/m3_dynamic_dark_default_color_primary_text = 0x7f05007b
 com.example.hackathon:dimen/mtrl_extended_fab_translation_z_hovered_focused = 0x7f060200
+<<<<<<< HEAD
 com.example.hackathon:drawable/material_ic_keyboard_arrow_previous_black_24dp = 0x7f0700dd
+=======
+com.example.hackathon:drawable/material_ic_keyboard_arrow_previous_black_24dp = 0x7f0700dc
+>>>>>>> origin/Bilal
 com.example.hackathon:color/material_dynamic_tertiary0 = 0x7f0501e2
 com.example.hackathon:attr/drawableStartCompat = 0x7f030166
 com.example.hackathon:dimen/mtrl_exposed_dropdown_menu_popup_vertical_padding = 0x7f0601f1
@@ -2024,9 +2795,13 @@ com.example.hackathon:dimen/mtrl_slider_label_radius = 0x7f060233
 com.example.hackathon:color/m3_ref_palette_neutral_variant20 = 0x7f0500f8
 com.example.hackathon:id/postLayout = 0x7f08017c
 com.example.hackathon:dimen/mtrl_slider_label_padding = 0x7f060232
+<<<<<<< HEAD
 com.example.hackathon:id/outline = 0x7f08016a
 com.example.hackathon:dimen/mtrl_shape_corner_size_small_component = 0x7f060230
+=======
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Widget.Material3.CircularProgressIndicator.Medium = 0x7f120343
+com.example.hackathon:dimen/mtrl_shape_corner_size_small_component = 0x7f060230
 com.example.hackathon:attr/shapeAppearanceCornerSmall = 0x7f03038f
 com.example.hackathon:dimen/mtrl_shape_corner_size_medium_component = 0x7f06022f
 com.example.hackathon:style/Widget.AppCompat.Spinner.DropDown = 0x7f1202fb
@@ -2049,7 +2824,11 @@ com.example.hackathon:dimen/mtrl_navigation_rail_elevation = 0x7f06021a
 com.example.hackathon:attr/iconSize = 0x7f0301fb
 com.example.hackathon:id/mini = 0x7f080126
 com.example.hackathon:dimen/mtrl_navigation_rail_compact_width = 0x7f060218
+<<<<<<< HEAD
 com.example.hackathon:drawable/tooltip_frame_dark = 0x7f07011b
+=======
+com.example.hackathon:drawable/tooltip_frame_dark = 0x7f07011a
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/mtrl_navigation_item_shape_horizontal_margin = 0x7f060215
 com.example.hackathon:attr/layout_optimizationLevel = 0x7f03028c
 com.example.hackathon:dimen/mtrl_navigation_elevation = 0x7f060211
@@ -2073,11 +2852,19 @@ com.example.hackathon:dimen/mtrl_exposed_dropdown_menu_popup_vertical_offset = 0
 com.example.hackathon:attr/shapeAppearanceCornerExtraLarge = 0x7f03038b
 com.example.hackathon:dimen/mtrl_card_checked_icon_margin = 0x7f0601e7
 com.example.hackathon:color/m3_switch_track_tint = 0x7f050131
+<<<<<<< HEAD
 com.example.hackathon:drawable/notification_bg_normal = 0x7f07010d
 com.example.hackathon:id/peekHeight = 0x7f080177
 com.example.hackathon:attr/actionModeCloseButtonStyle = 0x7f030013
 com.example.hackathon:style/ThemeOverlay.Material3.BottomAppBar.Legacy = 0x7f120260
 com.example.hackathon:layout/notification_template_custom_big = 0x7f0b0070
+=======
+com.example.hackathon:drawable/notification_bg_normal = 0x7f07010c
+com.example.hackathon:id/peekHeight = 0x7f080178
+com.example.hackathon:layout/notification_template_custom_big = 0x7f0b006f
+com.example.hackathon:attr/actionModeCloseButtonStyle = 0x7f030013
+com.example.hackathon:style/ThemeOverlay.Material3.BottomAppBar.Legacy = 0x7f120260
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/mtrl_calendar_year_width = 0x7f0601e6
 com.example.hackathon:color/m3_ref_palette_secondary40 = 0x7f050114
 com.example.hackathon:id/tag_unhandled_key_event_manager = 0x7f0801d7
@@ -2099,8 +2886,13 @@ com.example.hackathon:id/navigation_bar_item_small_label_view = 0x7f08015a
 com.example.hackathon:dimen/mtrl_calendar_header_text_padding = 0x7f0601d0
 com.example.hackathon:dimen/mtrl_calendar_header_selection_line_height = 0x7f0601cf
 com.example.hackathon:style/ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen = 0x7f1202ad
+<<<<<<< HEAD
 com.example.hackathon:id/mtrl_motion_snapshot_view = 0x7f08013a
 com.example.hackathon:drawable/ic_arcade = 0x7f070098
+=======
+com.example.hackathon:id/mtrl_motion_snapshot_view = 0x7f08013c
+com.example.hackathon:drawable/ic_arcade = 0x7f070097
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/mtrl_calendar_header_content_padding_fullscreen = 0x7f0601cb
 com.example.hackathon:attr/colorTertiary = 0x7f03010a
 com.example.hackathon:color/background_floating_material_light = 0x7f05001e
@@ -2116,7 +2908,11 @@ com.example.hackathon:dimen/m3_card_stroke_width = 0x7f0600e1
 com.example.hackathon:styleable/Carousel = 0x7f13001b
 com.example.hackathon:style/TextAppearance.MaterialComponents.Badge = 0x7f1201d6
 com.example.hackathon:id/enterAlways = 0x7f0800b7
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_switch_thumb_pressed_unchecked = 0x7f070100
+=======
+com.example.hackathon:drawable/mtrl_switch_thumb_pressed_unchecked = 0x7f0700ff
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/mtrl_calendar_day_vertical_padding = 0x7f0601c6
 com.example.hackathon:color/mtrl_tabs_colored_ripple_color = 0x7f05023b
 com.example.hackathon:attr/enforceTextAppearance = 0x7f030181
@@ -2126,8 +2922,13 @@ com.example.hackathon:dimen/mtrl_calendar_day_today_stroke = 0x7f0601c5
 com.example.hackathon:style/Widget.Material3.MaterialCalendar.HeaderLayout = 0x7f12036d
 com.example.hackathon:attr/colorPrimaryDark = 0x7f0300ff
 com.example.hackathon:string/abc_action_bar_up_description = 0x7f110002
+<<<<<<< HEAD
 com.example.hackathon:drawable/notification_tile_bg = 0x7f070112
 com.example.hackathon:drawable/m3_tabs_rounded_line_indicator = 0x7f0700d5
+=======
+com.example.hackathon:drawable/notification_tile_bg = 0x7f070111
+com.example.hackathon:drawable/m3_tabs_rounded_line_indicator = 0x7f0700d4
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/mtrl_calendar_content_padding = 0x7f0601c1
 com.example.hackathon:dimen/mtrl_calendar_bottom_padding = 0x7f0601c0
 com.example.hackathon:dimen/mtrl_calendar_action_padding = 0x7f0601bf
@@ -2148,7 +2949,11 @@ com.example.hackathon:dimen/mtrl_btn_disabled_elevation = 0x7f0601a7
 com.example.hackathon:dimen/m3_navigation_item_shape_inset_start = 0x7f060125
 com.example.hackathon:string/error_icon_content_description = 0x7f11002d
 com.example.hackathon:dimen/mtrl_btn_corner_radius = 0x7f0601a5
+<<<<<<< HEAD
 com.example.hackathon:drawable/m3_tabs_transparent_background = 0x7f0700d6
+=======
+com.example.hackathon:drawable/m3_tabs_transparent_background = 0x7f0700d5
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/mtrl_bottomappbar_fabOffsetEndMode = 0x7f06019f
 com.example.hackathon:style/Widget.MaterialComponents.MaterialCalendar.Year.Today = 0x7f1203ed
 com.example.hackathon:attr/maxImageSize = 0x7f0302e0
@@ -2163,11 +2968,15 @@ com.example.hackathon:dimen/material_helper_text_default_padding_top = 0x7f06018
 com.example.hackathon:style/TextAppearance.M3.Sys.Typescale.TitleSmall = 0x7f1201c3
 com.example.hackathon:dimen/material_filled_edittext_font_2_0_padding_top = 0x7f060184
 com.example.hackathon:style/Widget.AppCompat.Light.ActionBar.TabView = 0x7f1202da
-com.example.hackathon:style/MaterialAlertDialog.MaterialComponents.Picker.Date.Calendar = 0x7f12011c
 com.example.hackathon:dimen/material_emphasis_medium = 0x7f060180
+com.example.hackathon:style/MaterialAlertDialog.MaterialComponents.Picker.Date.Calendar = 0x7f12011c
 com.example.hackathon:layout/abc_select_dialog_material = 0x7f0b001a
 com.example.hackathon:dimen/material_emphasis_high_type = 0x7f06017f
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_bottomsheet_drag_handle = 0x7f0700e2
+=======
+com.example.hackathon:drawable/mtrl_bottomsheet_drag_handle = 0x7f0700e1
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/material_emphasis_disabled = 0x7f06017d
 com.example.hackathon:dimen/material_cursor_width = 0x7f06017b
 com.example.hackathon:dimen/material_cursor_inset_bottom = 0x7f060179
@@ -2206,7 +3015,11 @@ com.example.hackathon:dimen/m3_sys_motion_easing_standard_accelerate_control_x1 
 com.example.hackathon:dimen/m3_sys_motion_easing_linear_control_y2 = 0x7f06015a
 com.example.hackathon:dimen/m3_sys_motion_easing_legacy_decelerate_control_y1 = 0x7f060155
 com.example.hackathon:dimen/m3_sys_motion_easing_legacy_decelerate_control_x2 = 0x7f060154
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_menu = 0x7f0700bc
+=======
+com.example.hackathon:drawable/ic_menu = 0x7f0700bb
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/m3_sys_motion_easing_legacy_decelerate_control_x1 = 0x7f060153
 com.example.hackathon:dimen/m3_sys_motion_easing_legacy_control_y1 = 0x7f060151
 com.example.hackathon:dimen/m3_sys_motion_easing_legacy_control_x2 = 0x7f060150
@@ -2314,7 +3127,11 @@ com.example.hackathon:anim/btn_radio_to_off_mtrl_dot_group_animation = 0x7f01001
 com.example.hackathon:dimen/m3_btn_text_btn_padding_right = 0x7f0600d8
 com.example.hackathon:dimen/m3_btn_text_btn_padding_left = 0x7f0600d7
 com.example.hackathon:style/Widget.MaterialComponents.TextInputLayout.FilledBox = 0x7f120407
+<<<<<<< HEAD
 com.example.hackathon:drawable/m3_tabs_background = 0x7f0700d3
+=======
+com.example.hackathon:drawable/m3_tabs_background = 0x7f0700d2
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/m3_btn_text_btn_icon_padding_right = 0x7f0600d6
 com.example.hackathon:dimen/m3_btn_stroke_size = 0x7f0600d4
 com.example.hackathon:attr/buttonStyle = 0x7f030084
@@ -2330,8 +3147,13 @@ com.example.hackathon:dimen/m3_btn_icon_only_min_width = 0x7f0600cd
 com.example.hackathon:id/action_menu_divider = 0x7f08003f
 com.example.hackathon:dimen/m3_btn_icon_only_default_size = 0x7f0600cb
 com.example.hackathon:style/Widget.Material3.ExtendedFloatingActionButton.Icon.Secondary = 0x7f12034e
+<<<<<<< HEAD
 com.example.hackathon:id/transition_scene_layoutid_cache = 0x7f0801ff
 com.example.hackathon:drawable/ic_baseline_card = 0x7f070099
+=======
+com.example.hackathon:id/transition_scene_layoutid_cache = 0x7f080200
+com.example.hackathon:drawable/ic_baseline_card = 0x7f070098
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/m3_btn_icon_btn_padding_right = 0x7f0600c9
 com.example.hackathon:dimen/m3_appbar_expanded_title_margin_horizontal = 0x7f0600a6
 com.example.hackathon:id/textView = 0x7f0801e1
@@ -2389,9 +3211,15 @@ com.example.hackathon:attr/suffixTextColor = 0x7f0303d8
 com.example.hackathon:drawable/custom_button = 0x7f070085
 com.example.hackathon:attr/controlBackground = 0x7f030127
 com.example.hackathon:dimen/hint_pressed_alpha_material_light = 0x7f06009a
+com.example.hackathon:layout/activity_movie = 0x7f0b0080
 com.example.hackathon:styleable/FragmentContainerView = 0x7f13003b
+<<<<<<< HEAD
 com.example.hackathon:dimen/m3_sys_motion_easing_emphasized_accelerate_control_y1 = 0x7f060145
 com.example.hackathon:layout/design_layout_snackbar_include = 0x7f0b002a
+=======
+com.example.hackathon:layout/design_layout_snackbar_include = 0x7f0b0029
+com.example.hackathon:dimen/m3_sys_motion_easing_emphasized_accelerate_control_y1 = 0x7f060145
+>>>>>>> origin/Bilal
 com.example.hackathon:id/edit_query = 0x7f0800b1
 com.example.hackathon:dimen/highlight_alpha_material_light = 0x7f060096
 com.example.hackathon:attr/thumbTintMode = 0x7f03044c
@@ -2412,7 +3240,11 @@ com.example.hackathon:dimen/design_tab_scrollable_min_width = 0x7f06008b
 com.example.hackathon:dimen/mtrl_chip_text_size = 0x7f0601ee
 com.example.hackathon:dimen/design_bottom_navigation_item_min_width = 0x7f060067
 com.example.hackathon:dimen/design_snackbar_padding_horizontal = 0x7f060086
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_checkbox_button_icon = 0x7f0700e5
+=======
+com.example.hackathon:drawable/mtrl_checkbox_button_icon = 0x7f0700e4
+>>>>>>> origin/Bilal
 com.example.hackathon:color/dim_foreground_disabled_material_light = 0x7f050055
 com.example.hackathon:dimen/design_snackbar_max_width = 0x7f060084
 com.example.hackathon:dimen/m3_sys_elevation_level1 = 0x7f06013e
@@ -2431,7 +3263,11 @@ com.example.hackathon:dimen/m3_sys_elevation_level0 = 0x7f06013d
 com.example.hackathon:dimen/design_navigation_item_icon_padding = 0x7f06007a
 com.example.hackathon:styleable/ImageFilterView = 0x7f130040
 com.example.hackathon:color/material_dynamic_primary10 = 0x7f0501c9
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_m3_chip_close = 0x7f0700bb
+=======
+com.example.hackathon:drawable/ic_m3_chip_close = 0x7f0700ba
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/design_navigation_icon_size = 0x7f060078
 com.example.hackathon:dimen/design_navigation_elevation = 0x7f060076
 com.example.hackathon:dimen/design_fab_translation_z_pressed = 0x7f060075
@@ -2457,7 +3293,11 @@ com.example.hackathon:style/Widget.Material3.MaterialCalendar.HeaderToggleButton
 com.example.hackathon:drawable/abc_textfield_search_material = 0x7f070075
 com.example.hackathon:dimen/design_bottom_navigation_active_text_size = 0x7f060062
 com.example.hackathon:style/Widget.MaterialComponents.BottomNavigationView = 0x7f1203b2
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_home = 0x7f0700b2
+=======
+com.example.hackathon:drawable/ic_home = 0x7f0700b1
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/cardview_compat_inset_shadow = 0x7f060052
 com.example.hackathon:string/icon_content_description = 0x7f110033
 com.example.hackathon:dimen/appcompat_dialog_background_inset = 0x7f060051
@@ -2516,7 +3356,11 @@ com.example.hackathon:id/cos = 0x7f080088
 com.example.hackathon:dimen/abc_alert_dialog_button_dimen = 0x7f060011
 com.example.hackathon:dimen/abc_action_button_min_width_overflow_material = 0x7f06000f
 com.example.hackathon:attr/indeterminateProgressStyle = 0x7f030208
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_switch_thumb_unchecked_pressed = 0x7f070103
+=======
+com.example.hackathon:drawable/mtrl_switch_thumb_unchecked_pressed = 0x7f070102
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/abc_action_button_min_width_material = 0x7f06000e
 com.example.hackathon:attr/materialThemeOverlay = 0x7f0302d7
 com.example.hackathon:dimen/abc_action_bar_subtitle_top_margin_material = 0x7f06000c
@@ -2538,6 +3382,8 @@ com.example.hackathon:dimen/abc_action_bar_elevation_material = 0x7f060005
 com.example.hackathon:dimen/abc_text_size_subhead_material = 0x7f06004d
 com.example.hackathon:dimen/abc_action_bar_default_padding_start_material = 0x7f060004
 com.example.hackathon:dimen/abc_action_bar_default_padding_end_material = 0x7f060003
+com.example.hackathon:color/mtrl_calendar_item_stroke_color = 0x7f050217
+com.example.hackathon:layout/activity_home = 0x7f0b007d
 com.example.hackathon:dimen/m3_sys_elevation_level5 = 0x7f060142
 com.example.hackathon:dimen/abc_action_bar_default_height_material = 0x7f060002
 com.example.hackathon:style/Theme.MaterialComponents.DayNight.NoActionBar = 0x7f120231
@@ -2560,7 +3406,11 @@ com.example.hackathon:color/m3_ref_palette_dynamic_neutral_variant100 = 0x7f0500
 com.example.hackathon:color/tooltip_background_dark = 0x7f050264
 com.example.hackathon:color/text_shadow_white = 0x7f050263
 com.example.hackathon:attr/buttonIconDimen = 0x7f030080
+<<<<<<< HEAD
 com.example.hackathon:drawable/material_ic_keyboard_arrow_right_black_24dp = 0x7f0700de
+=======
+com.example.hackathon:drawable/material_ic_keyboard_arrow_right_black_24dp = 0x7f0700dd
+>>>>>>> origin/Bilal
 com.example.hackathon:color/text_shadow = 0x7f050262
 com.example.hackathon:color/switch_thumb_normal_material_dark = 0x7f05025e
 com.example.hackathon:color/zxing_viewfinder_mask = 0x7f050270
@@ -2590,8 +3440,13 @@ com.example.hackathon:id/fragment_container_view_tag = 0x7f0800ca
 com.example.hackathon:color/notification_action_color_filter = 0x7f050246
 com.example.hackathon:integer/mtrl_tab_indicator_anim_duration_ms = 0x7f090046
 com.example.hackathon:dimen/mtrl_extended_fab_min_width = 0x7f0601fb
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_ic_checkbox_checked = 0x7f0700f3
 com.example.hackathon:drawable/ic_m3_chip_check = 0x7f0700b9
+=======
+com.example.hackathon:drawable/mtrl_ic_checkbox_checked = 0x7f0700f2
+com.example.hackathon:drawable/ic_m3_chip_check = 0x7f0700b8
+>>>>>>> origin/Bilal
 com.example.hackathon:color/mtrl_textinput_filled_box_default_background_color = 0x7f050243
 com.example.hackathon:style/Widget.AppCompat.AutoCompleteTextView = 0x7f1202c3
 com.example.hackathon:attr/borderRoundPercent = 0x7f030063
@@ -2625,8 +3480,8 @@ com.example.hackathon:color/mtrl_navigation_item_icon_tint = 0x7f05022f
 com.example.hackathon:color/mtrl_navigation_bar_ripple_color = 0x7f05022d
 com.example.hackathon:style/Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle = 0x7f12002f
 com.example.hackathon:color/mtrl_navigation_bar_item_tint = 0x7f05022c
-com.example.hackathon:color/m3_calendar_item_disabled_text = 0x7f050068
 com.example.hackathon:color/mtrl_filled_stroke_color = 0x7f050228
+com.example.hackathon:color/m3_calendar_item_disabled_text = 0x7f050068
 com.example.hackathon:animator/m3_extended_fab_show_motion_spec = 0x7f020010
 com.example.hackathon:color/mtrl_filled_icon_tint = 0x7f050227
 com.example.hackathon:color/mtrl_fab_ripple_color = 0x7f050225
@@ -2642,7 +3497,6 @@ com.example.hackathon:style/Base.V21.Theme.MaterialComponents.Light = 0x7f120098
 com.example.hackathon:drawable/$mtrl_checkbox_button_icon_unchecked_checked__2 = 0x7f070018
 com.example.hackathon:color/mtrl_card_view_foreground = 0x7f050219
 com.example.hackathon:color/mtrl_calendar_selected_range = 0x7f050218
-com.example.hackathon:color/mtrl_calendar_item_stroke_color = 0x7f050217
 com.example.hackathon:color/mtrl_btn_text_btn_bg_color_selector = 0x7f050212
 com.example.hackathon:color/material_timepicker_modebutton_tint = 0x7f05020e
 com.example.hackathon:style/TextAppearance.MaterialComponents.Subtitle1 = 0x7f1201e3
@@ -2650,7 +3504,11 @@ com.example.hackathon:color/material_timepicker_button_stroke = 0x7f05020b
 com.example.hackathon:color/material_timepicker_button_background = 0x7f05020a
 com.example.hackathon:style/Theme.Material3.Light.Dialog.MinWidth = 0x7f12021c
 com.example.hackathon:color/material_slider_halo_color = 0x7f050206
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_ic_indeterminate = 0x7f0700f6
+=======
+com.example.hackathon:drawable/mtrl_ic_indeterminate = 0x7f0700f5
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/SharedValueId = 0x7f030001
 com.example.hackathon:attr/windowMinWidthMinor = 0x7f0304a5
 com.example.hackathon:color/material_slider_active_track_color = 0x7f050205
@@ -2680,6 +3538,7 @@ com.example.hackathon:color/material_dynamic_tertiary95 = 0x7f0501ed
 com.example.hackathon:attr/dividerVertical = 0x7f03015c
 com.example.hackathon:color/material_dynamic_tertiary90 = 0x7f0501ec
 com.example.hackathon:color/design_fab_stroke_top_inner_color = 0x7f050050
+<<<<<<< HEAD
 com.example.hackathon:drawable/navigation_empty_icon = 0x7f070107
 com.example.hackathon:dimen/m3_comp_switch_disabled_selected_icon_opacity = 0x7f060103
 com.example.hackathon:color/material_dynamic_tertiary10 = 0x7f0501e3
@@ -2688,6 +3547,18 @@ com.example.hackathon:drawable/btn_checkbox_unchecked_mtrl = 0x7f07007e
 com.example.hackathon:color/m3_default_color_secondary_text = 0x7f05007a
 com.example.hackathon:drawable/$mtrl_checkbox_button_icon_indeterminate_unchecked__2 = 0x7f070015
 com.example.hackathon:drawable/custom_color5 = 0x7f070088
+=======
+com.example.hackathon:drawable/navigation_empty_icon = 0x7f070106
+com.example.hackathon:dimen/m3_comp_switch_disabled_selected_icon_opacity = 0x7f060103
+com.example.hackathon:color/material_dynamic_tertiary10 = 0x7f0501e3
+com.example.hackathon:id/textEnd = 0x7f0801dd
+com.example.hackathon:drawable/btn_checkbox_unchecked_mtrl = 0x7f07007e
+com.example.hackathon:dimen/material_filled_edittext_font_2_0_padding_bottom = 0x7f060183
+com.example.hackathon:attr/checkedIconVisible = 0x7f0300a8
+com.example.hackathon:drawable/$mtrl_checkbox_button_icon_indeterminate_unchecked__2 = 0x7f070015
+com.example.hackathon:drawable/custom_color5 = 0x7f070088
+com.example.hackathon:color/m3_default_color_secondary_text = 0x7f05007a
+>>>>>>> origin/Bilal
 com.example.hackathon:color/material_dynamic_secondary90 = 0x7f0501df
 com.example.hackathon:id/listMode = 0x7f080109
 com.example.hackathon:color/material_dynamic_secondary70 = 0x7f0501dd
@@ -2724,7 +3595,11 @@ com.example.hackathon:color/material_dynamic_neutral_variant99 = 0x7f0501c7
 com.example.hackathon:attr/actionBarSplitStyle = 0x7f030006
 com.example.hackathon:color/m3_navigation_bar_item_with_indicator_label_tint = 0x7f05008f
 com.example.hackathon:color/mtrl_textinput_focused_box_stroke_color = 0x7f050244
+<<<<<<< HEAD
 com.example.hackathon:drawable/m3_selection_control_ripple = 0x7f0700d2
+=======
+com.example.hackathon:drawable/m3_selection_control_ripple = 0x7f0700d1
+>>>>>>> origin/Bilal
 com.example.hackathon:color/material_dynamic_neutral_variant90 = 0x7f0501c5
 com.example.hackathon:attr/textAppearanceOverline = 0x7f03041b
 com.example.hackathon:color/mtrl_fab_icon_text_color_selector = 0x7f050224
@@ -2751,14 +3626,23 @@ com.example.hackathon:color/material_dynamic_neutral90 = 0x7f0501b8
 com.example.hackathon:attr/suffixTextAppearance = 0x7f0303d7
 com.example.hackathon:id/playBtn2 = 0x7f08017a
 com.example.hackathon:dimen/abc_star_medium = 0x7f06003c
+<<<<<<< HEAD
 com.example.hackathon:drawable/material_ic_edit_black_24dp = 0x7f0700da
+=======
+com.example.hackathon:drawable/material_ic_edit_black_24dp = 0x7f0700d9
+>>>>>>> origin/Bilal
 com.example.hackathon:color/material_dynamic_neutral80 = 0x7f0501b7
 com.example.hackathon:color/material_dynamic_neutral30 = 0x7f0501b2
 com.example.hackathon:layout/abc_activity_chooser_view = 0x7f0b0006
 com.example.hackathon:color/material_dynamic_neutral10 = 0x7f0501af
 com.example.hackathon:color/m3_ref_palette_black = 0x7f050099
-com.example.hackathon:attr/extendedFloatingActionButtonStyle = 0x7f03019a
 com.example.hackathon:color/material_divider_color = 0x7f0501ad
+<<<<<<< HEAD
+=======
+com.example.hackathon:attr/extendedFloatingActionButtonStyle = 0x7f03019a
+com.example.hackathon:attr/background = 0x7f030041
+com.example.hackathon:attr/transformPivotTarget = 0x7f03047e
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/behavior_expandedOffset = 0x7f030059
 com.example.hackathon:color/material_cursor_color = 0x7f0501aa
 com.example.hackathon:style/ThemeOverlay.Material3.Button.ElevatedButton = 0x7f120263
@@ -2776,6 +3660,7 @@ com.example.hackathon:dimen/material_font_1_3_box_collapsed_padding_top = 0x7f06
 com.example.hackathon:color/m3_timepicker_secondary_text_button_ripple_color = 0x7f0501a4
 com.example.hackathon:integer/m3_sys_motion_duration_900 = 0x7f09001d
 com.example.hackathon:color/m3_timepicker_display_ripple_color = 0x7f0501a1
+com.example.hackathon:drawable/log_in = 0x7f07012b
 com.example.hackathon:color/material_harmonized_color_error_container = 0x7f0501f7
 com.example.hackathon:color/m3_timepicker_clock_text_color = 0x7f05019f
 com.example.hackathon:attr/deriveConstraintsFrom = 0x7f030150
@@ -2784,7 +3669,11 @@ com.example.hackathon:color/m3_timepicker_button_background_color = 0x7f05019c
 com.example.hackathon:style/Base.V14.ThemeOverlay.MaterialComponents.BottomSheetDialog = 0x7f12008d
 com.example.hackathon:attr/motionEasingAccelerated = 0x7f030305
 com.example.hackathon:color/m3_textfield_stroke_color = 0x7f05019b
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_cardss = 0x7f0700a7
+=======
+com.example.hackathon:drawable/ic_cardss = 0x7f0700a6
+>>>>>>> origin/Bilal
 com.example.hackathon:color/m3_text_button_background_color_selector = 0x7f050194
 com.example.hackathon:color/m3_tabs_ripple_color = 0x7f050193
 com.example.hackathon:style/Widget.Compat.NotificationActionContainer = 0x7f120302
@@ -2831,7 +3720,11 @@ com.example.hackathon:dimen/mtrl_calendar_day_height = 0x7f0601c3
 com.example.hackathon:dimen/m3_ripple_focused_alpha = 0x7f060132
 com.example.hackathon:color/m3_sys_color_dynamic_light_tertiary_container = 0x7f050177
 com.example.hackathon:integer/mtrl_card_anim_duration_ms = 0x7f09003c
+<<<<<<< HEAD
 com.example.hackathon:drawable/notification_icon_background = 0x7f07010f
+=======
+com.example.hackathon:drawable/notification_icon_background = 0x7f07010e
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Base.V14.Theme.Material3.Light.BottomSheetDialog = 0x7f120081
 com.example.hackathon:dimen/mtrl_extended_fab_disabled_translation_z = 0x7f0601f4
 com.example.hackathon:attr/errorIconTint = 0x7f030187
@@ -2851,8 +3744,11 @@ com.example.hackathon:color/m3_sys_color_dynamic_light_on_primary_container = 0x
 com.example.hackathon:style/Widget.MaterialComponents.TextView = 0x7f12040f
 com.example.hackathon:color/cardview_dark_background = 0x7f05002a
 com.example.hackathon:id/default_activity_button = 0x7f080093
+<<<<<<< HEAD
 com.example.hackathon:attr/checkedIconVisible = 0x7f0300a8
 com.example.hackathon:dimen/material_filled_edittext_font_2_0_padding_bottom = 0x7f060183
+=======
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/layout_constraintTop_creator = 0x7f030273
 com.example.hackathon:color/m3_sys_color_dynamic_light_inverse_surface = 0x7f050165
 com.example.hackathon:color/m3_sys_color_dynamic_light_inverse_primary = 0x7f050164
@@ -2934,8 +3830,6 @@ com.example.hackathon:id/dragDown = 0x7f0800a5
 com.example.hackathon:dimen/mtrl_toolbar_default_height = 0x7f06024e
 com.example.hackathon:color/m3_ref_palette_tertiary50 = 0x7f050122
 com.example.hackathon:color/m3_ref_palette_tertiary10 = 0x7f05011d
-com.example.hackathon:color/m3_ref_palette_secondary80 = 0x7f050118
-com.example.hackathon:attr/subMenuArrow = 0x7f0303cb
 com.example.hackathon:dimen/mtrl_extended_fab_min_height = 0x7f0601fa
 com.example.hackathon:color/m3_ref_palette_secondary60 = 0x7f050116
 com.example.hackathon:id/beginOnFirstDraw = 0x7f08005d
@@ -3043,7 +3937,11 @@ com.example.hackathon:color/m3_ref_palette_dynamic_neutral60 = 0x7f0500a1
 com.example.hackathon:style/Widget.Material3.MaterialTimePicker = 0x7f12037b
 com.example.hackathon:attr/actionOverflowButtonStyle = 0x7f030021
 com.example.hackathon:attr/number = 0x7f03032c
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_shop = 0x7f0700c9
+=======
+com.example.hackathon:drawable/ic_shop = 0x7f0700c8
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/touchRegionId = 0x7f030471
 com.example.hackathon:color/m3_ref_palette_dynamic_neutral100 = 0x7f05009c
 com.example.hackathon:attr/chipSpacingVertical = 0x7f0300b8
@@ -3322,7 +4220,11 @@ com.example.hackathon:attr/helperText = 0x7f0301e6
 com.example.hackathon:attr/textOutlineThickness = 0x7f030438
 com.example.hackathon:attr/imageRotate = 0x7f030205
 com.example.hackathon:attr/textOutlineColor = 0x7f030437
+<<<<<<< HEAD
 com.example.hackathon:drawable/material_ic_menu_arrow_down_black_24dp = 0x7f0700df
+=======
+com.example.hackathon:drawable/material_ic_menu_arrow_down_black_24dp = 0x7f0700de
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/textLocale = 0x7f030436
 com.example.hackathon:attr/triggerSlack = 0x7f030486
 com.example.hackathon:integer/material_motion_duration_long_1 = 0x7f09002e
@@ -3340,7 +4242,11 @@ com.example.hackathon:style/Base.Widget.AppCompat.ListMenuView = 0x7f1200d5
 com.example.hackathon:attr/thumbColor = 0x7f030442
 com.example.hackathon:dimen/m3_comp_fab_primary_small_container_height = 0x7f0600fe
 com.example.hackathon:attr/textFillColor = 0x7f03042d
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_navigation_bar_item_background = 0x7f0700f7
+=======
+com.example.hackathon:drawable/mtrl_navigation_bar_item_background = 0x7f0700f6
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/textColorSearchUrl = 0x7f03042b
 com.example.hackathon:id/zxing_decode = 0x7f080222
 com.example.hackathon:dimen/mtrl_calendar_dialog_background_inset = 0x7f0601c9
@@ -3376,7 +4282,11 @@ com.example.hackathon:dimen/m3_bottom_nav_min_height = 0x7f0600b8
 com.example.hackathon:attr/textAppearanceDisplayMedium = 0x7f030408
 com.example.hackathon:attr/ratingBarStyleSmall = 0x7f03036a
 com.example.hackathon:style/Widget.AppCompat.PopupWindow = 0x7f1202f0
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_popupmenu_background = 0x7f0700f8
+=======
+com.example.hackathon:drawable/mtrl_popupmenu_background = 0x7f0700f7
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/textAppearanceBodyMedium = 0x7f030403
 com.example.hackathon:style/Base.Widget.Material3.TabLayout.OnSurface = 0x7f1200fe
 com.example.hackathon:attr/actionModeWebSearchDrawable = 0x7f030020
@@ -3483,7 +4393,11 @@ com.example.hackathon:id/action_divider = 0x7f08003d
 com.example.hackathon:color/material_dynamic_tertiary50 = 0x7f0501e8
 com.example.hackathon:attr/tooltipStyle = 0x7f03046c
 com.example.hackathon:attr/spinBars = 0x7f0303ac
+<<<<<<< HEAD
 com.example.hackathon:drawable/m3_appbar_background = 0x7f0700cf
+=======
+com.example.hackathon:drawable/m3_appbar_background = 0x7f0700ce
+>>>>>>> origin/Bilal
 com.example.hackathon:color/mtrl_btn_text_color_disabled = 0x7f050214
 com.example.hackathon:attr/windowFixedHeightMinor = 0x7f0304a1
 com.example.hackathon:attr/contentInsetStartWithNavigation = 0x7f03011d
@@ -3512,7 +4426,11 @@ com.example.hackathon:attr/rangeFillColor = 0x7f030367
 com.example.hackathon:attr/layout_constrainedHeight = 0x7f030250
 com.example.hackathon:attr/toolbarNavigationButtonStyle = 0x7f030467
 com.example.hackathon:attr/showText = 0x7f03039c
+<<<<<<< HEAD
 com.example.hackathon:drawable/material_ic_calendar_black_24dp = 0x7f0700d8
+=======
+com.example.hackathon:drawable/material_ic_calendar_black_24dp = 0x7f0700d7
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/colorOnPrimarySurface = 0x7f0300f4
 com.example.hackathon:id/accessibility_custom_action_10 = 0x7f080012
 com.example.hackathon:color/material_dynamic_neutral_variant95 = 0x7f0501c6
@@ -3553,14 +4471,22 @@ com.example.hackathon:dimen/abc_dialog_list_padding_top_no_title = 0x7f060021
 com.example.hackathon:styleable/MaterialCheckBox = 0x7f130058
 com.example.hackathon:attr/closeItemLayout = 0x7f0300d7
 com.example.hackathon:attr/searchViewStyle = 0x7f030383
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic__offers = 0x7f070097
+=======
+com.example.hackathon:drawable/ic__offers = 0x7f070096
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/showMotionSpec = 0x7f03039a
 com.example.hackathon:attr/scrimVisibleHeightTrigger = 0x7f030380
 com.example.hackathon:styleable/Fragment = 0x7f13003a
 com.example.hackathon:attr/roundPercent = 0x7f030379
 com.example.hackathon:color/m3_ref_palette_dynamic_tertiary70 = 0x7f0500d6
 com.example.hackathon:styleable/include = 0x7f13009b
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_baseline_search_24 = 0x7f07009b
+=======
+com.example.hackathon:drawable/ic_baseline_search_24 = 0x7f07009a
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/round = 0x7f030378
 com.example.hackathon:id/topPanel = 0x7f0801f8
 com.example.hackathon:attr/textureBlurFactor = 0x7f03043c
@@ -3661,7 +4587,11 @@ com.example.hackathon:attr/colorSwitchThumbNormal = 0x7f030109
 com.example.hackathon:color/m3_ref_palette_dynamic_tertiary10 = 0x7f0500cf
 com.example.hackathon:attr/multiChoiceItemLayout = 0x7f030322
 com.example.hackathon:attr/textBackgroundPanX = 0x7f030426
+<<<<<<< HEAD
 com.example.hackathon:drawable/material_ic_keyboard_arrow_next_black_24dp = 0x7f0700dc
+=======
+com.example.hackathon:drawable/material_ic_keyboard_arrow_next_black_24dp = 0x7f0700db
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/moveWhenScrollAtTop = 0x7f030321
 com.example.hackathon:attr/motionTarget = 0x7f03031e
 com.example.hackathon:drawable/$mtrl_checkbox_button_unchecked_checked__2 = 0x7f07001e
@@ -3693,7 +4623,11 @@ com.example.hackathon:string/fab_transformation_scrim_behavior = 0x7f11002f
 com.example.hackathon:color/m3_ref_palette_neutral70 = 0x7f0500f0
 com.example.hackathon:attr/motionEasingStandardDecelerateInterpolator = 0x7f03030f
 com.example.hackathon:id/animateToStart = 0x7f080050
+<<<<<<< HEAD
 com.example.hackathon:drawable/material_ic_clear_black_24dp = 0x7f0700d9
+=======
+com.example.hackathon:drawable/material_ic_clear_black_24dp = 0x7f0700d8
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/motionEasingStandardAccelerateInterpolator = 0x7f03030e
 com.example.hackathon:attr/motionEasingLinearInterpolator = 0x7f03030c
 com.example.hackathon:attr/motionEasingEmphasizedInterpolator = 0x7f03030a
@@ -3703,7 +4637,11 @@ com.example.hackathon:dimen/m3_comp_switch_track_width = 0x7f06010c
 com.example.hackathon:string/mtrl_switch_thumb_path_pressed = 0x7f110090
 com.example.hackathon:color/zxing_possible_result_points = 0x7f05026b
 com.example.hackathon:attr/motionDurationShort3 = 0x7f030303
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_cards2 = 0x7f0700a6
+=======
+com.example.hackathon:drawable/ic_cards2 = 0x7f0700a5
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/mtrl_fab_translation_z_hovered_focused = 0x7f060204
 com.example.hackathon:dimen/clock_face_margin_start = 0x7f060055
 com.example.hackathon:attr/fontProviderFetchTimeout = 0x7f0301d4
@@ -3745,7 +4683,11 @@ com.example.hackathon:dimen/design_navigation_padding_bottom = 0x7f06007d
 com.example.hackathon:color/abc_hint_foreground_material_dark = 0x7f050007
 com.example.hackathon:attr/paddingTopNoTitle = 0x7f03033e
 com.example.hackathon:attr/maxButtonHeight = 0x7f0302dd
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_ic_cancel = 0x7f0700f1
+=======
+com.example.hackathon:drawable/mtrl_ic_cancel = 0x7f0700f0
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Widget.Material3.NavigationView = 0x7f120386
 com.example.hackathon:style/RtlOverlay.Widget.AppCompat.PopupMenuItem.Title = 0x7f12013a
 com.example.hackathon:attr/divider = 0x7f030155
@@ -3773,8 +4715,13 @@ com.example.hackathon:attr/boxBackgroundColor = 0x7f03006c
 com.example.hackathon:attr/dynamicColorThemeOverlay = 0x7f030170
 com.example.hackathon:color/light_font = 0x7f05005f
 com.example.hackathon:attr/materialIconButtonOutlinedStyle = 0x7f0302d4
+<<<<<<< HEAD
 com.example.hackathon:drawable/design_ic_visibility = 0x7f07008e
 com.example.hackathon:id/parentPanel = 0x7f080171
+=======
+com.example.hackathon:drawable/design_ic_visibility = 0x7f07008d
+com.example.hackathon:id/parentPanel = 0x7f080172
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/materialIconButtonFilledTonalStyle = 0x7f0302d3
 com.example.hackathon:color/m3_ref_palette_tertiary99 = 0x7f050128
 com.example.hackathon:color/button_material_dark = 0x7f050028
@@ -3803,7 +4750,11 @@ com.example.hackathon:color/zxing_custom_result_view = 0x7f050268
 com.example.hackathon:color/m3_card_foreground_color = 0x7f05006a
 com.example.hackathon:dimen/abc_text_size_medium_material = 0x7f060049
 com.example.hackathon:attr/floatingActionButtonLargePrimaryStyle = 0x7f0301ad
+<<<<<<< HEAD
 com.example.hackathon:drawable/notification_bg = 0x7f070109
+=======
+com.example.hackathon:drawable/notification_bg = 0x7f070108
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/homeAsUpIndicator = 0x7f0301f2
 com.example.hackathon:color/material_dynamic_neutral100 = 0x7f0501b0
 com.example.hackathon:attr/buttonBarButtonStyle = 0x7f030078
@@ -3862,7 +4813,11 @@ com.example.hackathon:attr/collapseContentDescription = 0x7f0300d8
 com.example.hackathon:id/sawtooth = 0x7f08018c
 com.example.hackathon:bool/abc_action_bar_embed_tabs = 0x7f040000
 com.example.hackathon:attr/thumbIconTintMode = 0x7f030446
+<<<<<<< HEAD
 com.example.hackathon:drawable/test_level_drawable = 0x7f07011a
+=======
+com.example.hackathon:drawable/test_level_drawable = 0x7f070119
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/layout_row = 0x7f03028d
 com.example.hackathon:integer/m3_sys_motion_duration_150 = 0x7f090010
 com.example.hackathon:attr/tabStyle = 0x7f0303f7
@@ -3871,14 +4826,22 @@ com.example.hackathon:attr/textAppearanceDisplayLarge = 0x7f030407
 com.example.hackathon:id/north = 0x7f080163
 com.example.hackathon:id/blocking = 0x7f080060
 com.example.hackathon:attr/layout_keyline = 0x7f03028a
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_ic_arrow_drop_up = 0x7f0700f0
+=======
+com.example.hackathon:drawable/mtrl_ic_arrow_drop_up = 0x7f0700ef
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/contentInsetLeft = 0x7f03011a
 com.example.hackathon:drawable/abc_ic_search_api_material = 0x7f070048
 com.example.hackathon:attr/useDefaultMargins = 0x7f03048a
 com.example.hackathon:styleable/ForegroundLinearLayout = 0x7f130039
 com.example.hackathon:macro/m3_comp_switch_unselected_hover_handle_color = 0x7f0c0032
 com.example.hackathon:attr/polarRelativeTo = 0x7f030354
+<<<<<<< HEAD
 com.example.hackathon:drawable/d = 0x7f07008a
+=======
+com.example.hackathon:drawable/d = 0x7f070089
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/materialClockStyle = 0x7f0302ce
 com.example.hackathon:id/design_bottom_sheet = 0x7f080096
 com.example.hackathon:attr/materialCardViewStyle = 0x7f0302cc
@@ -3920,7 +4883,11 @@ com.example.hackathon:style/Theme.Material3.DayNight.Dialog = 0x7f120210
 com.example.hackathon:menu/menu4 = 0x7f0d0003
 com.example.hackathon:dimen/design_navigation_icon_padding = 0x7f060077
 com.example.hackathon:attr/listChoiceBackgroundIndicator = 0x7f03029a
+<<<<<<< HEAD
 com.example.hackathon:drawable/qr1 = 0x7f070115
+=======
+com.example.hackathon:drawable/qr1 = 0x7f070114
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/dividerInsetEnd = 0x7f030158
 com.example.hackathon:color/m3_ref_palette_dynamic_secondary0 = 0x7f0500c1
 com.example.hackathon:layout/notification_template_media_custom = 0x7f0b0074
@@ -4003,7 +4970,11 @@ com.example.hackathon:style/TextAppearance.AppCompat.Subhead = 0x7f120188
 com.example.hackathon:dimen/m3_sys_motion_easing_linear_control_x2 = 0x7f060158
 com.example.hackathon:attr/checkedIconEnabled = 0x7f0300a3
 com.example.hackathon:styleable/StateSet = 0x7f130086
+<<<<<<< HEAD
 com.example.hackathon:drawable/notification_bg_normal_pressed = 0x7f07010e
+=======
+com.example.hackathon:drawable/notification_bg_normal_pressed = 0x7f07010d
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/customDimension = 0x7f030140
 com.example.hackathon:attr/materialCalendarHeaderTitle = 0x7f0302c2
 com.example.hackathon:layout/material_chip_input_combo = 0x7f0b003c
@@ -4137,10 +5108,17 @@ com.example.hackathon:attr/layout_constraintLeft_toLeftOf = 0x7f03026b
 com.example.hackathon:attr/haloRadius = 0x7f0301e3
 com.example.hackathon:id/mtrl_internal_children_alpha_tag = 0x7f080139
 com.example.hackathon:attr/carousel_firstView = 0x7f030092
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_checkbox_button_checked_unchecked = 0x7f0700e4
 com.example.hackathon:attr/zxing_framing_rect_height = 0x7f0304aa
 com.example.hackathon:attr/constraint_referenced_tags = 0x7f030114
 com.example.hackathon:drawable/notification_bg_low = 0x7f07010a
+=======
+com.example.hackathon:drawable/mtrl_checkbox_button_checked_unchecked = 0x7f0700e3
+com.example.hackathon:attr/zxing_framing_rect_height = 0x7f0304aa
+com.example.hackathon:attr/constraint_referenced_tags = 0x7f030114
+com.example.hackathon:drawable/notification_bg_low = 0x7f070109
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/layout_goneMarginRight = 0x7f030285
 com.example.hackathon:animator/mtrl_extended_fab_show_motion_spec = 0x7f020019
 com.example.hackathon:style/Base.Widget.AppCompat.Toolbar = 0x7f1200ea
@@ -4156,7 +5134,11 @@ com.example.hackathon:attr/liftOnScroll = 0x7f030294
 com.example.hackathon:style/Widget.Material3.BottomAppBar.Button.Navigation = 0x7f120318
 com.example.hackathon:attr/layout_constraintTop_toBottomOf = 0x7f030274
 com.example.hackathon:attr/bottomSheetDialogTheme = 0x7f030069
+<<<<<<< HEAD
 com.example.hackathon:drawable/football = 0x7f070094
+=======
+com.example.hackathon:drawable/football = 0x7f070093
+>>>>>>> origin/Bilal
 com.example.hackathon:color/primary_text_default_material_dark = 0x7f05024d
 com.example.hackathon:style/ShapeAppearanceOverlay.Material3.Corner.Left = 0x7f120162
 com.example.hackathon:attr/isMaterial3DynamicColorApplied = 0x7f030211
@@ -4223,7 +5205,11 @@ com.example.hackathon:attr/fastScrollEnabled = 0x7f0301a7
 com.example.hackathon:attr/submitBackground = 0x7f0303d0
 com.example.hackathon:attr/fabCradleVerticalOffset = 0x7f0301a4
 com.example.hackathon:integer/m3_sys_motion_duration_350 = 0x7f090014
+<<<<<<< HEAD
 com.example.hackathon:drawable/ravenclaw = 0x7f070117
+=======
+com.example.hackathon:drawable/ravenclaw = 0x7f070116
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/m3_sys_elevation_level4 = 0x7f060141
 com.example.hackathon:id/time = 0x7f0801f2
 com.example.hackathon:attr/textInputFilledDenseStyle = 0x7f03042e
@@ -4333,7 +5319,11 @@ com.example.hackathon:attr/materialCalendarMonth = 0x7f0302c4
 com.example.hackathon:id/decelerate = 0x7f080090
 com.example.hackathon:style/Base.Widget.MaterialComponents.TextInputLayout = 0x7f12010c
 com.example.hackathon:attr/selectableItemBackgroundBorderless = 0x7f030386
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_tabs_default_indicator = 0x7f070106
+=======
+com.example.hackathon:drawable/mtrl_tabs_default_indicator = 0x7f070105
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/startIconDrawable = 0x7f0303ba
 com.example.hackathon:style/Base.TextAppearance.MaterialComponents.Button = 0x7f120040
 com.example.hackathon:attr/drawableBottomCompat = 0x7f030161
@@ -4377,7 +5367,11 @@ com.example.hackathon:attr/fabCradleRoundedCornerRadius = 0x7f0301a3
 com.example.hackathon:attr/chipSpacingHorizontal = 0x7f0300b7
 com.example.hackathon:attr/alphabeticModifiers = 0x7f03002e
 com.example.hackathon:color/bright_foreground_inverse_material_dark = 0x7f050024
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_mtrl_checked_circle = 0x7f0700be
+=======
+com.example.hackathon:drawable/ic_mtrl_checked_circle = 0x7f0700bd
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/buttonIconTint = 0x7f030081
 com.example.hackathon:id/search_bar = 0x7f080196
 com.example.hackathon:color/material_dynamic_neutral_variant60 = 0x7f0501c2
@@ -4388,7 +5382,11 @@ com.example.hackathon:dimen/abc_text_size_subtitle_material_toolbar = 0x7f06004e
 com.example.hackathon:style/TextAppearance.AppCompat.Widget.PopupMenu.Small = 0x7f12019d
 com.example.hackathon:attr/customBoolean = 0x7f03013d
 com.example.hackathon:dimen/m3_appbar_expanded_title_margin_bottom = 0x7f0600a5
+<<<<<<< HEAD
 com.example.hackathon:drawable/qrimage = 0x7f070116
+=======
+com.example.hackathon:drawable/qrimage = 0x7f070115
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/contentPaddingStart = 0x7f030123
 com.example.hackathon:attr/backgroundStacked = 0x7f030049
 com.example.hackathon:style/Widget.Material3.Chip.Filter.Elevated = 0x7f120339
@@ -4423,7 +5421,11 @@ com.example.hackathon:color/material_dynamic_secondary30 = 0x7f0501d9
 com.example.hackathon:attr/circularProgressIndicatorStyle = 0x7f0300c0
 com.example.hackathon:attr/actionModeFindDrawable = 0x7f030018
 com.example.hackathon:drawable/avd_hide_password = 0x7f070077
+<<<<<<< HEAD
 com.example.hackathon:drawable/test2 = 0x7f070119
+=======
+com.example.hackathon:drawable/test2 = 0x7f070118
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/iss_selected_dot = 0x7f03021a
 com.example.hackathon:dimen/abc_text_size_menu_header_material = 0x7f06004a
 com.example.hackathon:attr/contentPaddingBottom = 0x7f03011f
@@ -4447,7 +5449,11 @@ com.example.hackathon:attr/expandedTitleMargin = 0x7f030190
 com.example.hackathon:style/Widget.AppCompat.Toolbar = 0x7f120300
 com.example.hackathon:attr/closeIconVisible = 0x7f0300d6
 com.example.hackathon:attr/contentInsetRight = 0x7f03011b
+<<<<<<< HEAD
 com.example.hackathon:drawable/image12 = 0x7f0700cd
+=======
+com.example.hackathon:drawable/image12 = 0x7f0700cc
+>>>>>>> origin/Bilal
 com.example.hackathon:macro/m3_comp_switch_disabled_unselected_icon_color = 0x7f0c001a
 com.example.hackathon:attr/motionEffect_viewTransition = 0x7f030318
 com.example.hackathon:attr/itemShapeAppearance = 0x7f03022c
@@ -4518,7 +5524,11 @@ com.example.hackathon:color/mtrl_navigation_item_background_color = 0x7f05022e
 com.example.hackathon:color/m3_tabs_icon_color = 0x7f050192
 com.example.hackathon:attr/titleCentered = 0x7f030457
 com.example.hackathon:id/custom = 0x7f08008c
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_popupmenu_background_overlay = 0x7f0700f9
+=======
+com.example.hackathon:drawable/mtrl_popupmenu_background_overlay = 0x7f0700f8
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/actionModeSelectAllDrawable = 0x7f03001b
 com.example.hackathon:attr/colorOnPrimary = 0x7f0300f2
 com.example.hackathon:attr/fontVariationSettings = 0x7f0301d9
@@ -4552,12 +5562,20 @@ com.example.hackathon:attr/actionBarPopupTheme = 0x7f030004
 com.example.hackathon:attr/tabIndicator = 0x7f0303e4
 com.example.hackathon:drawable/abc_ic_menu_overflow_material = 0x7f070044
 com.example.hackathon:string/mtrl_picker_invalid_format = 0x7f110076
+<<<<<<< HEAD
 com.example.hackathon:drawable/m3_tabs_line_indicator = 0x7f0700d4
+=======
+com.example.hackathon:drawable/m3_tabs_line_indicator = 0x7f0700d3
+>>>>>>> origin/Bilal
 com.example.hackathon:style/Base.Widget.AppCompat.ActionBar.TabView = 0x7f1200b6
 com.example.hackathon:attr/layout_constraintTop_toTopOf = 0x7f030275
 com.example.hackathon:attr/yearSelectedStyle = 0x7f0304a7
 com.example.hackathon:attr/drawableTint = 0x7f030167
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_baseline_toggleon = 0x7f07009e
+=======
+com.example.hackathon:drawable/ic_baseline_toggleon = 0x7f07009d
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/colorControlHighlight = 0x7f0300e9
 com.example.hackathon:drawable/abc_list_longpressed_holo = 0x7f07004f
 com.example.hackathon:style/TextAppearance.Design.Tab = 0x7f1201b4
@@ -4595,6 +5613,7 @@ com.example.hackathon:style/TextAppearance.Design.Prefix = 0x7f1201b1
 com.example.hackathon:attr/constraintSetEnd = 0x7f030111
 com.example.hackathon:id/callMeasure = 0x7f080068
 com.example.hackathon:attr/cornerSizeTopRight = 0x7f030133
+com.example.hackathon:drawable/events_movie_feedback_add = 0x7f070128
 com.example.hackathon:styleable/ConstraintLayout_Layout = 0x7f130028
 com.example.hackathon:attr/collapsingToolbarLayoutMediumStyle = 0x7f0300e1
 com.example.hackathon:style/Widget.MaterialComponents.ChipGroup = 0x7f1203c9
@@ -4695,7 +5714,11 @@ com.example.hackathon:attr/checkboxStyle = 0x7f03009f
 com.example.hackathon:attr/checkMarkTint = 0x7f03009d
 com.example.hackathon:attr/autoTransition = 0x7f030040
 com.example.hackathon:dimen/mtrl_alert_dialog_background_inset_end = 0x7f060193
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_tix = 0x7f0700cb
+=======
+com.example.hackathon:drawable/ic_tix = 0x7f0700ca
+>>>>>>> origin/Bilal
 com.example.hackathon:animator/m3_chip_state_list_anim = 0x7f02000d
 com.example.hackathon:dimen/material_clock_period_toggle_height = 0x7f060175
 com.example.hackathon:color/m3_icon_button_icon_color_selector = 0x7f05008d
@@ -4715,8 +5738,13 @@ com.example.hackathon:attr/dialogPreferredPadding = 0x7f030152
 com.example.hackathon:attr/progressBarPadding = 0x7f03035e
 com.example.hackathon:attr/carousel_forwardTransition = 0x7f030093
 com.example.hackathon:id/action0 = 0x7f080030
+<<<<<<< HEAD
 com.example.hackathon:layout/mtrl_picker_header_selection_text = 0x7f0b0063
 com.example.hackathon:drawable/material_ic_keyboard_arrow_left_black_24dp = 0x7f0700db
+=======
+com.example.hackathon:layout/mtrl_picker_header_selection_text = 0x7f0b0062
+com.example.hackathon:drawable/material_ic_keyboard_arrow_left_black_24dp = 0x7f0700da
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/checkedIconSize = 0x7f0300a6
 com.example.hackathon:attr/badgeWidePadding = 0x7f030050
 com.example.hackathon:attr/onCross = 0x7f03032e
@@ -4729,7 +5757,11 @@ com.example.hackathon:attr/behavior_peekHeight = 0x7f03005e
 com.example.hackathon:attr/cardUseCompatPadding = 0x7f03008e
 com.example.hackathon:dimen/abc_alert_dialog_button_bar_height = 0x7f060010
 com.example.hackathon:color/m3_ref_palette_dynamic_neutral_variant0 = 0x7f0500a7
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_tickets = 0x7f0700ca
+=======
+com.example.hackathon:drawable/ic_tickets = 0x7f0700c9
+>>>>>>> origin/Bilal
 com.example.hackathon:attr/mock_diagonalsColor = 0x7f0302ee
 com.example.hackathon:id/search_mag_icon = 0x7f08019b
 com.example.hackathon:attr/layout_goneMarginStart = 0x7f030286
@@ -4812,9 +5844,15 @@ com.example.hackathon:style/Widget.AppCompat.ProgressBar.Horizontal = 0x7f1202f2
 com.example.hackathon:dimen/mtrl_low_ripple_hovered_alpha = 0x7f06020c
 com.example.hackathon:attr/textInputLayoutFocusedRectEnabled = 0x7f030431
 com.example.hackathon:style/Theme.Material3.Dark = 0x7f120207
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_ic_error = 0x7f0700f5
 com.example.hackathon:attr/motionEffect_end = 0x7f030312
 com.example.hackathon:drawable/ic_clock_black_24dp = 0x7f0700ab
+=======
+com.example.hackathon:drawable/mtrl_ic_error = 0x7f0700f4
+com.example.hackathon:attr/motionEffect_end = 0x7f030312
+com.example.hackathon:drawable/ic_clock_black_24dp = 0x7f0700aa
+>>>>>>> origin/Bilal
 com.example.hackathon:style/TextAppearance.MaterialComponents.Body2 = 0x7f1201d8
 com.example.hackathon:attr/colorPrimaryContainer = 0x7f0300fe
 com.example.hackathon:layout/mtrl_picker_text_input_date_range = 0x7f0b0067
@@ -4839,6 +5877,7 @@ com.example.hackathon:color/m3_fab_ripple_color_selector = 0x7f050089
 com.example.hackathon:attr/barrierDirection = 0x7f030054
 com.example.hackathon:layout/design_navigation_item = 0x7f0b002e
 com.example.hackathon:animator/fragment_open_exit = 0x7f020008
+com.example.hackathon:id/imageView8 = 0x7f08022c
 com.example.hackathon:attr/activityChooserViewStyle = 0x7f030026
 com.example.hackathon:styleable/ShapeableImageView = 0x7f13007e
 com.example.hackathon:attr/iconEndPadding = 0x7f0301f8
@@ -4898,7 +5937,11 @@ com.example.hackathon:dimen/mtrl_navigation_item_shape_vertical_margin = 0x7f060
 com.example.hackathon:attr/autoSizeMaxTextSize = 0x7f03003b
 com.example.hackathon:attr/navigationViewStyle = 0x7f030328
 com.example.hackathon:style/Widget.AppCompat.ActionBar.TabBar = 0x7f1202bb
+<<<<<<< HEAD
 com.example.hackathon:drawable/mtrl_switch_track_decoration = 0x7f070105
+=======
+com.example.hackathon:drawable/mtrl_switch_track_decoration = 0x7f070104
+>>>>>>> origin/Bilal
 com.example.hackathon:color/background_floating_material_dark = 0x7f05001d
 com.example.hackathon:attr/appBarLayoutStyle = 0x7f030033
 com.example.hackathon:attr/strokeWidth = 0x7f0303ca
@@ -4928,7 +5971,11 @@ com.example.hackathon:color/m3_sys_color_dark_primary = 0x7f050144
 com.example.hackathon:attr/layout_constraintVertical_chainStyle = 0x7f030277
 com.example.hackathon:attr/cornerRadius = 0x7f03012e
 com.example.hackathon:attr/textAppearanceListItemSmall = 0x7f03041a
+<<<<<<< HEAD
 com.example.hackathon:drawable/m3_popupmenu_background_overlay = 0x7f0700d0
+=======
+com.example.hackathon:drawable/m3_popupmenu_background_overlay = 0x7f0700cf
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/design_bottom_navigation_text_size = 0x7f06006b
 com.example.hackathon:style/Base.Theme.MaterialComponents.CompactMenu = 0x7f12005c
 com.example.hackathon:attr/actionModeShareDrawable = 0x7f03001c
@@ -4997,6 +6044,7 @@ com.example.hackathon:attr/layout_marginBaseline = 0x7f03028b
 com.example.hackathon:attr/colorOnSecondary = 0x7f0300f5
 com.example.hackathon:anim/btn_checkbox_to_checked_box_outer_merged_animation = 0x7f01000d
 com.example.hackathon:id/design_menu_item_action_area = 0x7f080097
+com.example.hackathon:drawable/players = 0x7f070121
 com.example.hackathon:dimen/highlight_alpha_material_dark = 0x7f060095
 com.example.hackathon:color/m3_checkbox_button_icon_tint = 0x7f05006d
 com.example.hackathon:attr/buttonBarNeutralButtonStyle = 0x7f03007a
@@ -5022,8 +6070,13 @@ com.example.hackathon:style/Widget.AppCompat.Light.ActionBar.TabText.Inverse = 0
 com.example.hackathon:attr/alertDialogStyle = 0x7f030029
 com.example.hackathon:id/transition_layout_save = 0x7f0801fd
 com.example.hackathon:animator/m3_card_state_list_anim = 0x7f02000c
+<<<<<<< HEAD
 com.example.hackathon:id/material_minute_tv = 0x7f08011a
 com.example.hackathon:drawable/ic_cardadd = 0x7f0700a5
+=======
+com.example.hackathon:id/material_minute_tv = 0x7f08011c
+com.example.hackathon:drawable/ic_cardadd = 0x7f0700a4
+>>>>>>> origin/Bilal
 com.example.hackathon:color/m3_slider_halo_color = 0x7f05012d
 com.example.hackathon:drawable/$avd_show_password__1 = 0x7f070004
 com.example.hackathon:dimen/m3_comp_switch_disabled_unselected_handle_opacity = 0x7f060105
@@ -5037,7 +6090,11 @@ com.example.hackathon:animator/mtrl_fab_transformation_sheet_expand_spec = 0x7f0
 com.example.hackathon:id/async = 0x7f080055
 com.example.hackathon:layout/support_simple_spinner_dropdown_item = 0x7f0b007b
 com.example.hackathon:attr/queryBackground = 0x7f030363
+<<<<<<< HEAD
 com.example.hackathon:drawable/ic_classicarcades = 0x7f0700aa
+=======
+com.example.hackathon:drawable/ic_classicarcades = 0x7f0700a9
+>>>>>>> origin/Bilal
 com.example.hackathon:dimen/mtrl_extended_fab_icon_text_spacing = 0x7f0601f9
 com.example.hackathon:style/Base.Widget.Material3.CardView = 0x7f1200ef
 com.example.hackathon:id/dragStart = 0x7f0800a9

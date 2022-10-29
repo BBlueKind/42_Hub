@@ -33,7 +33,11 @@ class LoadingScreenActivity : AppCompatActivity() {
         crossfade()
 
         Handler().postDelayed({
+<<<<<<< HEAD
             val intent = Intent(this, TestActivity::class.java)
+=======
+            val intent = Intent(this, loginpage::class.java)
+>>>>>>> origin/Bilal
             startActivity(intent)
             overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out)
         },2000)
