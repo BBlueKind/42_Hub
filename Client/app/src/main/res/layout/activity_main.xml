@@ -55,7 +55,7 @@
                     android:background="#A3B1B7"
                     android:text=" +971 50 666 46 79 "
                     android:textColor="@color/black"
-                    android:textSize="15sp"
+                    android:textSize="8sp"
                     app:layout_constraintBottom_toBottomOf="@+id/v_flipper"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
@@ -136,10 +136,10 @@
 
         <ImageView
             android:id="@+id/imageView4"
-            android:layout_width="169dp"
-            android:layout_height="122dp"
+            android:layout_width="178dp"
+            android:layout_height="126dp"
             android:layout_marginTop="17dp"
-            android:scaleType="centerCrop"
+            android:scaleType="centerInside"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/cardViewOffers"
