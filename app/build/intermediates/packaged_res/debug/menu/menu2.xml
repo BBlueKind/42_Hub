@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    android:background="@drawable/custom_color3">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_cards"
+        android:icon="@drawable/ic_baseline_card"
+        android:title="Cards" />
+    <item
+        android:id="@+id/nav_card_history"
+        android:icon="@drawable/ic_baseline_history"
+        android:title="Cards History" />
+    <item
+        android:id="@+id/nav_request"
+        android:icon="@drawable/ic_people"
+        android:title="Request Game Operator" />
+    <item
+        android:id="@+id/nav_toggleoff"
+        android:icon="@drawable/ic_baseline_toggleoff"
+        android:title="Arcade Theme" />
+    <item
+        android:title="Communication" >
+        <menu>
+            <item
+                android:id="@+id/nav_instagram"
+                android:title="Instagram"
+                android:icon="@drawable/ic_instagram"/>
+            <item
+                android:id="@+id/nav_facebook"
+                android:icon="@drawable/ic_facebook1"
+                android:title="FaceBook" />
+            <item
+                android:id="@+id/nav_whatsapp"
+                android:icon="@drawable/ic_whatsapp1"
+                android:title="Whats App" />
+            <item
+                android:id="@+id/nav_report"
+                android:icon="@drawable/ic_bug"
+                android:title="ReportABug" />
+        </menu>
+    </item>
+
+    <item
+        android:title="Profile" >
+        <menu>
+            <item
+                android:id="@+id/nav_settings1"
+                android:icon="@drawable/ic_settings"
+                android:title="Account Settings" />
+            <item
+                android:title="Log Out"
+                android:id="@+id/nav_logOut"
+                android:icon="@drawable/ic_logout"/>
+        </menu>
+    </item>
+</menu>

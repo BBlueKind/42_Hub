@@ -19,8 +19,7 @@ async function authenticate(payload) {
     }
     console.log('token', token);
     return {
-        status: 200,
-        token: token
+        access_token: token.access_token
     };
 }
 

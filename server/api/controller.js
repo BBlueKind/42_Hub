@@ -11,6 +11,7 @@ module.exports = controllers = {
     },
     getProfile(req, res) {
 		intraConfig.getAll(`/me`).then((info) => {
+            console.log(info);
 			res.send(info);
 		});
     }

@@ -3447,6 +3447,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_cafeteria
+layout activity_get_data
 layout activity_loading_screen
 layout activity_main
 layout activity_qrscanner_acitivty
