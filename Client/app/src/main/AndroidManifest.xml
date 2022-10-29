@@ -17,14 +17,24 @@
         android:theme="@style/Theme.Hackathon"
         tools:targetApi="31">
         <activity
-<<<<<<< HEAD
-<<<<<<< HEAD
             android:name=".GetDataActivity"
-=======
-            android:name=".loginpage"
-=======
-            android:name=".Security_Student_Form"
->>>>>>> origin/Hadi
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+<activity           android:name=".loginpage"
+    android:exported="false">
+    <meta-data
+        android:name="android.app.lib_name"
+        android:value="" />
+</activity>
+            <activity android:name=".Security_Student_Form"
+        android:exported="false">
+        <meta-data
+            android:name="android.app.lib_name"
+            android:value="" />
+    </activity>
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
