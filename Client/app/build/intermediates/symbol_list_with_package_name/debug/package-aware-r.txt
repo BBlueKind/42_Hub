@@ -2621,6 +2621,7 @@ drawable calendar
 drawable custom_button
 drawable custom_color3
 drawable custom_color4
+drawable custom_color5
 drawable d
 drawable default_selected_dot
 drawable default_unselected_dot
@@ -2898,7 +2899,6 @@ id collapseActionView
 id compress
 id confirm_button
 id constraint
-id constraintLayout
 id container
 id content
 id contentPanel
@@ -2971,7 +2971,6 @@ id fixed
 id flip
 id floating
 id forever
-id fragment
 id fragment_container_view_tag
 id frost
 id fullscreen_header
@@ -3009,10 +3008,13 @@ id ignoreRequest
 id image
 id imageView
 id imageView2
+id imageView3
 id imageView37
 id imageView38
 id imageView4
 id imageView5
+id imageView6
+id imageView7
 id image_view
 id immediateStop
 id included
@@ -3299,6 +3301,7 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
+id webview
 id west
 id withText
 id with_icon
@@ -3544,6 +3547,7 @@ menu menu
 menu menu2
 menu menu3
 menu menu4
+menu menu5
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description

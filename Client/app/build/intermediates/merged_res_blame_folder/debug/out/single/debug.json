@@ -516,6 +516,10 @@
         "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_arcade.xml"
     },
     {
+        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\menu_menu5.xml.flat",
+        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\menu\\menu5.xml"
+    },
+    {
         "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_facebook1.png.flat",
         "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_facebook1.png"
     },
@@ -602,6 +606,10 @@
     {
         "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_image12.png.flat",
         "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\image12.png"
+    },
+    {
+        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_custom_color5.xml.flat",
+        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\custom_color5.xml"
     },
     {
         "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_launcher_foreground.png.flat",

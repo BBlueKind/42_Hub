@@ -14,11 +14,11 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_gravity="start"
-        android:background="@drawable/custom_color4"
+        android:background="@drawable/custom_color5"
         android:fitsSystemWindows="true"
         app:itemIconTint="@color/white"
         app:itemTextColor="@color/white"
-        app:menu="@menu/menu4" />
+        app:menu="@menu/menu5" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
@@ -27,10 +27,10 @@
 
         <androidx.cardview.widget.CardView
             android:id="@+id/cardViewOffers"
-            android:layout_width="355dp"
-            android:layout_height="331dp"
-            android:layout_marginStart="5dp"
-            android:layout_marginEnd="5dp"
+            android:layout_width="336dp"
+            android:layout_height="294dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
             android:scaleType="centerCrop"
             app:cardBackgroundColor="#A3B1B7"
             app:cardCornerRadius="35dp"
@@ -40,16 +40,12 @@
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="0.17000002" >
 
-            <androidx.fragment.app.FragmentContainerView
-                android:id="@+id/fragment"
+            <ImageView
+                android:id="@+id/imageView7"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginTop="20dp"
-                app:cardCornerRadius="28dp"
-                app:layout_constraintBottom_toBottomOf="@+id/constraintLayout"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/cardViewOffers" />
+                app:srcCompat="@drawable/bilal" />
+
         </androidx.cardview.widget.CardView>
 
 
@@ -70,58 +66,39 @@
             android:id="@+id/imageView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="305dp"
             app:layout_constraintBottom_toTopOf="@+id/cardViewOffers"
             app:layout_constraintEnd_toEndOf="@+id/cardViewOffers"
-            app:layout_constraintStart_toEndOf="@+id/soso"
             app:layout_constraintTop_toTopOf="parent"
             app:srcCompat="@drawable/bell" />
 
-        <HorizontalScrollView
-            android:id="@+id/horizontalScrollView"
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+            android:id="@+id/swipeRefreshLayout"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:layout_marginTop="14dp"
-            android:layout_marginBottom="10dp"
+            android:layout_marginTop="45dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/scanBtn">
 
-            <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
-                android:id="@+id/swipeRefreshLayout"
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/hisRvView"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
+                android:background="@color/white"
                 android:fadingEdge="horizontal|vertical"
-                android:fadingEdgeLength="10dp"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.0"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/cardViewOffers"
-                app:layout_constraintVertical_bias="1.0">
-
-                <androidx.recyclerview.widget.RecyclerView
-                    android:id="@+id/hisRvView"
-                    android:layout_width="0dp"
-                    android:layout_height="400dp"
-                    android:background="@drawable/custom_color3"
-                    android:fadingEdge="horizontal|vertical"
-                    android:fadingEdgeLength="10dp" />
-            </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
-
-        </HorizontalScrollView>
+                android:fadingEdgeLength="10dp" />
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
 
         <TextView
             android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="10dp"
-            android:layout_marginBottom="-5dp"
+            android:layout_marginStart="20dp"
             android:text="Recent Checkins"
             android:textColor="@color/black"
             android:textSize="22sp"
-            app:layout_constraintBottom_toTopOf="@+id/horizontalScrollView"
+            app:layout_constraintBottom_toTopOf="@+id/swipeRefreshLayout"
             app:layout_constraintEnd_toStartOf="@+id/scanBtn"
             app:layout_constraintHorizontal_bias="0.133"
             app:layout_constraintStart_toStartOf="parent" />
@@ -130,21 +107,20 @@
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginEnd="10dp"
-            android:layout_marginBottom="-5dp"
+            android:layout_marginEnd="20dp"
             android:text="View All"
             android:textColor="#3FB7DB"
             android:textSize="22sp"
-            app:layout_constraintBottom_toTopOf="@+id/horizontalScrollView"
+            app:layout_constraintBottom_toTopOf="@+id/swipeRefreshLayout"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.818"
             app:layout_constraintStart_toEndOf="@+id/scanBtn" />
 
         <Button
             android:id="@+id/scanBtn"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="12dp"
+            android:layout_width="218dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="28dp"
             android:text="Scan"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
