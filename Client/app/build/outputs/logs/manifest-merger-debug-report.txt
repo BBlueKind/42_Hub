@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:2:1-95:12
-INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:2:1-95:12
-INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:2:1-95:12
-INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:2:1-95:12
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:2:1-95:12
 MERGED from [com.github.denzcoskun:ImageSlideshow:0.0.7] C:\Users\Hheggy\.gradle\caches\transforms-3\8499ef81a4889612babddbe8586bd4ec\transformed\ImageSlideshow-0.0.7\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\Hheggy\.gradle\caches\transforms-3\53edefe15d403f8467620aa121e38059\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Hheggy\.gradle\caches\transforms-3\38043517c514ada7a9c17da61d45b16b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -57,37 +57,37 @@ MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Hheggy\.gradle\caches\
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Hheggy\.gradle\caches\transforms-3\fb44608a9e1d20332c6690b5dda0b67e\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hheggy\.gradle\caches\transforms-3\4cd035b5e343be08009eaf44d4eb0472\transformed\picasso-2.71828\AndroidManifest.xml:2:1-14:12
 MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Hheggy\.gradle\caches\transforms-3\30ae7287488f0824ae65091062e999b2\transformed\exifinterface-27.1.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:2:1-95:12
-INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:2:1-95:12
-INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:2:1-95:12
 	package
-		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:2:1-95:12
-		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:2:1-95:12
+		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:2:1-95:12
-		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:2:1-95:12
+		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:2:1-95:12
-		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:2:1-95:12
+		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:6:5-67
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:7:5-65
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:7:5-65
 MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Hheggy\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:22:5-65
 MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Hheggy\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:22:5-65
 	android:name
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:7:22-62
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:7:22-62
 application
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:9:5-93:19
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:9:5-93:19
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\Hheggy\.gradle\caches\transforms-3\53edefe15d403f8467620aa121e38059\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\Hheggy\.gradle\caches\transforms-3\53edefe15d403f8467620aa121e38059\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Hheggy\.gradle\caches\transforms-3\38043517c514ada7a9c17da61d45b16b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -111,113 +111,113 @@ MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hheggy\.gradle\cache
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\Hheggy\.gradle\caches\transforms-3\205feb206244c8c1b4b56fcdc8d69988\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:14:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:12:9-54
 	android:roundIcon
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:15:9-54
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:15:9-54
 	tools:targetApi
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:18:9-29
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:18:9-29
 	android:icon
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:17:9-47
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:17:9-47
 	android:dataExtractionRules
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:11:9-65
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:11:9-65
 activity#com.example.hackathon.QRscannerAcitivty
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:19:9-25:20
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:19:9-25:20
 	android:exported
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:21:13-37
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:20:13-46
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:20:13-46
 meta-data#android.app.lib_name
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:22:13-24:36
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:22:13-24:36
 	android:value
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:24:17-33
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:24:17-33
 	android:name
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:23:17-52
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:23:17-52
 activity#com.example.hackathon.ReceptionActivity
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:26:9-34:20
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:26:9-34:20
 	android:exported
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:28:13-36
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:28:13-36
 	android:name
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:27:13-46
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:27:13-46
 activity#com.example.hackathon.CafeteriaActivity
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:35:9-41:20
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:35:9-41:20
 	android:exported
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:37:13-37
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:37:13-37
 	android:name
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:36:13-46
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:36:13-46
 activity#com.example.hackathon.StaffActivity
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:42:9-48:20
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:42:9-48:20
 	android:exported
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:44:13-37
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:44:13-37
 	android:name
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:43:13-42
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:43:13-42
 activity#com.example.hackathon.StudentDashBoardActivity
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:49:9-55:20
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:49:9-55:20
 	android:exported
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:51:13-37
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:51:13-37
 	android:name
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:50:13-53
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:50:13-53
 activity#com.example.hackathon.LoadingScreenActivity
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:56:9-67:20
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:56:9-67:20
 	android:exported
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:58:13-36
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:58:13-36
 	android:name
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:57:13-50
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:57:13-50
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:59:13-63:29
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:59:13-63:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:60:17-69
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:60:17-69
 	android:name
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:60:25-66
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:60:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:62:17-77
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:62:17-77
 	android:name
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:62:27-74
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:62:27-74
 activity#com.example.hackathon.TestActivity
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:68:9-74:20
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:68:9-74:20
 	android:exported
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:70:13-37
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:70:13-37
 	android:name
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:69:13-41
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:69:13-41
 activity#com.example.hackathon.MainActivity
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:75:9-92:20
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:75:9-92:20
 	android:exported
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:77:13-36
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:77:13-36
 	android:name
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:76:13-41
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:76:13-41
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.electra.ae+data:path:/soso+data:scheme:https
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:81:13-91:29
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:81:13-91:29
 action#android.intent.action.VIEW
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:82:17-69
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:82:17-69
 	android:name
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:82:25-66
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:82:25-66
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:84:17-76
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:84:17-76
 	android:name
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:84:27-73
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:84:27-73
 category#android.intent.category.BROWSABLE
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:85:17-78
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:85:17-78
 	android:name
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:85:27-75
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:85:27-75
 data
-ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:87:17-90:44
+ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:87:17-90:44
 	android:path
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:90:21-41
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:90:21-41
 	android:host
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:89:21-50
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:89:21-50
 	android:scheme
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml:88:21-43
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml:88:21-43
 uses-sdk
-INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml
 MERGED from [com.github.denzcoskun:ImageSlideshow:0.0.7] C:\Users\Hheggy\.gradle\caches\transforms-3\8499ef81a4889612babddbe8586bd4ec\transformed\ImageSlideshow-0.0.7\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.denzcoskun:ImageSlideshow:0.0.7] C:\Users\Hheggy\.gradle\caches\transforms-3\8499ef81a4889612babddbe8586bd4ec\transformed\ImageSlideshow-0.0.7\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\Hheggy\.gradle\caches\transforms-3\53edefe15d403f8467620aa121e38059\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
@@ -324,16 +324,16 @@ MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hheggy\.gradle\cache
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hheggy\.gradle\caches\transforms-3\4cd035b5e343be08009eaf44d4eb0472\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Hheggy\.gradle\caches\transforms-3\30ae7287488f0824ae65091062e999b2\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Hheggy\.gradle\caches\transforms-3\30ae7287488f0824ae65091062e999b2\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Hheggy\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hheggy\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20

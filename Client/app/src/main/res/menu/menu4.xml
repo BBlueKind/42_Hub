@@ -16,4 +16,8 @@
         android:id="@+id/nav_capital"
         android:icon="@drawable/food_icon"
         android:title="Todays Food" />
+    <item
+        android:id="@+id/nav_capital1"
+        android:icon="@drawable/food_icon"
+        android:title="Visa Application" />
 </menu>

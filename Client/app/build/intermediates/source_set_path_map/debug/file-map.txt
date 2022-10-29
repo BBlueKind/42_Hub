@@ -28,11 +28,11 @@ com.example.hackathon.app-lifecycle-runtime-2.5.1-26 C:\Users\Hheggy\.gradle\cac
 com.example.hackathon.app-lifecycle-viewmodel-2.5.1-27 C:\Users\Hheggy\.gradle\caches\transforms-3\f2489d9065f4dca5ca4b308de42fbf04\transformed\lifecycle-viewmodel-2.5.1\res
 com.example.hackathon.app-swiperefreshlayout-1.1.0-28 C:\Users\Hheggy\.gradle\caches\transforms-3\f569fe34fcd730d6f94a55692e7cbc6c\transformed\swiperefreshlayout-1.1.0\res
 com.example.hackathon.app-annotation-experimental-1.1.0-29 C:\Users\Hheggy\.gradle\caches\transforms-3\fb44608a9e1d20332c6690b5dda0b67e\transformed\annotation-experimental-1.1.0\res
-com.example.hackathon.app-pngs-30 C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\build\generated\res\pngs\debug
-com.example.hackathon.app-resValues-31 C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\build\generated\res\resValues\debug
-com.example.hackathon.app-rs-32 C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\build\generated\res\rs\debug
-com.example.hackathon.app-packageDebugResources-33 C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.hackathon.app-packageDebugResources-34 C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.hackathon.app-merged_res-35 C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\build\intermediates\merged_res\debug
-com.example.hackathon.app-debug-36 C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\debug\res
-com.example.hackathon.app-main-37 C:\Users\Hheggy\Downloads\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\42_Hackathon-2ed7b550864ecbd74ebae75fc90f0b382b2b3363\app\src\main\res
+com.example.hackathon.app-pngs-30 C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\build\generated\res\pngs\debug
+com.example.hackathon.app-resValues-31 C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\build\generated\res\resValues\debug
+com.example.hackathon.app-rs-32 C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\build\generated\res\rs\debug
+com.example.hackathon.app-packageDebugResources-33 C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.hackathon.app-packageDebugResources-34 C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.hackathon.app-merged_res-35 C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\build\intermediates\merged_res\debug
+com.example.hackathon.app-debug-36 C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\debug\res
+com.example.hackathon.app-main-37 C:\Users\Hheggy\Downloads\42_Hackathon-master (1)\42_Hackathon-master\Client\app\src\main\res

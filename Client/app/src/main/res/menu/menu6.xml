@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    android:background="@drawable/custom_color6">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/nav_alain"
+        android:icon="@drawable/ic_city"
+        android:title="Check-Ins" />
+    <item
+        android:id="@+id/nav_capital"
+        android:icon="@drawable/food_icon"
+        android:title="Add Food" />
+</menu>
