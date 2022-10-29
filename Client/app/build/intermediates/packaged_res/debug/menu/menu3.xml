@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ic_toggleon"
+        android:icon="@drawable/ic_baseline_toggleon"
+        android:title="Light Theme" />
+    <item
+        android:id="@+id/ic_play"
+        android:icon="@drawable/ic_play"
+        android:title="Play" />
+    <item
+        android:id="@+id/ic_bug"
+        android:icon="@drawable/ic_bug"
+        android:title="ReportABug" />
+</menu>
