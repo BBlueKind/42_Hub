@@ -1,7 +1,7 @@
 package com.example.hackathon;
 
 public class Repo {
-    String login;
+    String displayname;
     String image_url;
-    Integer id;
+    String email;
 }

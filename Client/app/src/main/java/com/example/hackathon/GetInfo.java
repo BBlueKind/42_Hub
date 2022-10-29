@@ -6,6 +6,8 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 
+import com.squareup.picasso.Picasso;
+
 import java.io.IOException;
 
 import okhttp3.Interceptor;
@@ -70,9 +72,9 @@ public class GetInfo {
                             imageView.setImageURI(Uri.parse("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Error.svg/1200px-Error.svg.png"));
                             return ;
                         }
-                        textViewName.setText(response.body().login);
-                        textViewId.setText(response.body().id);
-                        imageView.setImageURI(Uri.parse(response.body().image_url));
+                        textViewName.setText(response.body().displayname);
+                        textViewId.setText(response.body().email);
+                        Picasso.get().load(response.body().image_url).into(imageView);
                     }
                     @Override
                     public void onFailure(Call<Repo> call, Throwable t)

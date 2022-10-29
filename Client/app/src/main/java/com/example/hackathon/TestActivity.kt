@@ -23,7 +23,7 @@ class TestActivity : AppCompatActivity() {
             override fun onPageStarted(view: WebView?, url: String?, favicon: Bitmap?) {
                 if (url != null) {
                     if (url.contains("?code")) {
-                        val intent = Intent(this@TestActivity, GetDataActivity::class.java)
+                        val intent = Intent(this@TestActivity, MainActivity::class.java)
                         intent.putExtra("soso", url.subSequence(29, url.length))
                         intent.putExtra("url", url)
                         startActivity(intent)
