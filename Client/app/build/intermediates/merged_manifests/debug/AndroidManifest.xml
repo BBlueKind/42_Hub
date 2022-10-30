@@ -49,6 +49,13 @@
         android:theme="@style/Theme.Hackathon"
         android:usesCleartextTraffic="true" >
         <activity
+            android:name="com.example.hackathon.LoadingDataActivity"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name="com.example.hackathon.GetDataActivity"
             android:exported="false" >
             <meta-data

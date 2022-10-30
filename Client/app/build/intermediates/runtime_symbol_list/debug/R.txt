@@ -3447,6 +3447,7 @@ int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
 int layout activity_cafeteria 0x7f0b001c
 int layout activity_get_data 0x7f0b001d
+int layout activity_loading_data 0x7f0b007e
 int layout activity_loading_screen 0x7f0b001e
 int layout activity_main 0x7f0b001f
 int layout activity_qrscanner_acitivty 0x7f0b0020

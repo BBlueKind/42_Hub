@@ -1,6 +1,7 @@
 package com.example.hackathon
 
 import android.annotation.SuppressLint
+import android.content.Intent
 import android.graphics.Bitmap
 import android.graphics.Point
 import androidx.appcompat.app.AppCompatActivity
@@ -100,6 +101,8 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this,value, Toast.LENGTH_LONG).show()
             GetInfo().reqUserInfo(ttext1,ttext2,image1,value)
             generateQR(ttext1.toString(),ttext2.toString(),image1)
+            val intent = Intent(this, LoadingDataActivity::class.java)
+            startActivity(intent)
             //The key argument here must match that used in the other activity
         }
 

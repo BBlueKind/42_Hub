@@ -31,7 +31,6 @@ class LoadingScreenActivity : AppCompatActivity() {
         ImageView2.visibility = View.GONE
 
         crossfade()
-
         Handler().postDelayed({
             val intent = Intent(this, TestActivity::class.java)
             startActivity(intent)
