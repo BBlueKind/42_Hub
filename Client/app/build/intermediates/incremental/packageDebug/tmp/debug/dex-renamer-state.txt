@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-#Sat Oct 29 21:53:16 GST 2022
+#Sun Oct 30 13:01:58 GST 2022
 path.3=classes2.dex
 path.2=12/classes.dex
 path.1=0/classes.dex
@@ -10,22 +8,6 @@ base.2=C\:\\Users\\Hheggy\\Downloads\\42_Hub\\Client\\app\\build\\intermediates\
 base.1=C\:\\Users\\Hheggy\\Downloads\\42_Hub\\Client\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.0=C\:\\Users\\Hheggy\\Downloads\\42_Hub\\Client\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
-=======
-#Sun Oct 30 05:02:06 GST 2022
-base.2=C\:\\Users\\kazem\\Desktop\\Bilal\\42_Hub\\Client\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
-path.2=12/classes.dex
-base.1=C\:\\Users\\kazem\\Desktop\\Bilal\\42_Hub\\Client\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-path.1=0/classes.dex
-base.0=C\:\\Users\\kazem\\Desktop\\Bilal\\42_Hub\\Client\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
->>>>>>> origin/Bilal
-=======
-#Sun Oct 30 04:07:31 GST 2022
-base.2=/Users/42ad/42_Hub/Client/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
-path.2=12/classes.dex
-base.1=/Users/42ad/42_Hub/Client/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-path.1=0/classes.dex
-base.0=/Users/42ad/42_Hub/Client/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
->>>>>>> origin/Hadi
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex

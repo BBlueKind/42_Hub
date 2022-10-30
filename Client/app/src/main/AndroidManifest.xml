@@ -6,7 +6,6 @@
     <uses-permission android:name="android.permission.CAMERA" />
 
     <application
-        android:usesCleartextTraffic="true"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -15,7 +14,78 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Hackathon"
+        android:usesCleartextTraffic="true"
         tools:targetApi="31">
+        <activity
+            android:name=".events"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Security_Student_Form"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Checkin_Security_Dashboard"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Staff_Icon_Dropdown"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Create_Staff_Event"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Staff_Dashboard"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Food_Info"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Add_Foods"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Foods"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Cafeteria_Download_View"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
         <activity
             android:name=".GetDataActivity"
             android:exported="false">
@@ -23,107 +93,64 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
-<activity           android:name=".loginpage"
-    android:exported="false">
-    <meta-data
-        android:name="android.app.lib_name"
-        android:value="" />
-</activity>
-            <activity android:name=".Security_Student_Form"
-        android:exported="false">
-        <meta-data
-            android:name="android.app.lib_name"
-            android:value="" />
-    </activity>
+        <activity
+            android:name=".loginpage"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-<<<<<<< HEAD
             android:name=".food_boxview"
-=======
-            android:name=".Checkin_Security_Dashboard"
->>>>>>> origin/Hadi
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-<<<<<<< HEAD
             android:name=".foodDash"
-=======
-            android:name=".Staff_Icon_Dropdown"
->>>>>>> origin/Hadi
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-<<<<<<< HEAD
             android:name=".movie_feedback"
-=======
-            android:name=".Create_Staff_Event"
->>>>>>> origin/Hadi
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-<<<<<<< HEAD
             android:name=".movieWaiting"
-=======
-            android:name=".Staff_Dashboard"
->>>>>>> origin/Hadi
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-<<<<<<< HEAD
             android:name=".movieActivity"
-=======
-            android:name=".Food_Info"
->>>>>>> origin/Hadi
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-<<<<<<< HEAD
             android:name=".footywaiting"
-=======
-            android:name=".Add_Foods"
->>>>>>> origin/Hadi
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-<<<<<<< HEAD
             android:name=".footexpand"
-=======
-            android:name=".Foods"
->>>>>>> origin/Hadi
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-<<<<<<< HEAD
             android:name=".HomeActivity"
->>>>>>> origin/Bilal
-=======
-            android:name=".Cafeteria_Download_View"
->>>>>>> origin/Hadi
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
@@ -145,7 +172,8 @@
         </activity>
         <activity
             android:name=".CafeteriaActivity"
-            android:exported="false">
+            android:exported="false"
+            android:screenOrientation="portrait">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />

@@ -147,7 +147,7 @@ public class GetInfo{
 
         // setting this dimensions inside our qr code
         // encoder to generate our qr code.
-        qrgEncoder = new QRGEncoder(name + "#" + Email, null, QRGContents.Type.TEXT, dimen);
+        qrgEncoder = new QRGEncoder(name, null, QRGContents.Type.TEXT, dimen);
         try {
             // getting our qrcode in the form of bitmap.
             bitmap = qrgEncoder.encodeAsBitmap();

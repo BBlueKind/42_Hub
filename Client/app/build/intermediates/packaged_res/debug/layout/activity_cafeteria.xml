@@ -9,16 +9,6 @@
     tools:context=".CafeteriaActivity"
     tools:ignore="SpeakableTextPresentCheck">
 
-    <com.google.android.material.navigation.NavigationView
-        android:id="@+id/nav_view"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:layout_gravity="start"
-        android:background="@drawable/custom_color6"
-        android:fitsSystemWindows="true"
-        app:itemIconTint="@color/white"
-        app:itemTextColor="@color/white"
-        app:menu="@menu/menu6" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
@@ -44,7 +34,8 @@
                 android:id="@+id/imageView7"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                app:srcCompat="@drawable/bilal" />
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/_2ad1" />
 
         </androidx.cardview.widget.CardView>
 
@@ -128,6 +119,17 @@
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@drawable/custom_color6"
+        android:fitsSystemWindows="true"
+        app:itemIconTint="@color/white"
+        app:itemTextColor="@color/white"
+        app:menu="@menu/menu6" />
 </androidx.drawerlayout.widget.DrawerLayout>
 
 

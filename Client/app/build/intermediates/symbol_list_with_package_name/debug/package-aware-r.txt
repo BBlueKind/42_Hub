@@ -2524,8 +2524,10 @@ dimen tooltip_precise_anchor_threshold
 dimen tooltip_vertical_padding
 dimen tooltip_y_offset_non_touch
 dimen tooltip_y_offset_touch
+drawable _2ad1
 drawable _2ad_blacklogo
 drawable _4
+drawable aabbc
 drawable abc_ab_share_pack_mtrl_alpha
 drawable abc_action_bar_item_background_material
 drawable abc_btn_borderless_material
@@ -2605,6 +2607,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable add_btn
 drawable addfoods
 drawable avd_hide_password
 drawable avd_show_password
@@ -2620,11 +2623,8 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
-<<<<<<< HEAD
 drawable button
-=======
 drawable cafeteria_chekin_form__2_
->>>>>>> origin/Hadi
 drawable calendar
 drawable check_in
 drawable checkin_security
@@ -2636,6 +2636,7 @@ drawable custom_color3
 drawable custom_color4
 drawable custom_color5
 drawable custom_color6
+drawable cutlery
 drawable d
 drawable dashboard_staff
 drawable default_selected_dot
@@ -2645,9 +2646,6 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
-<<<<<<< HEAD
-drawable ellipse
-=======
 drawable downoad_monthly
 drawable ellipse
 drawable ellipse_1
@@ -2663,7 +2661,6 @@ drawable ellipse_6
 drawable ellipse_7
 drawable ellipse_8
 drawable ellipse_9
->>>>>>> origin/Hadi
 drawable error
 drawable events_food_feedback_box_view
 drawable events_football
@@ -2675,13 +2672,10 @@ drawable food_icon
 drawable food_info
 drawable foods
 drawable football
-<<<<<<< HEAD
 drawable footy
-=======
 drawable form_security
 drawable frame_2
 drawable frame_3
->>>>>>> origin/Hadi
 drawable gradient
 drawable group_31
 drawable history
@@ -2841,12 +2835,9 @@ drawable test_level_drawable
 drawable todays_food_student
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
-<<<<<<< HEAD
-drawable waiting_list
-=======
 drawable vector
 drawable vector_1
->>>>>>> origin/Hadi
+drawable waiting_list
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2919,6 +2910,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id addFoodBtn
 id alertTitle
 id alignBounds
 id alignMargins
@@ -2949,6 +2941,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id button
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2977,6 +2970,7 @@ id collapseActionView
 id compress
 id confirm_button
 id constraint
+id constraintLayout
 id container
 id content
 id contentPanel
@@ -3024,6 +3018,8 @@ id easeIn
 id easeInOut
 id easeOut
 id east
+id editTextTextMultiLine
+id editTextTextPersonName
 id edit_query
 id elastic
 id embed
@@ -3048,6 +3044,7 @@ id fitXY
 id fixed
 id flip
 id floating
+id footballBtn
 id forever
 id fragment_container_view_tag
 id frost
@@ -3078,18 +3075,23 @@ id ic_toggleon
 id icon
 id icon_group
 id idIVCourseImage
+id idRVCourse
 id idTVCourseName
 id idTVCourseRating
+id idTVQty
 id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageButton
 id imageView
 id imageView2
+id imageView3
 id imageView37
 id imageView38
 id imageView4
 id imageView5
+id imageView6
 id imageView7
 id image_view
 id immediateStop
@@ -3307,6 +3309,7 @@ id submenuarrow
 id submit_area
 id supportScrollUp
 id swipeRefreshLayout
+id swipeRefreshLayout2
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -3332,6 +3335,7 @@ id textView
 id textView2
 id textView3
 id textView4
+id textView5
 id textView92
 id textView93
 id text_input_end_icon
@@ -3525,23 +3529,18 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_add_foods
 layout activity_cafeteria
-<<<<<<< HEAD
-<<<<<<< HEAD
-layout activity_get_data
-=======
-layout activity_food_boxview
-layout activity_food_dash
-layout activity_footexpand
-layout activity_footywaiting
-layout activity_home
->>>>>>> origin/Bilal
-=======
 layout activity_cafeteria_download_view
 layout activity_checkin_security_dashboard
 layout activity_create_staff_event
+layout activity_events
+layout activity_food_boxview
+layout activity_food_dash
 layout activity_food_info
 layout activity_foods
->>>>>>> origin/Hadi
+layout activity_footexpand
+layout activity_footywaiting
+layout activity_get_data
+layout activity_home
 layout activity_loading_screen
 layout activity_loginpage
 layout activity_main
@@ -3557,6 +3556,7 @@ layout activity_staff_icon_dropdown
 layout activity_student_dash_board
 layout activity_test
 layout card_layout
+layout card_layout1
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

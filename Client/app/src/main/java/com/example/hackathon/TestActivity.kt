@@ -4,6 +4,8 @@ import android.annotation.SuppressLint
 import android.content.Intent
 import android.graphics.Bitmap
 import android.os.Bundle
+import android.view.Window
+import android.view.WindowManager
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import androidx.appcompat.app.AppCompatActivity
@@ -13,6 +15,14 @@ class TestActivity : AppCompatActivity() {
     @SuppressLint("SetJavaScriptEnabled")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
+        requestWindowFeature(Window.FEATURE_NO_TITLE);
+        this.window.setFlags(
+            WindowManager.LayoutParams.FLAG_FULLSCREEN,
+            WindowManager.LayoutParams.FLAG_FULLSCREEN,
+        )
+        supportActionBar?.hide()
+
         setContentView(R.layout.activity_test)
 
         val myWebView = findViewById<WebView>(R.id.webview)

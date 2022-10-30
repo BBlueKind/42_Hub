@@ -9,16 +9,7 @@
     tools:context=".ReceptionActivity"
     tools:ignore="SpeakableTextPresentCheck">
 
-    <com.google.android.material.navigation.NavigationView
-        android:id="@+id/nav_view"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:layout_gravity="start"
-        android:background="@drawable/custom_color5"
-        android:fitsSystemWindows="true"
-        app:itemIconTint="@color/white"
-        app:itemTextColor="@color/white"
-        app:menu="@menu/menu5" />
+
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
@@ -32,19 +23,20 @@
             android:layout_marginStart="8dp"
             android:layout_marginEnd="8dp"
             android:scaleType="centerCrop"
-            app:cardBackgroundColor="#A3B1B7"
+            app:cardBackgroundColor="#9FA3B1B7"
             app:cardCornerRadius="35dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.17000002" >
+            app:layout_constraintVertical_bias="0.17000002">
 
             <ImageView
                 android:id="@+id/imageView7"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                app:srcCompat="@drawable/bilal" />
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/_2ad1" />
 
         </androidx.cardview.widget.CardView>
 
@@ -95,9 +87,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
-            android:text="Recent Checkins"
+            android:text="Recent Check-ins"
             android:textColor="@color/black"
-            android:textSize="22sp"
+            android:textSize="18sp"
             app:layout_constraintBottom_toTopOf="@+id/swipeRefreshLayout"
             app:layout_constraintEnd_toStartOf="@+id/scanBtn"
             app:layout_constraintHorizontal_bias="0.133"
@@ -110,7 +102,7 @@
             android:layout_marginEnd="20dp"
             android:text="View All"
             android:textColor="#3FB7DB"
-            android:textSize="22sp"
+            android:textSize="18sp"
             app:layout_constraintBottom_toTopOf="@+id/swipeRefreshLayout"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.818"
@@ -128,6 +120,17 @@
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@drawable/custom_color5"
+        android:fitsSystemWindows="true"
+        app:itemIconTint="@color/white"
+        app:itemTextColor="@color/white"
+        app:menu="@menu/menu5" />
 </androidx.drawerlayout.widget.DrawerLayout>
 
 

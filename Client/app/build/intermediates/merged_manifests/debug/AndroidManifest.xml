@@ -49,6 +49,76 @@
         android:theme="@style/Theme.Hackathon"
         android:usesCleartextTraffic="true" >
         <activity
+            android:name="com.example.hackathon.events"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.hackathon.Security_Student_Form"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.hackathon.Checkin_Security_Dashboard"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.hackathon.Staff_Icon_Dropdown"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.hackathon.Create_Staff_Event"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.hackathon.Staff_Dashboard"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.hackathon.Food_Info"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.hackathon.Add_Foods"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.hackathon.Foods"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.hackathon.Cafeteria_Download_View"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name="com.example.hackathon.GetDataActivity"
             android:exported="false" >
             <meta-data
@@ -119,69 +189,6 @@
                 android:value="" />
         </activity>
         <activity
-            android:name="com.example.hackathon.Security_Student_Form"
-            android:exported="false" >
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name="com.example.hackathon.Checkin_Security_Dashboard"
-            android:exported="false" >
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name="com.example.hackathon.Staff_Icon_Dropdown"
-            android:exported="false" >
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name="com.example.hackathon.Create_Staff_Event"
-            android:exported="false" >
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name="com.example.hackathon.Staff_Dashboard"
-            android:exported="false" >
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name="com.example.hackathon.Food_Info"
-            android:exported="false" >
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name="com.example.hackathon.Add_Foods"
-            android:exported="false" >
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name="com.example.hackathon.Foods"
-            android:exported="false" >
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name="com.example.hackathon.Cafeteria_Download_View"
-            android:exported="false" >
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
             android:name="com.example.hackathon.QRscannerAcitivty"
             android:exported="false" >
             <meta-data
@@ -197,7 +204,8 @@
         </activity>
         <activity
             android:name="com.example.hackathon.CafeteriaActivity"
-            android:exported="false" >
+            android:exported="false"
+            android:screenOrientation="portrait" >
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
