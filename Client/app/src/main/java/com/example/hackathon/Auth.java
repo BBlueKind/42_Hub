@@ -1,5 +1,5 @@
 package com.example.hackathon;
 
 public class Auth {
-    String token;
+    String access_token;
 }

@@ -55,5 +55,6 @@ class MainActivity : AppCompatActivity() {
             drawerLayout.openDrawer(navView)
         }
 
+
     }
 }

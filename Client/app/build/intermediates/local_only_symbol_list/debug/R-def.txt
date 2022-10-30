@@ -127,6 +127,7 @@ id thingsToDoBtn
 id v_flipper
 id webview
 layout activity_cafeteria
+layout activity_get_data
 layout activity_loading_screen
 layout activity_main
 layout activity_qrscanner_acitivty

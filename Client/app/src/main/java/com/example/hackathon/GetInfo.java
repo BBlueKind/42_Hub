@@ -1,9 +1,12 @@
 package com.example.hackathon;
 
+import android.net.Uri;
+import android.widget.ImageView;
+import android.widget.TextView;
+
 import androidx.annotation.NonNull;
 
 import java.io.IOException;
-import java.util.List;
 
 import okhttp3.Interceptor;
 import okhttp3.OkHttpClient;
@@ -16,73 +19,77 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class GetInfo {
     public static String userName;
+    private static String token;
 
     public static void setUserName(String myString) {
         userName = myString;
     }
 
-    public void reqUserInfo(String user1, String code) {
+    public void reqUserInfo(TextView textViewName, TextView textViewId, ImageView imageView, String code) {
         Retrofit retrofit = new Retrofit.Builder()
-                .client(client)
-                .baseUrl("https://localhost:6000/")
+                .baseUrl("http://10.19.246.91:8080/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
         ApiRequest service = retrofit.create(ApiRequest.class);
-        Call<Auth> sendCode = service.sendCode();
+        SendData sendData = new SendData(code);
+        Call<Auth> sendCode = service.sendCode(sendData);
         sendCode.enqueue(new Callback<Auth>() {
             @Override
             public void onResponse(@NonNull Call<Auth> call, Response<Auth> response)
             {
                 if (!response.isSuccessful()) {
-                    userName = "Error" + response.code();
-                    //textViewResult.setText("Error" + response.code());
+                    textViewName.setText("Error" + response.code());
+                    textViewId.setText("Error" + response.code());
+                    imageView.setImageURI(Uri.parse("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Error.svg/1200px-Error.svg.png"));
                     return ;
                 }
-                userName = response.body().token;
-                //textViewResult.setText(response.body().get(0).login);
+
+                OkHttpClient client = new OkHttpClient.Builder().addInterceptor(new Interceptor() {
+                    @Override
+                    public okhttp3.Response intercept(Chain chain) throws IOException {
+                        Request newRequest  = chain.request().newBuilder()
+                                .addHeader("Authorization", "Bearer " + response.body().access_token)
+                                .build();
+                        return chain.proceed(newRequest);
+                    }
+                }).build();
+                Retrofit retrofit1 = new Retrofit.Builder()
+                        .client(client)
+                        .baseUrl("http://10.19.246.91:8080/")
+                        .addConverterFactory(GsonConverterFactory.create())
+                        .build();
+                ApiRequest service1 = retrofit1.create(ApiRequest.class);
+                Call<Repo> repos = service1.listRepos();
+                repos.enqueue(new Callback<Repo>() {
+                    @Override
+                    public void onResponse(@NonNull Call<Repo> call, Response<Repo> response)
+                    {
+                        if (!response.isSuccessful()) {
+                            textViewName.setText("Error" + response.code());
+                            textViewId.setText("Error" + response.code());
+                            imageView.setImageURI(Uri.parse("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Error.svg/1200px-Error.svg.png"));
+                            return ;
+                        }
+                        textViewName.setText(response.body().login);
+                        textViewId.setText(response.body().id);
+                        imageView.setImageURI(Uri.parse(response.body().image_url));
+                    }
+                    @Override
+                    public void onFailure(Call<Repo> call, Throwable t)
+                    {
+                        textViewName.setText("Error" + t.getMessage());
+                        textViewId.setText("Error" + t.getMessage());
+                        imageView.setImageURI(Uri.parse("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Error.svg/1200px-Error.svg.png"));
+                    }
+                });
             }
 
             @Override
             public void onFailure(Call<Auth> call, Throwable t)
             {
-                userName = t.getMessage();
-                //textViewResult.setText(t.getMessage());
-            }
-        });
-        System.out.println(userName);
-        OkHttpClient client = new OkHttpClient.Builder().addInterceptor(new Interceptor() {
-            @Override
-            public okhttp3.Response intercept(Chain chain) throws IOException {
-                Request newRequest  = chain.request().newBuilder()
-                        .addHeader("Authorization", "Bearer " + code)
-                        .build();
-                return chain.proceed(newRequest);
-            }
-        }).build();
-        retrofit = new Retrofit.Builder()
-                .client(client)
-                .baseUrl("https://localhost:6000/")
-                .addConverterFactory(GsonConverterFactory.create())
-                .build();
-        ApiRequest service = retrofit.create(ApiRequest.class);
-        Call<List<Repo>> repos = service.listRepos();
-        repos.enqueue(new Callback<List<Repo>>() {
-            @Override
-            public void onResponse(@NonNull Call<List<Repo>> call, Response<List<Repo>> response)
-            {
-                if (!response.isSuccessful()) {
-                    userName = "Error" + response.code();
-                    //textViewResult.setText("Error" + response.code());
-                    return ;
-                }
-                userName = response.body().get(0).login;
-                //textViewResult.setText(response.body().get(0).login);
-            }
-            @Override
-            public void onFailure(Call<List<Repo>> call, Throwable t)
-            {
-                userName = t.getMessage();
-                //textViewResult.setText(t.getMessage());
+                textViewName.setText("Error" + t.getMessage());
+                textViewId.setText("Error" + t.getMessage());
+                imageView.setImageURI(Uri.parse("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Error.svg/1200px-Error.svg.png"));
             }
         });
     }
