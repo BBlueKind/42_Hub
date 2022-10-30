@@ -45,6 +45,13 @@
         android:testOnly="true"
         android:theme="@style/Theme.Hackathon" >
         <activity
+            android:name="com.example.hackathon.loginpage"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name="com.example.hackathon.food_boxview"
             android:exported="false" >
             <meta-data

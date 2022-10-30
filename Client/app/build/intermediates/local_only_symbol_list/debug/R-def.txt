@@ -79,6 +79,7 @@ drawable ic_tickets
 drawable ic_tix
 drawable ic_whatsapp1
 drawable image12
+drawable log_in
 drawable movie
 drawable movienightt
 drawable players
@@ -148,6 +149,7 @@ layout activity_footexpand
 layout activity_footywaiting
 layout activity_home
 layout activity_loading_screen
+layout activity_loginpage
 layout activity_main
 layout activity_movie
 layout activity_movie_feedback

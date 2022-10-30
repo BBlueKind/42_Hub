@@ -57,7 +57,7 @@
 33-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\kazem\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:44:9-33
 34
 35    <application
-35-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:8:5-148:19
+35-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:8:5-155:19
 36        android:allowBackup="true"
 36-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:9:9-35
 37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -80,8 +80,8 @@
 46-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:16:9-47
 47        <activity
 47-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:18:9-24:20
-48            android:name="com.example.hackathon.food_boxview"
-48-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:19:13-41
+48            android:name="com.example.hackathon.loginpage"
+48-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:19:13-38
 49            android:exported="false" >
 49-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:20:13-37
 50            <meta-data
@@ -93,8 +93,8 @@
 53        </activity>
 54        <activity
 54-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:25:9-31:20
-55            android:name="com.example.hackathon.foodDash"
-55-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:26:13-37
+55            android:name="com.example.hackathon.food_boxview"
+55-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:26:13-41
 56            android:exported="false" >
 56-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:27:13-37
 57            <meta-data
@@ -106,8 +106,8 @@
 60        </activity>
 61        <activity
 61-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:32:9-38:20
-62            android:name="com.example.hackathon.movie_feedback"
-62-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:33:13-43
+62            android:name="com.example.hackathon.foodDash"
+62-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:33:13-37
 63            android:exported="false" >
 63-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:34:13-37
 64            <meta-data
@@ -119,8 +119,8 @@
 67        </activity>
 68        <activity
 68-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:39:9-45:20
-69            android:name="com.example.hackathon.movieWaiting"
-69-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:40:13-41
+69            android:name="com.example.hackathon.movie_feedback"
+69-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:40:13-43
 70            android:exported="false" >
 70-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:41:13-37
 71            <meta-data
@@ -132,8 +132,8 @@
 74        </activity>
 75        <activity
 75-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:46:9-52:20
-76            android:name="com.example.hackathon.movieActivity"
-76-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:47:13-42
+76            android:name="com.example.hackathon.movieWaiting"
+76-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:47:13-41
 77            android:exported="false" >
 77-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:48:13-37
 78            <meta-data
@@ -145,8 +145,8 @@
 81        </activity>
 82        <activity
 82-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:53:9-59:20
-83            android:name="com.example.hackathon.footywaiting"
-83-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:54:13-41
+83            android:name="com.example.hackathon.movieActivity"
+83-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:54:13-42
 84            android:exported="false" >
 84-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:55:13-37
 85            <meta-data
@@ -158,8 +158,8 @@
 88        </activity>
 89        <activity
 89-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:60:9-66:20
-90            android:name="com.example.hackathon.footexpand"
-90-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:61:13-39
+90            android:name="com.example.hackathon.footywaiting"
+90-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:61:13-41
 91            android:exported="false" >
 91-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:62:13-37
 92            <meta-data
@@ -171,8 +171,8 @@
 95        </activity>
 96        <activity
 96-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:67:9-73:20
-97            android:name="com.example.hackathon.HomeActivity"
-97-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:68:13-41
+97            android:name="com.example.hackathon.footexpand"
+97-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:68:13-39
 98            android:exported="false" >
 98-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:69:13-37
 99            <meta-data
@@ -184,8 +184,8 @@
 102        </activity>
 103        <activity
 103-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:74:9-80:20
-104            android:name="com.example.hackathon.QRscannerAcitivty"
-104-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:75:13-46
+104            android:name="com.example.hackathon.HomeActivity"
+104-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:75:13-41
 105            android:exported="false" >
 105-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:76:13-37
 106            <meta-data
@@ -197,10 +197,10 @@
 109        </activity>
 110        <activity
 110-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:81:9-87:20
-111            android:name="com.example.hackathon.ReceptionActivity"
+111            android:name="com.example.hackathon.QRscannerAcitivty"
 111-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:82:13-46
-112            android:exported="true" >
-112-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:83:13-36
+112            android:exported="false" >
+112-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:83:13-37
 113            <meta-data
 113-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:21:13-23:36
 114                android:name="android.app.lib_name"
@@ -210,10 +210,10 @@
 116        </activity>
 117        <activity
 117-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:88:9-94:20
-118            android:name="com.example.hackathon.CafeteriaActivity"
+118            android:name="com.example.hackathon.ReceptionActivity"
 118-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:89:13-46
-119            android:exported="false" >
-119-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:90:13-37
+119            android:exported="true" >
+119-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:90:13-36
 120            <meta-data
 120-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:21:13-23:36
 121                android:name="android.app.lib_name"
@@ -223,8 +223,8 @@
 123        </activity>
 124        <activity
 124-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:95:9-101:20
-125            android:name="com.example.hackathon.StaffActivity"
-125-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:96:13-42
+125            android:name="com.example.hackathon.CafeteriaActivity"
+125-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:96:13-46
 126            android:exported="false" >
 126-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:97:13-37
 127            <meta-data
@@ -236,8 +236,8 @@
 130        </activity>
 131        <activity
 131-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:102:9-108:20
-132            android:name="com.example.hackathon.StudentDashBoardActivity"
-132-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:103:13-53
+132            android:name="com.example.hackathon.StaffActivity"
+132-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:103:13-42
 133            android:exported="false" >
 133-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:104:13-37
 134            <meta-data
@@ -248,35 +248,35 @@
 136-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:23:17-33
 137        </activity>
 138        <activity
-138-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:109:9-121:20
-139            android:name="com.example.hackathon.LoadingScreenActivity"
-139-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:110:13-50
-140            android:exported="true" >
-140-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:111:13-36
-141            <intent-filter>
-141-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:112:13-116:29
-142                <action android:name="android.intent.action.MAIN" />
-142-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:113:17-69
-142-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:113:25-66
-143
-144                <category android:name="android.intent.category.LAUNCHER" />
-144-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:115:17-77
-144-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:115:27-74
-145            </intent-filter>
-146
-147            <meta-data
-147-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:21:13-23:36
-148                android:name="android.app.lib_name"
-148-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:22:17-52
-149                android:value="" />
-149-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:23:17-33
-150        </activity>
-151        <activity
-151-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:122:9-128:20
-152            android:name="com.example.hackathon.TestActivity"
-152-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:123:13-41
-153            android:exported="false" >
-153-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:124:13-37
+138-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:109:9-115:20
+139            android:name="com.example.hackathon.StudentDashBoardActivity"
+139-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:110:13-53
+140            android:exported="false" >
+140-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:111:13-37
+141            <meta-data
+141-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:21:13-23:36
+142                android:name="android.app.lib_name"
+142-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:22:17-52
+143                android:value="" />
+143-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:23:17-33
+144        </activity>
+145        <activity
+145-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:116:9-128:20
+146            android:name="com.example.hackathon.LoadingScreenActivity"
+146-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:117:13-50
+147            android:exported="true" >
+147-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:118:13-36
+148            <intent-filter>
+148-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:119:13-123:29
+149                <action android:name="android.intent.action.MAIN" />
+149-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:120:17-69
+149-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:120:25-66
+150
+151                <category android:name="android.intent.category.LAUNCHER" />
+151-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:122:17-77
+151-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:122:27-74
+152            </intent-filter>
+153
 154            <meta-data
 154-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:21:13-23:36
 155                android:name="android.app.lib_name"
@@ -285,87 +285,100 @@
 156-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:23:17-33
 157        </activity>
 158        <activity
-158-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:129:9-147:20
-159            android:name="com.example.hackathon.MainActivity"
+158-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:129:9-135:20
+159            android:name="com.example.hackathon.TestActivity"
 159-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:130:13-41
-160            android:exported="true" >
-160-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:131:13-36
+160            android:exported="false" >
+160-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:131:13-37
 161            <meta-data
 161-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:21:13-23:36
 162                android:name="android.app.lib_name"
 162-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:22:17-52
 163                android:value="" />
 163-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:23:17-33
-164
-165            <intent-filter>
-165-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:136:13-146:29
-166                <action android:name="android.intent.action.VIEW" />
-166-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:137:17-69
-166-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:137:25-66
-167
-168                <category android:name="android.intent.category.DEFAULT" />
-168-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:139:17-76
-168-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:139:27-73
-169                <category android:name="android.intent.category.BROWSABLE" />
-169-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:140:17-78
-169-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:140:27-75
-170
-171                <data
-171-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:142:17-145:46
-172                    android:host="www.electra.ae"
-172-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:143:21-50
-173                    android:path="/soso"
-173-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:144:21-41
-174                    android:scheme="https" />
-174-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:145:21-43
-175            </intent-filter>
-176        </activity>
+164        </activity>
+165        <activity
+165-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:136:9-154:20
+166            android:name="com.example.hackathon.MainActivity"
+166-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:137:13-41
+167            android:exported="true" >
+167-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:138:13-36
+168            <meta-data
+168-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:21:13-23:36
+169                android:name="android.app.lib_name"
+169-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:22:17-52
+170                android:value="" />
+170-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:23:17-33
+171
+172            <intent-filter>
+172-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:143:13-153:29
+173                <action android:name="android.intent.action.VIEW" />
+173-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:144:17-69
+173-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:144:25-66
+174
+175                <category android:name="android.intent.category.DEFAULT" />
+175-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:146:17-76
+175-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:146:27-73
+176                <category android:name="android.intent.category.BROWSABLE" />
+176-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:147:17-78
+176-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:147:27-75
 177
-178        <provider
-178-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kazem\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-179            android:name="androidx.startup.InitializationProvider"
-179-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kazem\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-180            android:authorities="com.example.hackathon.androidx-startup"
-180-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kazem\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-181            android:exported="false" >
-181-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kazem\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-182            <meta-data
-182-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kazem\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-183                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-183-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kazem\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-184                android:value="androidx.startup" />
-184-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kazem\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-185            <meta-data
-185-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\kazem\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-186                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-186-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\kazem\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-187                android:value="androidx.startup" />
-187-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\kazem\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-188        </provider>
-189
-190        <activity
-190-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\kazem\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:47:9-53:63
-191            android:name="com.journeyapps.barcodescanner.CaptureActivity"
-191-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\kazem\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:48:13-74
-192            android:clearTaskOnLaunch="true"
-192-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\kazem\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:49:13-45
-193            android:screenOrientation="sensorLandscape"
-193-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\kazem\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:50:13-56
-194            android:stateNotNeeded="true"
-194-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\kazem\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:51:13-42
-195            android:theme="@style/zxing_CaptureTheme"
-195-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\kazem\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:52:13-54
-196            android:windowSoftInputMode="stateAlwaysHidden" />
-196-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\kazem\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:53:13-60
-197
-198        <provider
-198-->[com.squareup.picasso:picasso:2.71828] C:\Users\kazem\.gradle\caches\transforms-3\4cd035b5e343be08009eaf44d4eb0472\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
-199            android:name="com.squareup.picasso.PicassoProvider"
-199-->[com.squareup.picasso:picasso:2.71828] C:\Users\kazem\.gradle\caches\transforms-3\4cd035b5e343be08009eaf44d4eb0472\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
-200            android:authorities="com.example.hackathon.com.squareup.picasso"
-200-->[com.squareup.picasso:picasso:2.71828] C:\Users\kazem\.gradle\caches\transforms-3\4cd035b5e343be08009eaf44d4eb0472\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
-201            android:exported="false" />
-201-->[com.squareup.picasso:picasso:2.71828] C:\Users\kazem\.gradle\caches\transforms-3\4cd035b5e343be08009eaf44d4eb0472\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
-202    </application>
-203
-204</manifest>
+178                <data
+178-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:149:17-152:46
+179                    android:host="www.electra.ae"
+179-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:150:21-50
+180                    android:path="/soso"
+180-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:151:21-41
+181                    android:scheme="https" />
+181-->C:\Users\kazem\Desktop\Bilal\42_Hub\Client\app\src\main\AndroidManifest.xml:152:21-43
+182            </intent-filter>
+183        </activity>
+184
+185        <provider
+185-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kazem\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+186            android:name="androidx.startup.InitializationProvider"
+186-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kazem\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+187            android:authorities="com.example.hackathon.androidx-startup"
+187-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kazem\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+188            android:exported="false" >
+188-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kazem\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+189            <meta-data
+189-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kazem\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+190                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+190-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kazem\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+191                android:value="androidx.startup" />
+191-->[androidx.emoji2:emoji2:1.2.0] C:\Users\kazem\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+192            <meta-data
+192-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\kazem\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+193                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+193-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\kazem\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+194                android:value="androidx.startup" />
+194-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\kazem\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+195        </provider>
+196
+197        <activity
+197-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\kazem\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:47:9-53:63
+198            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+198-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\kazem\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:48:13-74
+199            android:clearTaskOnLaunch="true"
+199-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\kazem\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:49:13-45
+200            android:screenOrientation="sensorLandscape"
+200-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\kazem\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:50:13-56
+201            android:stateNotNeeded="true"
+201-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\kazem\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:51:13-42
+202            android:theme="@style/zxing_CaptureTheme"
+202-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\kazem\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:52:13-54
+203            android:windowSoftInputMode="stateAlwaysHidden" />
+203-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\kazem\.gradle\caches\transforms-3\4e95dc70a1a7c91992dd2e25851c6c16\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:53:13-60
+204
+205        <provider
+205-->[com.squareup.picasso:picasso:2.71828] C:\Users\kazem\.gradle\caches\transforms-3\4cd035b5e343be08009eaf44d4eb0472\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+206            android:name="com.squareup.picasso.PicassoProvider"
+206-->[com.squareup.picasso:picasso:2.71828] C:\Users\kazem\.gradle\caches\transforms-3\4cd035b5e343be08009eaf44d4eb0472\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+207            android:authorities="com.example.hackathon.com.squareup.picasso"
+207-->[com.squareup.picasso:picasso:2.71828] C:\Users\kazem\.gradle\caches\transforms-3\4cd035b5e343be08009eaf44d4eb0472\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+208            android:exported="false" />
+208-->[com.squareup.picasso:picasso:2.71828] C:\Users\kazem\.gradle\caches\transforms-3\4cd035b5e343be08009eaf44d4eb0472\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+209    </application>
+210
+211</manifest>

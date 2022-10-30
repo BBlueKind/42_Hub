@@ -2701,6 +2701,7 @@ int drawable ic_tix 0x7f0700ca
 int drawable ic_whatsapp1 0x7f0700cb
 int drawable image12 0x7f0700cc
 int drawable loading 0x7f0700cd
+int drawable log_in 0x7f07012b
 int drawable m3_appbar_background 0x7f0700ce
 int drawable m3_popupmenu_background_overlay 0x7f0700cf
 int drawable m3_radiobutton_ripple 0x7f0700d0
@@ -3467,6 +3468,7 @@ int layout activity_footexpand 0x7f0b007e
 int layout activity_footywaiting 0x7f0b007f
 int layout activity_home 0x7f0b007d
 int layout activity_loading_screen 0x7f0b001d
+int layout activity_loginpage 0x7f0b0085
 int layout activity_main 0x7f0b001e
 int layout activity_movie 0x7f0b0080
 int layout activity_movie_feedback 0x7f0b0082

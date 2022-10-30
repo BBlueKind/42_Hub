@@ -33,7 +33,7 @@ class LoadingScreenActivity : AppCompatActivity() {
         crossfade()
 
         Handler().postDelayed({
-            val intent = Intent(this, food_boxview::class.java)
+            val intent = Intent(this, loginpage::class.java)
             startActivity(intent)
             overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out)
         },2000)
