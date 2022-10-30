@@ -1,654 +1,742 @@
 [
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_players.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\players.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_tix.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_tix.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_football.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\football.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_dashboard.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_dashboard.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_instagram.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_instagram.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.hackathon.app-merged_res-35:/drawable_events_food_feedback_box_view.png.flat",
+        "source": "com.example.hackathon.app-main-37:/drawable/events_food_feedback_box_view.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_cardss.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_cardss.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_food_dash.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_food_dash.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_instagram.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_instagram.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_bumpercar.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_bumpercar.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_student_dash_board.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_student_dash_board.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_reception.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_reception.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_cards2.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_cards2.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_booking.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_booking.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_food_icon.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\food_icon.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic__bdaycake.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic__bdaycake.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_food_icon.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\food_icon.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_reservations.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_reservations.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_facebook1.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_facebook1.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_slazzer.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\slazzer.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_slazzer.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\slazzer.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_booking.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_booking.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_people.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_people.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_instagram.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_instagram.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_whatsapp1.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_whatsapp1.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_events_movie.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\events_movie.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_whatsapp1.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_whatsapp1.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_fragment_q_r_scan.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\fragment_q_r_scan.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_locations.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_locations.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_footywaiting.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_footywaiting.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_booking.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_booking.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ellipse.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ellipse.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_menu2.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_menu2.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_baseline_toggleoff.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_baseline_toggleoff.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_cardadd.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_cardadd.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_tickets.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_tickets.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\menu_menu4.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\menu\\menu4.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_food_icon.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\food_icon.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_gallery.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_gallery.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_todays_food_student.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\todays_food_student.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_bilal.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\bilal.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_whatsapp1.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_whatsapp1.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_bday.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_bday.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_menu2.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_menu2.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_footexpand.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_footexpand.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_cardss.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_cardss.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_waiting_list.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\waiting_list.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_food_icon.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\food_icon.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_logout.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_locations.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_locations.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_bug.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_bug.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_classicarcades.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_classicarcades.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_facebook1.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_facebook1.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_booking.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_booking.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_events_movie_waiting.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\events_movie_waiting.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_reservations.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_reservations.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_whatsapp1.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_whatsapp1.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ravenclaw.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ravenclaw.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_locations.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_locations.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_facebook1.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_facebook1.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_whatsapp1.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_whatsapp1.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_cards2.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_cards2.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_qr1.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\qr1.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_facebook1.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_facebook1.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_offers.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_offers.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_football.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\football.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_cards2.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_cards2.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_reservations.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_reservations.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_facebook.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_facebook.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_coursel.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_coursel.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_rides.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_rides.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_cards2.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_cards2.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_cardss.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_cardss.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_instagram.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_instagram.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_test.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_test.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\menu_menu3.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\menu\\menu3.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_bday.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_bday.xml"
     },
     {
-        "merged": "com.example.hackathon.app-merged_res-35:/layout_activity_reception.xml.flat",
-        "source": "com.example.hackathon.app-main-37:/layout/activity_reception.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_checklist.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_checklist.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_reservations.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_reservations.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_bilal.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\bilal.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_instagram.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_instagram.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_dashboard.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_whatsapp1.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_whatsapp1.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_rides.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_rides.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_d.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\d.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_food_icon.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\food_icon.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_reservations.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_reservations.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_whatsapp1.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_whatsapp1.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_locations.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_locations.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_bg.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\bg.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_booking.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_booking.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_movie.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_movie.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_menu.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_menu.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_coursel.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_coursel.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_cardadd.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_cardadd.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_whatsapp1.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_whatsapp1.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_facebook1.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_facebook1.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_baseline_settings_applications.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_baseline_settings_applications.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_cardss.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_cardss.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_fragment_q_r_scan.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\fragment_q_r_scan.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_facebook.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_facebook.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\menu_menu.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\menu\\menu.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable__2ad_blacklogo.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\_2ad_blacklogo.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_cardss.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_cardss.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_footy.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\footy.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_custom_color3.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\custom_color3.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_locations.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_locations.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_ps4.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_ps4.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_cardadd.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_cardadd.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_people.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_people.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_bumpercar.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_bumpercar.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\menu_menu4.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\menu\\menu4.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_blob.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_blob.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_instagram.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_instagram.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_booking.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_booking.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_reception.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_reception.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_card_layout.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\card_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_reservations.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_reservations.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_cardadd.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_cardadd.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_qrimage.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\qrimage.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_contact.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_contact.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_cards2.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_cards2.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_instagram.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_instagram.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_test.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_test.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_baseline_history.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_baseline_history.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_food_icon.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\food_icon.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_cards2.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_cards2.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_cardadd.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_cardadd.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_test2.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\test2.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_button.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\button.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_card_layout.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\card_layout.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_calendar.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\calendar.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\menu\\menu.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_bg.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\bg.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_instagram.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_instagram.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_cards2.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_cards2.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_bumper2.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_bumper2.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_whatsapp1.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_whatsapp1.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_facebook1.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_facebook1.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_baseline_toggleon.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_baseline_toggleon.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_image12.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\image12.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_facebook1.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_facebook1.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_facebook1.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_facebook1.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic__bdaycake.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic__bdaycake.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_d.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\d.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic__offers.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic__offers.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_cardss.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_cardss.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_movie_waiting.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_movie_waiting.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_cardadd.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_cardadd.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_food_icon.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\food_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_facebook1.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_facebook1.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_locations.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_locations.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_loading_screen.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_loading_screen.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_custom_color5.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\custom_color5.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_custom_button.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\custom_button.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_settings.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_bell.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\bell.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_qrscanner_acitivty.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_qrscanner_acitivty.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable__4.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\_4.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_qrscanner_acitivty.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_qrscanner_acitivty.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_movie.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\movie.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_settings.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_settings.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_locations.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_locations.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_food_icon.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\food_icon.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_cardss.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_cardss.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_city.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_city.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_cards2.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_cards2.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_cardadd.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_cardadd.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_instagram.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_instagram.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_reservations.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_reservations.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_home.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_home.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_loading_screen.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_loading_screen.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_staff.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_staff.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_cards2.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_cards2.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_booking.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_booking.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_cardadd.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_cardadd.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_whatsapp1.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_whatsapp1.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_cardadd.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_cardadd.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_food_icon.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\food_icon.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\anim_fade_out.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\anim\\fade_out.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_cards2.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_cards2.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_custom_color4.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\custom_color4.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_bell.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\bell.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_whatsapp1.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_whatsapp1.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_cards2.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_cards2.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_cardadd.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_cardadd.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_baseline_toggleoff.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_baseline_toggleoff.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_reservations.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_reservations.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_cardss.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_cardss.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ravenclaw.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ravenclaw.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_tickets.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_tickets.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_home.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_food_icon.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\food_icon.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_movienightt.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\movienightt.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_offers.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_offers.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_instagram.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_instagram.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_play.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_play.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_custom_color4.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\custom_color4.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_cardadd.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_cardadd.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_calendar.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\calendar.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_booking.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_booking.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\menu_menu2.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\menu\\menu2.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_shop.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_shop.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_cardss.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_cardss.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_instagram.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_instagram.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_cardss.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_cardss.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\anim_fade_in.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\anim\\fade_in.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\custom_button.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_bug.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_bug.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_booking.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_booking.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_cardadd.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_cardadd.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_cards2.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_cards2.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_reservations.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_reservations.png"
+        "merged": "com.example.hackathon.app-merged_res-35:/layout_activity_food_boxview.xml.flat",
+        "source": "com.example.hackathon.app-main-37:/layout/activity_food_boxview.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_logout.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_logout.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_bgfooty.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\bgfooty.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_food_icon.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\food_icon.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_staff.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_staff.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_cardadd.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_cardadd.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_reservations.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_reservations.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_bumper2.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_bumper2.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_arcade.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_arcade.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable__2ad_blacklogo.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\_2ad_blacklogo.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_shop.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_shop.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_instagram.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_instagram.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_cafeteria.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_cafeteria.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_ps4.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_ps4.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_cardss.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_cardss.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_arcade.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_arcade.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\menu_menu5.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\menu\\menu5.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_play.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_facebook1.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_facebook1.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_whatsapp1.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_whatsapp1.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_reservations.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_reservations.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_cards2.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_cards2.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_baseline_history.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_baseline_history.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_reservations.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_reservations.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_custom_color3.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\custom_color3.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_instagram.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_instagram.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_facebook1.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_facebook1.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_baseline_search_24.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_baseline_search_24.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_whatsapp1.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_whatsapp1.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_cafeteria.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_cafeteria.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_classicarcades.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_classicarcades.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\anim\\fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\menu_menu2.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\menu\\menu2.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\menu_menu3.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\menu\\menu3.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_locations.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_locations.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_baseline_settings_applications.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_baseline_settings_applications.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_menu.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_menu.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_reservations.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_reservations.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_locations.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_locations.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_contact.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_contact.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_qrimage.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\qrimage.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic__offers.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic__offers.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_locations.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_locations.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_reservations.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_reservations.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_qr1.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\qr1.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_tix.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_tix.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\anim\\fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_events_movie_feedback_add.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\events_movie_feedback_add.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_cardss.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_cardss.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_food_icon.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\food_icon.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_booking.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_booking.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_facebook1.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_facebook1.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_booking.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_booking.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_food_icon.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\food_icon.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_image12.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\image12.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_movie_feedback.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_movie_feedback.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_custom_color5.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\custom_color5.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_cardss.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_cardss.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_food_icon.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\food_icon.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_events_football.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\events_football.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_baseline_card.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_baseline_card.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-mdpi_ic_locations.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-mdpi\\ic_locations.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_facebook1.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_facebook1.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_cardadd.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_cardadd.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_facebook1.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_facebook1.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_checklist.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_checklist.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_booking.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_booking.png"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_gallery.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_blob.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_blob.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_movie.png.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\movie.png"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_baseline_search_24.xml"
     },
     {
-        "merged": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_city.xml.flat",
-        "source": "C:\\Users\\Hheggy\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_city.xml"
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_cardss.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_cardss.png"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-anydpi-v24_ic_booking.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-anydpi-v24\\ic_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_locations.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_locations.png"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-ldpi_ic_locations.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-ldpi\\ic_locations.png"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxhdpi_ic_instagram.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxhdpi\\ic_instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\layout_activity_student_dash_board.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\layout\\activity_student_dash_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_test2.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\test2.png"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_whatsapp1.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_whatsapp1.png"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xhdpi_ic_locations.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xhdpi\\ic_locations.png"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\menu_menu5.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\menu\\menu5.xml"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_baseline_toggleon.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_baseline_toggleon.xml"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_events_football_waitinglist.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\events_football_waitinglist.png"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-xxxhdpi_ic_booking.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-xxxhdpi\\ic_booking.png"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable_ic_baseline_card.xml.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\drawable\\ic_baseline_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-merged_res-35:\\drawable-hdpi_ic_cards2.png.flat",
+        "source": "C:\\Users\\kazem\\.gradle\\daemon\\7.4\\com.example.hackathon.app-pngs-30:\\drawable-hdpi\\ic_cards2.png"
     }
 ]
